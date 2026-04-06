@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Momentum Mod Map Leaderboard Comparison</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🏁 Momentum Mod Map Leaderboard Comparison</h1>
+        </header>
+        
+        <div class="main-content">
+            <aside class="sidebar">
+                <div class="overall-score">
+                    <h2>🏆 Overall Score</h2>
+                    <div id="userComparison"></div>
+                    <div class="separator"></div>
+                    <div id="ties"></div>
+                    <div id="leader"></div>
+                </div>
+                
+                <div class="search-section">
+                    <input type="text" id="searchInput" placeholder="🔍 Search maps..." />
+                </div>
+            </aside>
+            
+            <main class="maps-container">
+                <div class="tier-filter-buttons">
+                    <button class="tier-btn active" data-tier="all">🎯 All Tiers</button>
+                    <button class="tier-btn" data-tier="1">🟢 Tier 1</button>
+                    <button class="tier-btn" data-tier="2">🟡 Tier 2</button>
+                    <button class="tier-btn" data-tier="3">🔴 Tier 3</button>
+                </div>
+                
+                <div class="progress-container" id="progressContainer" style="display: none;">
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="progressFill"></div>
+                    </div>
+                    <div class="progress-text" id="progressText">Initializing...</div>
+                </div>
+                
+                <div id="mapsList"></div>
+                <div id="noResults" class="no-results" style="display: none;">
+                    <p>No maps found matching your search.</p>
+                </div>
+            </main>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
