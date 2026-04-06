@@ -327,14 +327,15 @@ class LeaderboardComparison {
         const uniqueCompletions = map.map.unique_completions || 0;
         const tier = map.map.tier;
         
-        // Determine winner and loser (only if both users completed)
         let aroundUserClass = '';
         let friendsUserClass = '';
         let timeDifference = null;
         
+        // Logic to determine winner/loser and calculate difference
         if (aroundUser && friendsUser && 
             aroundUser.time !== null && friendsUser.time !== null &&
             aroundUser.time !== undefined && friendsUser.time !== undefined) {
+            
             if (aroundUser.time < friendsUser.time) {
                 aroundUserClass = 'winner';
                 friendsUserClass = 'loser';
@@ -343,15 +344,11 @@ class LeaderboardComparison {
                 friendsUserClass = 'winner';
                 aroundUserClass = 'loser';
                 timeDifference = aroundUser.time - friendsUser.time;
-            } else {
-                ties++;
             }
         }
         
-        // Use larger image if available, otherwise use small thumbnail
         const imageUrl = map.map.image || map.map.thumbnail || '';
         
-        // Create tier display
         let tierDisplay = '';
         if (tier !== null && tier !== undefined) {
             const tierColor = tier === 1 ? '#4CAF50' : tier === 2 ? '#FFC107' : '#F44336';
@@ -369,8 +366,8 @@ class LeaderboardComparison {
                 </div>
                 
                 <div class="user-comparison">
-                    ${aroundUser ? this.renderUserCard(aroundUser, uniqueCompletions, aroundUserClass, timeDifference) : this.renderEmptyUserCard('around')}
-                    ${friendsUser ? this.renderUserCard(friendsUser, uniqueCompletions, friendsUserClass, timeDifference) : this.renderEmptyUserCard('friends')}
+                    ${aroundUser ? this.renderUserCard(aroundUser, uniqueCompletions, aroundUserClass, aroundUserClass === 'loser' ? timeDifference : null) : this.renderEmptyUserCard('around')}
+                    ${friendsUser ? this.renderUserCard(friendsUser, uniqueCompletions, friendsUserClass, friendsUserClass === 'loser' ? timeDifference : null) : this.renderEmptyUserCard('friends')}
                 </div>
             </div>
         `;
