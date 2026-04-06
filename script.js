@@ -191,7 +191,7 @@ class LeaderboardComparison {
         if (this.leaderboardData.metadata && this.leaderboardData.metadata.fetch_date) {
             const fetchDate = new Date(this.leaderboardData.metadata.fetch_date);
             const formattedDate = fetchDate.toLocaleDateString() + ' ' + fetchDate.toLocaleTimeString();
-            fetchDateHTML = `<div class="fetch-date">📅 Last updated: ${formattedDate}</div>`;
+            fetchDateHTML = `<div class="fetch-date">Updated: ${formattedDate}</div>`;
         }
 
         // Render user comparison (only if users exist)
@@ -408,10 +408,14 @@ class LeaderboardComparison {
         }
         
         const minutes = Math.floor(timeSeconds / 60);
-        const seconds = timeSeconds % 60;
-        const milliseconds = (timeSeconds % 1).toFixed(3).padStart(3, '0').substring(2);
+        const seconds = (timeSeconds % 60).toFixed(2);
+        const [wholeSeconds, milliseconds] = seconds.split('.');
         
-        return `${minutes}:${seconds}.${milliseconds}`;
+        // Ensure seconds are padded to 2 digits and milliseconds to 2 digits
+        const paddedSeconds = wholeSeconds.padStart(2, '0');
+        const paddedMilliseconds = milliseconds.padEnd(2, '0').substring(0, 2);
+        
+        return `${minutes}:${paddedSeconds}.${paddedMilliseconds}`;
     }
 
     showError(message) {
