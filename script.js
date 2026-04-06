@@ -407,8 +407,11 @@ class LeaderboardComparison {
             return '--:---';
         }
         
-        const minutes = Math.floor(timeSeconds / 60);
-        const seconds = (timeSeconds % 60).toFixed(2);
+        // Round to 2 decimal places first to eliminate floating point precision issues
+        const roundedTime = Math.round(timeSeconds * 100) / 100;
+        
+        const minutes = Math.floor(roundedTime / 60);
+        const seconds = (roundedTime % 60).toFixed(2);
         const [wholeSeconds, milliseconds] = seconds.split('.');
         
         // Ensure seconds are padded to 2 digits and milliseconds to 2 digits
