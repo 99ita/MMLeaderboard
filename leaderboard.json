@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "fetch_date": "2026-04-06T22:02:42.859108",
+    "fetch_date": "2026-04-06T22:25:35.563883",
     "tier_filter": "all",
     "total_maps": 177,
     "successful_maps": 177,
     "failed_maps": 0,
     "success_rate": "100.0%",
-    "request_id": "ec40fc28"
+    "request_id": "1f700f59"
   },
   "maps": [
     {
@@ -15,13 +15,13 @@
         "name": "surf_zenith",
         "thumbnail": "https://cdn.momentum-mod.org/img/28a349f7-32ad-43b0-9596-00b71b56340c-small.jpg",
         "tier": 2,
-        "unique_completions": 1126
+        "unique_completions": 1127
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "friends",
-            "time": 51.34499885234982,
+            "time": 51.34,
             "rank": 224,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -41,13 +41,13 @@
         "name": "surf_forgotten",
         "thumbnail": "https://cdn.momentum-mod.org/img/82870791-ae4d-4378-802b-a3c050c0a71f-small.jpg",
         "tier": 1,
-        "unique_completions": 3419
+        "unique_completions": 3420
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "around",
-            "time": 42.61499904748052,
+            "time": 42.61,
             "rank": 178,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -60,8 +60,8 @@
           },
           {
             "filter_type": "friends",
-            "time": 50.6399988681078,
-            "rank": 399,
+            "time": 50.64,
+            "rank": 400,
             "userID": 55340,
             "steamID": "76561197998679152",
             "alias": "Francis",
@@ -80,13 +80,13 @@
         "name": "surf_milkyway",
         "thumbnail": "https://cdn.momentum-mod.org/img/a7729bb1-f793-45e4-a706-52870a942af5-small.jpg",
         "tier": 3,
-        "unique_completions": 350
+        "unique_completions": 351
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "friends",
-            "time": 64.30499856267124,
+            "time": 64.3,
             "rank": 84,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -112,7 +112,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 1272.794971550815,
+            "time": 1272.79,
             "rank": 264,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -125,7 +125,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 91.2299979608506,
+            "time": 91.23,
             "rank": 88,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -145,13 +145,13 @@
         "name": "surf_deathstar",
         "thumbnail": "https://cdn.momentum-mod.org/img/cd13f334-f533-495c-9ef9-9c9cb7945c82-small.jpg",
         "tier": 1,
-        "unique_completions": 6336
+        "unique_completions": 6340
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "around",
-            "time": 44.51999900490046,
+            "time": 44.52,
             "rank": 765,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -164,7 +164,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 30.47999931871891,
+            "time": 30.48,
             "rank": 68,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -184,13 +184,13 @@
         "name": "surf_deoa",
         "thumbnail": "https://cdn.momentum-mod.org/img/9be7acad-155c-47a2-b154-0e0b927afcdd-small.jpg",
         "tier": 1,
-        "unique_completions": 2748
+        "unique_completions": 2749
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "around",
-            "time": 85.42499809060246,
+            "time": 85.42,
             "rank": 125,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -203,8 +203,8 @@
           },
           {
             "filter_type": "friends",
-            "time": 92.57999793067575,
-            "rank": 286,
+            "time": 92.58,
+            "rank": 287,
             "userID": 55340,
             "steamID": "76561197998679152",
             "alias": "Francis",
@@ -229,7 +229,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 57.2999987192452,
+            "time": 57.3,
             "rank": 403,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -242,7 +242,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 56.18999874405563,
+            "time": 56.19,
             "rank": 314,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -268,7 +268,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 39.13499912526459,
+            "time": 39.13,
             "rank": 259,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -281,7 +281,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 37.48499916214496,
+            "time": 37.48,
             "rank": 139,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -319,7 +319,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 48.38999891839921,
+            "time": 48.39,
             "rank": 484,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -332,7 +332,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 46.64999895729125,
+            "time": 46.65,
             "rank": 346,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -364,13 +364,13 @@
         "name": "surf_agony",
         "thumbnail": "https://cdn.momentum-mod.org/img/0a59ed21-b011-428c-9e2c-71a8b6f0894d-small.jpg",
         "tier": 2,
-        "unique_completions": 1568
+        "unique_completions": 1570
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "around",
-            "time": 54.20999878831208,
+            "time": 54.21,
             "rank": 148,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -383,7 +383,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 48.2549989214167,
+            "time": 48.25,
             "rank": 95,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -403,14 +403,14 @@
         "name": "surf_ing",
         "thumbnail": "https://cdn.momentum-mod.org/img/088ced23-bdd1-4b0c-8168-0c144e004165-small.jpg",
         "tier": 2,
-        "unique_completions": 1453
+        "unique_completions": 1455
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "friends",
-            "time": 113.80499745626,
-            "rank": 436,
+            "time": 113.8,
+            "rank": 437,
             "userID": 55340,
             "steamID": "76561197998679152",
             "alias": "Francis",
@@ -435,7 +435,7 @@
         "users": [
           {
             "filter_type": "friends",
-            "time": 109.8449975447729,
+            "time": 109.84,
             "rank": 221,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -455,13 +455,13 @@
         "name": "surf_trance",
         "thumbnail": "https://cdn.momentum-mod.org/img/df12ad93-8841-4a41-92e4-16d8ff49815c-small.jpg",
         "tier": 1,
-        "unique_completions": 2889
+        "unique_completions": 2891
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "around",
-            "time": 52.79999881982803,
+            "time": 52.8,
             "rank": 243,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -474,7 +474,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 52.5899988245219,
+            "time": 52.59,
             "rank": 237,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -512,7 +512,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 33.40499925334007,
+            "time": 33.4,
             "rank": 135,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -525,7 +525,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 35.15999921411276,
+            "time": 35.16,
             "rank": 231,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -551,7 +551,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 43.46999902836978,
+            "time": 43.47,
             "rank": 761,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -564,7 +564,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 42.04499906022102,
+            "time": 42.04,
             "rank": 551,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -590,7 +590,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 23.48999947495759,
+            "time": 23.49,
             "rank": 100,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -603,7 +603,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 25.72499942500144,
+            "time": 25.72,
             "rank": 244,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -629,7 +629,7 @@
         "users": [
           {
             "filter_type": "friends",
-            "time": 70.01999843493104,
+            "time": 70.02,
             "rank": 331,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -649,13 +649,13 @@
         "name": "surf_ravine",
         "thumbnail": "https://cdn.momentum-mod.org/img/af5d96af-8307-4495-8c4b-60f06bdf3abd-small.jpg",
         "tier": 2,
-        "unique_completions": 4638
+        "unique_completions": 4639
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "friends",
-            "time": 57.40499871689826,
+            "time": 57.4,
             "rank": 752,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -681,7 +681,7 @@
         "users": [
           {
             "filter_type": "friends",
-            "time": 69.67499844264239,
+            "time": 69.67,
             "rank": 298,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -707,7 +707,7 @@
         "users": [
           {
             "filter_type": "friends",
-            "time": 272.7149939043447,
+            "time": 272.71,
             "rank": 203,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -733,7 +733,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 91.21499796118587,
+            "time": 91.21,
             "rank": 1201,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -746,7 +746,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 61.60499862302095,
+            "time": 61.6,
             "rank": 784,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -820,7 +820,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 183.4049959005788,
+            "time": 183.4,
             "rank": 770,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -833,7 +833,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 253.6799943298101,
+            "time": 253.68,
             "rank": 935,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -853,7 +853,7 @@
         "name": "surf_interference",
         "thumbnail": "https://cdn.momentum-mod.org/img/5940bd42-7d7f-4569-9fa9-bac325fb6713-small.jpg",
         "tier": 2,
-        "unique_completions": 1197
+        "unique_completions": 1198
       },
       "leaderboard": {
         "users": []
@@ -895,7 +895,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 166.7699962724,
+            "time": 166.77,
             "rank": 696,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -908,7 +908,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 129.9149970961735,
+            "time": 129.91,
             "rank": 345,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -1054,7 +1054,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 131.2649970659986,
+            "time": 131.26,
             "rank": 1230,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -1067,7 +1067,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 121.8149972772226,
+            "time": 121.81,
             "rank": 1047,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -1087,13 +1087,13 @@
         "name": "surf_aura",
         "thumbnail": "https://cdn.momentum-mod.org/img/2801e176-5d23-4356-b514-1a638209ecfb-small.jpg",
         "tier": 1,
-        "unique_completions": 8143
+        "unique_completions": 8144
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "around",
-            "time": 127.4249971518293,
+            "time": 127.42,
             "rank": 1434,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -1106,7 +1106,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 85.01999809965491,
+            "time": 85.02,
             "rank": 475,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -1138,13 +1138,13 @@
         "name": "surf_rebel_scaz",
         "thumbnail": "https://cdn.momentum-mod.org/img/d27870dd-4dd9-492f-aced-9c3053c4c9cb-small.jpg",
         "tier": 1,
-        "unique_completions": 12292
+        "unique_completions": 12293
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "around",
-            "time": 23.90999946556985,
+            "time": 23.91,
             "rank": 283,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -1157,7 +1157,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 23.42999947629869,
+            "time": 23.43,
             "rank": 143,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -1183,7 +1183,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 158.3549964604899,
+            "time": 158.35,
             "rank": 174,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -1196,7 +1196,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 110.7599975243211,
+            "time": 110.76,
             "rank": 73,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -1282,7 +1282,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 48.59999891370535,
+            "time": 48.6,
             "rank": 298,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -1295,7 +1295,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 53.45999880507588,
+            "time": 53.46,
             "rank": 638,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -1393,7 +1393,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 69.38999844901264,
+            "time": 69.39,
             "rank": 199,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -1406,7 +1406,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 70.01999843493104,
+            "time": 70.02,
             "rank": 261,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -1438,14 +1438,14 @@
         "name": "surf_andromeda",
         "thumbnail": "https://cdn.momentum-mod.org/img/344c10df-f7f0-4bcb-a390-688c252e428f-small.jpg",
         "tier": 1,
-        "unique_completions": 17758
+        "unique_completions": 17762
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "around",
-            "time": 39.6449991138652,
-            "rank": 1927,
+            "time": 39.64,
+            "rank": 1928,
             "userID": 45868,
             "steamID": "76561198330263258",
             "alias": "ita.34",
@@ -1457,7 +1457,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 36.80999917723238,
+            "time": 36.81,
             "rank": 1016,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -1483,7 +1483,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 139.6499968785793,
+            "time": 139.65,
             "rank": 127,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -1496,7 +1496,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 143.3699967954308,
+            "time": 143.37,
             "rank": 173,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -1570,7 +1570,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 71.78999839536846,
+            "time": 71.79,
             "rank": 84,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -1583,7 +1583,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 78.44999824650586,
+            "time": 78.45,
             "rank": 176,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -1825,7 +1825,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 66.34499851707369,
+            "time": 66.34,
             "rank": 498,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -1845,7 +1845,7 @@
         "name": "surf_whatever",
         "thumbnail": "https://cdn.momentum-mod.org/img/57cc2441-cdb2-4b30-83d0-02798c9597e8-small.jpg",
         "tier": 2,
-        "unique_completions": 1532
+        "unique_completions": 1533
       },
       "leaderboard": {
         "users": []
@@ -1881,14 +1881,14 @@
         "name": "surf_hourglass",
         "thumbnail": "https://cdn.momentum-mod.org/img/0e314411-8a29-4df3-a167-d532f829e928-small.jpg",
         "tier": 1,
-        "unique_completions": 9435
+        "unique_completions": 9436
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "around",
-            "time": 42.32999905385077,
-            "rank": 513,
+            "time": 42.33,
+            "rank": 514,
             "userID": 45868,
             "steamID": "76561198330263258",
             "alias": "ita.34",
@@ -1900,8 +1900,8 @@
           },
           {
             "filter_type": "friends",
-            "time": 42.61499904748052,
-            "rank": 585,
+            "time": 42.61,
+            "rank": 586,
             "userID": 55340,
             "steamID": "76561197998679152",
             "alias": "Francis",
@@ -1974,7 +1974,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 84.14999811910093,
+            "time": 84.15,
             "rank": 1306,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -1987,7 +1987,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 49.36499889660627,
+            "time": 49.36,
             "rank": 274,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -2013,7 +2013,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 36.64499918092042,
+            "time": 36.64,
             "rank": 482,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -2026,7 +2026,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 38.39999914169312,
+            "time": 38.4,
             "rank": 790,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -2070,13 +2070,13 @@
         "name": "surf_school",
         "thumbnail": "https://cdn.momentum-mod.org/img/8f193eb9-1248-450e-adb4-35d3106a5c34-small.jpg",
         "tier": 1,
-        "unique_completions": 3840
+        "unique_completions": 3841
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "around",
-            "time": 79.2899982277304,
+            "time": 79.29,
             "rank": 281,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -2089,7 +2089,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 86.36999806948006,
+            "time": 86.37,
             "rank": 345,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -2157,13 +2157,13 @@
         "name": "surf_void",
         "thumbnail": "https://cdn.momentum-mod.org/img/bc204330-6122-4fa3-aacd-2779ef19712d-small.jpg",
         "tier": 1,
-        "unique_completions": 8372
+        "unique_completions": 8373
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "around",
-            "time": 47.21999894455075,
+            "time": 47.22,
             "rank": 1893,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -2176,7 +2176,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 44.21999901160598,
+            "time": 44.22,
             "rank": 865,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -2202,7 +2202,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 55.00499877054244,
+            "time": 55.0,
             "rank": 518,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -2215,7 +2215,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 56.11499874573201,
+            "time": 56.11,
             "rank": 773,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -2253,7 +2253,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 103.5449976855889,
+            "time": 103.54,
             "rank": 579,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -2266,7 +2266,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 99.10499778483063,
+            "time": 99.1,
             "rank": 451,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -2424,7 +2424,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 111.3899975102395,
+            "time": 111.39,
             "rank": 1804,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -2437,7 +2437,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 74.15999834239483,
+            "time": 74.16,
             "rank": 956,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -2475,7 +2475,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 47.2499989438802,
+            "time": 47.25,
             "rank": 214,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -2488,7 +2488,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 50.2049988778308,
+            "time": 50.2,
             "rank": 543,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -2544,13 +2544,13 @@
         "name": "surf_garden_h",
         "thumbnail": "https://cdn.momentum-mod.org/img/12270832-ca96-44c6-8206-329fb7ed31e3-small.jpg",
         "tier": 6,
-        "unique_completions": 9953
+        "unique_completions": 9958
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "around",
-            "time": 87.97499803360552,
+            "time": 87.97,
             "rank": 472,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -2563,7 +2563,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 89.75999799370766,
+            "time": 89.76,
             "rank": 741,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -2607,13 +2607,13 @@
         "name": "surf_minuet",
         "thumbnail": "https://cdn.momentum-mod.org/img/35a6d692-8f90-4163-86e9-bb8081d1bdd4-small.jpg",
         "tier": 1,
-        "unique_completions": 8471
+        "unique_completions": 8472
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "around",
-            "time": 46.43999896198511,
+            "time": 46.44,
             "rank": 743,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -2626,7 +2626,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 47.05499894823879,
+            "time": 47.05,
             "rank": 853,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -2694,7 +2694,7 @@
         "name": "surf_prevail",
         "thumbnail": "https://cdn.momentum-mod.org/img/214bd3af-1525-4ba8-9a2b-cb6e46b30467-small.jpg",
         "tier": 3,
-        "unique_completions": 1125
+        "unique_completions": 1126
       },
       "leaderboard": {
         "users": []
@@ -2736,7 +2736,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 42.76499904412776,
+            "time": 42.76,
             "rank": 3489,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -2749,7 +2749,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 40.30499909911305,
+            "time": 40.3,
             "rank": 1902,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -2787,7 +2787,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 455.714989813976,
+            "time": 455.71,
             "rank": 700,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -2800,7 +2800,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 133.8899970073253,
+            "time": 133.89,
             "rank": 157,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -2838,7 +2838,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 40.81499908771366,
+            "time": 40.81,
             "rank": 745,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -2851,7 +2851,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 38.3249991433695,
+            "time": 38.32,
             "rank": 377,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -2925,7 +2925,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 50.17499887850136,
+            "time": 50.17,
             "rank": 1855,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -2938,7 +2938,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 49.58999889157712,
+            "time": 49.59,
             "rank": 1662,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -2958,13 +2958,13 @@
         "name": "surf_ace",
         "thumbnail": "https://cdn.momentum-mod.org/img/a078c8a5-9847-43e6-9846-d581ae392225-small.jpg",
         "tier": 1,
-        "unique_completions": 16499
+        "unique_completions": 16500
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "around",
-            "time": 52.01999883726239,
+            "time": 52.02,
             "rank": 1814,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -2977,7 +2977,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 56.06999874673784,
+            "time": 56.07,
             "rank": 2721,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -3009,13 +3009,13 @@
         "name": "surf_reytx",
         "thumbnail": "https://cdn.momentum-mod.org/img/3fc4441e-67e7-41c2-b2a5-37ab7c6d86f3-small.jpg",
         "tier": 1,
-        "unique_completions": 14916
+        "unique_completions": 14917
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "around",
-            "time": 52.79999881982803,
+            "time": 52.8,
             "rank": 668,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -3028,7 +3028,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 53.02499881479889,
+            "time": 53.02,
             "rank": 756,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -3084,14 +3084,14 @@
         "name": "surf_mesa_revo",
         "thumbnail": "https://cdn.momentum-mod.org/img/f65cce9c-abaf-40ac-bc4c-da8881e3167a-small.jpg",
         "tier": 1,
-        "unique_completions": 23788
+        "unique_completions": 23789
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "around",
-            "time": 52.61999882385135,
-            "rank": 968,
+            "time": 52.62,
+            "rank": 969,
             "userID": 45868,
             "steamID": "76561198330263258",
             "alias": "ita.34",
@@ -3103,8 +3103,8 @@
           },
           {
             "filter_type": "friends",
-            "time": 55.8599987514317,
-            "rank": 2749,
+            "time": 55.86,
+            "rank": 2750,
             "userID": 55340,
             "steamID": "76561197998679152",
             "alias": "Francis",
@@ -3135,13 +3135,13 @@
         "name": "surf_santorini",
         "thumbnail": "https://cdn.momentum-mod.org/img/074ae4da-cc1c-4890-9b50-50c65264b405-small.jpg",
         "tier": 1,
-        "unique_completions": 19322
+        "unique_completions": 19324
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "around",
-            "time": 66.50999851338565,
+            "time": 66.51,
             "rank": 677,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -3154,7 +3154,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 68.15999847650528,
+            "time": 68.16,
             "rank": 1041,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -3204,7 +3204,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 59.60999866761267,
+            "time": 59.61,
             "rank": 715,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -3217,7 +3217,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 237.38999469392,
+            "time": 237.39,
             "rank": 4689,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -3267,7 +3267,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 72.5099983792752,
+            "time": 72.51,
             "rank": 611,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -3280,7 +3280,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 77.57999826595187,
+            "time": 77.58,
             "rank": 1504,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -3300,7 +3300,7 @@
         "name": "surf_ivory",
         "thumbnail": "https://cdn.momentum-mod.org/img/9b7e8414-04c3-45be-8ab2-afbc755c4434-small.jpg",
         "tier": 2,
-        "unique_completions": 2554
+        "unique_completions": 2557
       },
       "leaderboard": {
         "users": []
@@ -3336,13 +3336,13 @@
         "name": "surf_utopia",
         "thumbnail": "https://cdn.momentum-mod.org/img/f39eeaff-ecca-408d-8fa3-c946141dd83d-small.jpg",
         "tier": 1,
-        "unique_completions": 44118
+        "unique_completions": 44120
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "around",
-            "time": 59.51999866962433,
+            "time": 59.52,
             "rank": 3568,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -3355,7 +3355,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 60.49499864783138,
+            "time": 60.49,
             "rank": 4448,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -3393,7 +3393,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 45.34499898646027,
+            "time": 45.34,
             "rank": 1371,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -3406,7 +3406,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 45.74999897740781,
+            "time": 45.75,
             "rank": 1644,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -3426,13 +3426,13 @@
         "name": "surf_sofia",
         "thumbnail": "https://cdn.momentum-mod.org/img/f35d49c7-1718-4f1b-b06a-13590c149158-small.jpg",
         "tier": 1,
-        "unique_completions": 26346
+        "unique_completions": 26347
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "around",
-            "time": 44.39999900758266,
+            "time": 44.4,
             "rank": 927,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -3445,7 +3445,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 45.74999897740781,
+            "time": 45.75,
             "rank": 1415,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -3495,7 +3495,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 50.21999887749553,
+            "time": 50.22,
             "rank": 1863,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -3508,7 +3508,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 50.54999887011945,
+            "time": 50.55,
             "rank": 2089,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -3534,7 +3534,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 113.7449974576011,
+            "time": 113.74,
             "rank": 2025,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -3547,7 +3547,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 160.1849964195862,
+            "time": 160.18,
             "rank": 3521,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -3573,7 +3573,7 @@
         "users": [
           {
             "filter_type": "friends",
-            "time": 52.16999883390963,
+            "time": 52.17,
             "rank": 1029,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -3605,13 +3605,13 @@
         "name": "surf_boreas",
         "thumbnail": "https://cdn.momentum-mod.org/img/388b7796-41fc-4a8c-9d7b-5e86398e88ad-small.jpg",
         "tier": 1,
-        "unique_completions": 81644
+        "unique_completions": 81652
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "around",
-            "time": 42.55499904882163,
+            "time": 42.55,
             "rank": 2977,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -3624,7 +3624,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 42.85499904211611,
+            "time": 42.85,
             "rank": 3346,
             "userID": 55340,
             "steamID": "76561197998679152",
@@ -3650,7 +3650,7 @@
         "users": [
           {
             "filter_type": "around",
-            "time": 70.60499842185527,
+            "time": 70.6,
             "rank": 2092,
             "userID": 45868,
             "steamID": "76561198330263258",
@@ -3663,7 +3663,7 @@
           },
           {
             "filter_type": "friends",
-            "time": 71.02499841246754,
+            "time": 71.02,
             "rank": 2184,
             "userID": 55340,
             "steamID": "76561197998679152",
