@@ -1,673 +1,49 @@
 {
   "metadata": {
-    "fetch_date": "2026-04-07T16:16:02.037172",
+    "fetch_date": "2026-04-07T16:49:14.766261",
     "tier_filter": "all",
     "total_maps": 177,
     "successful_maps": 177,
     "failed_maps": 0,
     "success_rate": "100.0%",
-    "request_id": "bd32753e"
+    "request_id": "7dc8c5e0"
   },
   "maps": [
     {
       "map": {
-        "id": 805,
-        "name": "surf_trance",
-        "thumbnail": "https://cdn.momentum-mod.org/img/df12ad93-8841-4a41-92e4-16d8ff49815c-small.jpg",
+        "id": 1026,
+        "name": "surf_void",
+        "thumbnail": "https://cdn.momentum-mod.org/img/bc204330-6122-4fa3-aacd-2779ef19712d-small.jpg",
         "tier": 1,
-        "unique_completions": 2931
+        "unique_completions": 8385
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "around",
-            "time": 52.79999881982803,
-            "rank": 244,
+            "time": 47.21999894455075,
+            "rank": 1898,
             "userID": 45868,
             "steamID": "76561198330263258",
             "alias": "ita.34",
             "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
             "country": "PT",
-            "createdAt": "2026-04-06T15:39:47.438Z",
-            "replayHash": "df37e02bc0af32697f922afce79ac5633d16b340",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/df37e02bc0af32697f922afce79ac5633d16b340"
+            "createdAt": "2026-03-30T16:59:56.974Z",
+            "replayHash": "a4d7367e3166422c29c07ac4d5522123d5c97674",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/a4d7367e3166422c29c07ac4d5522123d5c97674"
           },
           {
             "filter_type": "friends",
-            "time": 52.5899988245219,
-            "rank": 238,
+            "time": 44.21999901160598,
+            "rank": 866,
             "userID": 55340,
             "steamID": "76561197998679152",
             "alias": "Francis",
             "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
             "country": "PT",
-            "createdAt": "2026-03-20T20:31:33.236Z",
-            "replayHash": "62723abc1803ed42d133c9e6902b6d9f4e691ef3",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/62723abc1803ed42d133c9e6902b6d9f4e691ef3"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 1132,
-        "name": "surf_calycate2",
-        "thumbnail": "https://cdn.momentum-mod.org/img/65df1924-60b2-449f-a3e2-b77be49c4297-small.jpg",
-        "tier": 1,
-        "unique_completions": 3236
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 57.2999987192452,
-            "rank": 412,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-30T15:09:18.359Z",
-            "replayHash": "df358172dbbe36564b1d991ae5270204e68a22db",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/df358172dbbe36564b1d991ae5270204e68a22db"
-          },
-          {
-            "filter_type": "friends",
-            "time": 56.18999874405563,
-            "rank": 318,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-25T22:57:20.958Z",
-            "replayHash": "324d0a444e16432cb368c533b2bfcfcec409b1a0",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/324d0a444e16432cb368c533b2bfcfcec409b1a0"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 1239,
-        "name": "surf_race",
-        "thumbnail": "https://cdn.momentum-mod.org/img/46a19c66-b549-4839-afba-b5cf94c3ef15-small.jpg",
-        "tier": 1,
-        "unique_completions": 6043
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 91.21499796118587,
-            "rank": 1212,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-30T16:40:36.129Z",
-            "replayHash": "f338381b32ac4704d7b72129e15812e9d7263798",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/f338381b32ac4704d7b72129e15812e9d7263798"
-          },
-          {
-            "filter_type": "friends",
-            "time": 61.60499862302095,
-            "rank": 790,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-20T00:05:49.136Z",
-            "replayHash": "325a6ac4848e9baf3261209909841d0dfc0f7e55",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/325a6ac4848e9baf3261209909841d0dfc0f7e55"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 1283,
-        "name": "surf_themeless",
-        "thumbnail": "https://cdn.momentum-mod.org/img/680e408c-97a9-405d-ba38-27573c96ea74-small.jpg",
-        "tier": 1,
-        "unique_completions": 6386
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 49.03499890398234,
-            "rank": 242,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-06T22:57:07.080Z",
-            "replayHash": "3dd3a2cb5cacf6df14ac91fedc7c8a1aff31a03e",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/3dd3a2cb5cacf6df14ac91fedc7c8a1aff31a03e"
-          },
-          {
-            "filter_type": "friends",
-            "time": 49.36499889660627,
-            "rank": 276,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-04T13:34:29.395Z",
-            "replayHash": "3fe378750d385bc3670e3906acce6520dc384b6b",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/3fe378750d385bc3670e3906acce6520dc384b6b"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 1222,
-        "name": "surf_school",
-        "thumbnail": "https://cdn.momentum-mod.org/img/8f193eb9-1248-450e-adb4-35d3106a5c34-small.jpg",
-        "tier": 1,
-        "unique_completions": 3854
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 79.2899982277304,
-            "rank": 282,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-26T22:44:28.785Z",
-            "replayHash": "0904ea3a70f6c25a0b8babd9eb6f41d295b5c0f0",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/0904ea3a70f6c25a0b8babd9eb6f41d295b5c0f0"
-          },
-          {
-            "filter_type": "friends",
-            "time": 86.36999806948006,
-            "rank": 346,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-25T22:48:56.562Z",
-            "replayHash": "1c6d8df66a838a8a02535bfd204d14bce01e710a",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/1c6d8df66a838a8a02535bfd204d14bce01e710a"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 1134,
-        "name": "surf_deoa",
-        "thumbnail": "https://cdn.momentum-mod.org/img/9be7acad-155c-47a2-b154-0e0b927afcdd-small.jpg",
-        "tier": 1,
-        "unique_completions": 2786
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 85.42499809060246,
-            "rank": 126,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-26T22:31:21.028Z",
-            "replayHash": "b2e45149082a2eca84d05afe367800c5f315329d",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/b2e45149082a2eca84d05afe367800c5f315329d"
-          },
-          {
-            "filter_type": "friends",
-            "time": 92.57999793067575,
-            "rank": 290,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-26T22:27:03.669Z",
-            "replayHash": "e3a1fd44470f21df6c92b7ee13107cf51ec80ad0",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/e3a1fd44470f21df6c92b7ee13107cf51ec80ad0"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 270,
-        "name": "surf_n_turf",
-        "thumbnail": "https://cdn.momentum-mod.org/img/f5962e57-1f13-4c8d-8c80-114d2068ecb7-small.jpg",
-        "tier": 1,
-        "unique_completions": 5195
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 69.38999844901264,
-            "rank": 199,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-29T23:56:43.675Z",
-            "replayHash": "6f899ef534d802c3a1ec7d86af7df2516243ff48",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/6f899ef534d802c3a1ec7d86af7df2516243ff48"
-          },
-          {
-            "filter_type": "friends",
-            "time": 70.01999843493104,
-            "rank": 261,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-29T23:57:35.716Z",
-            "replayHash": "220a784a5471129ec0e833496b17ba3d33199067",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/220a784a5471129ec0e833496b17ba3d33199067"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 898,
-        "name": "surf_lux",
-        "thumbnail": "https://cdn.momentum-mod.org/img/ed67b34d-c48e-4c66-b49e-81c59f66b7c6-small.jpg",
-        "tier": 1,
-        "unique_completions": 8710
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 36.64499918092042,
-            "rank": 483,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2025-12-27T04:13:56.655Z",
-            "replayHash": "57ffcb4127a1b57417938db7108ee25cfee61655",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/57ffcb4127a1b57417938db7108ee25cfee61655"
-          },
-          {
-            "filter_type": "friends",
-            "time": 38.39999914169312,
-            "rank": 793,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-23T23:06:33.278Z",
-            "replayHash": "52c72749cd9b887db28c8bbab8244bfd2810987c",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/52c72749cd9b887db28c8bbab8244bfd2810987c"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 534,
-        "name": "surf_aura",
-        "thumbnail": "https://cdn.momentum-mod.org/img/2801e176-5d23-4356-b514-1a638209ecfb-small.jpg",
-        "tier": 1,
-        "unique_completions": 8182
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 127.4249971518293,
-            "rank": 1442,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-30T15:27:05.940Z",
-            "replayHash": "e00b37cae0f3051783dd5fb3017f34f2783b7f0b",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/e00b37cae0f3051783dd5fb3017f34f2783b7f0b"
-          },
-          {
-            "filter_type": "friends",
-            "time": 85.01999809965491,
-            "rank": 476,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-22T23:30:26.568Z",
-            "replayHash": "b839d8033f916be394353bf8c038b91be7cbe31b",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/b839d8033f916be394353bf8c038b91be7cbe31b"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 255,
-        "name": "surf_andromeda",
-        "thumbnail": "https://cdn.momentum-mod.org/img/344c10df-f7f0-4bcb-a390-688c252e428f-small.jpg",
-        "tier": 1,
-        "unique_completions": 17866
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 39.6449991138652,
-            "rank": 1943,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-30T14:48:30.379Z",
-            "replayHash": "bfabf2ff4f3e6f7e916868221b9a894a7e103c92",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/bfabf2ff4f3e6f7e916868221b9a894a7e103c92"
-          },
-          {
-            "filter_type": "friends",
-            "time": 36.80999917723238,
-            "rank": 1024,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-22T18:04:51.952Z",
-            "replayHash": "81ac755f36d0d7e405b606daafaac1fe2f2d7dea",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/81ac755f36d0d7e405b606daafaac1fe2f2d7dea"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 1182,
-        "name": "surf_artois",
-        "thumbnail": "https://cdn.momentum-mod.org/img/63f609e9-f545-48d5-aaeb-f9a0fd5a2f17-small.jpg",
-        "tier": 1,
-        "unique_completions": 5784
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 55.00499877054244,
-            "rank": 519,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-30T16:30:17.922Z",
-            "replayHash": "d4f3009ff2fc97bebd8f1a44aaf03aabf3e5eae1",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/d4f3009ff2fc97bebd8f1a44aaf03aabf3e5eae1"
-          },
-          {
-            "filter_type": "friends",
-            "time": 56.11499874573201,
-            "rank": 775,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-04T13:42:00.772Z",
-            "replayHash": "c735150e0fdd49f1a29894ede7129b489eb4c5cc",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/c735150e0fdd49f1a29894ede7129b489eb4c5cc"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 1356,
-        "name": "surf_rebel_scaz",
-        "thumbnail": "https://cdn.momentum-mod.org/img/d27870dd-4dd9-492f-aced-9c3053c4c9cb-small.jpg",
-        "tier": 1,
-        "unique_completions": 12437
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 23.90999946556985,
-            "rank": 289,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-30T16:43:20.757Z",
-            "replayHash": "1252991d184dbf835235a3d3be323653e797eaac",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/1252991d184dbf835235a3d3be323653e797eaac"
-          },
-          {
-            "filter_type": "friends",
-            "time": 23.42999947629869,
-            "rank": 146,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-24T20:33:49.288Z",
-            "replayHash": "553a18f4409ccf5a0027b15a02c9561695167fed",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/553a18f4409ccf5a0027b15a02c9561695167fed"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 843,
-        "name": "surf_deathstar",
-        "thumbnail": "https://cdn.momentum-mod.org/img/cd13f334-f533-495c-9ef9-9c9cb7945c82-small.jpg",
-        "tier": 1,
-        "unique_completions": 6477
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 44.51999900490046,
-            "rank": 791,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-29T21:13:00.617Z",
-            "replayHash": "de8b5d38eaedc1db919515e020e44a951fd584ca",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/de8b5d38eaedc1db919515e020e44a951fd584ca"
-          },
-          {
-            "filter_type": "friends",
-            "time": 30.47999931871891,
-            "rank": 69,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-28T20:59:12.013Z",
-            "replayHash": "7123597ed0d7a921a0981480e4482c284bf4b7d5",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/7123597ed0d7a921a0981480e4482c284bf4b7d5"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 1065,
-        "name": "surf_forgotten",
-        "thumbnail": "https://cdn.momentum-mod.org/img/82870791-ae4d-4378-802b-a3c050c0a71f-small.jpg",
-        "tier": 1,
-        "unique_completions": 3489
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 42.61499904748052,
-            "rank": 185,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-30T12:18:58.202Z",
-            "replayHash": "2418bf5a35a9fbf0151f703aeabf715b44a0a87d",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/2418bf5a35a9fbf0151f703aeabf715b44a0a87d"
-          },
-          {
-            "filter_type": "friends",
-            "time": 46.16999896802008,
-            "rank": 271,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-06T21:43:09.870Z",
-            "replayHash": "a155f4138a4ef937bfe5887888b2b51d1ccacf03",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/a155f4138a4ef937bfe5887888b2b51d1ccacf03"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 756,
-        "name": "surf_zoomathon",
-        "thumbnail": "https://cdn.momentum-mod.org/img/844500a4-11dd-404a-b92f-9cfcd83c7816-small.jpg",
-        "tier": 1,
-        "unique_completions": 1479
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 139.6499968785793,
-            "rank": 127,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-04T22:40:27.579Z",
-            "replayHash": "db552f896be519618a9bac5d99be1978b646e036",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/db552f896be519618a9bac5d99be1978b646e036"
-          },
-          {
-            "filter_type": "friends",
-            "time": 143.3699967954308,
-            "rank": 174,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-04T13:13:44.749Z",
-            "replayHash": "655007eb4f8048802f6107db713115b95f9fb247",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/655007eb4f8048802f6107db713115b95f9fb247"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 1284,
-        "name": "surf_calycate",
-        "thumbnail": "https://cdn.momentum-mod.org/img/191bb5b2-2bcd-4f44-aec1-272b5ea65cfe-small.jpg",
-        "tier": 1,
-        "unique_completions": 2972
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 39.13499912526459,
-            "rank": 266,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-30T16:19:26.507Z",
-            "replayHash": "1a580b114c4ed18b61088ae0171fc05c3be269f6",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/1a580b114c4ed18b61088ae0171fc05c3be269f6"
-          },
-          {
-            "filter_type": "friends",
-            "time": 37.48499916214496,
-            "rank": 144,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-24T19:43:31.996Z",
-            "replayHash": "bce64db960237c1ec564ee36414f92cbb50c9954",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/bce64db960237c1ec564ee36414f92cbb50c9954"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 1226,
-        "name": "surf_citypop",
-        "thumbnail": "https://cdn.momentum-mod.org/img/9d2d0ce4-4f63-49de-9108-8dbe94fefdb7-small.jpg",
-        "tier": 1,
-        "unique_completions": 4584
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 48.59999891370535,
-            "rank": 299,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-05T22:56:22.777Z",
-            "replayHash": "a62890922a793e25a77cfb5d125b184658fb2dc4",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/a62890922a793e25a77cfb5d125b184658fb2dc4"
-          },
-          {
-            "filter_type": "friends",
-            "time": 53.45999880507588,
-            "rank": 639,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-04T11:53:35.161Z",
-            "replayHash": "8ef918f41f9c786bf9b06b27375ef402b34d3b44",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/8ef918f41f9c786bf9b06b27375ef402b34d3b44"
+            "createdAt": "2026-03-25T22:35:28.717Z",
+            "replayHash": "bf6010325679282ecf717b6be4afb9f7baa099c3",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/bf6010325679282ecf717b6be4afb9f7baa099c3"
           }
         ]
       }
@@ -713,39 +89,78 @@
     },
     {
       "map": {
-        "id": 1274,
-        "name": "surf_4am",
-        "thumbnail": "https://cdn.momentum-mod.org/img/1c53e845-5237-4257-93e3-9a67d3a323e7-small.jpg",
+        "id": 1284,
+        "name": "surf_calycate",
+        "thumbnail": "https://cdn.momentum-mod.org/img/191bb5b2-2bcd-4f44-aec1-272b5ea65cfe-small.jpg",
         "tier": 1,
-        "unique_completions": 3546
+        "unique_completions": 2972
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "around",
-            "time": 166.7699962724,
-            "rank": 702,
+            "time": 39.13499912526459,
+            "rank": 266,
             "userID": 45868,
             "steamID": "76561198330263258",
             "alias": "ita.34",
             "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
             "country": "PT",
-            "createdAt": "2026-04-04T22:04:35.539Z",
-            "replayHash": "9085b2b5f3b7d7ff585307e7b51bae14384d198f",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/9085b2b5f3b7d7ff585307e7b51bae14384d198f"
+            "createdAt": "2026-03-30T16:19:26.507Z",
+            "replayHash": "1a580b114c4ed18b61088ae0171fc05c3be269f6",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/1a580b114c4ed18b61088ae0171fc05c3be269f6"
           },
           {
             "filter_type": "friends",
-            "time": 129.9149970961735,
-            "rank": 347,
+            "time": 37.48499916214496,
+            "rank": 144,
             "userID": 55340,
             "steamID": "76561197998679152",
             "alias": "Francis",
             "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
             "country": "PT",
-            "createdAt": "2026-03-20T06:48:22.661Z",
-            "replayHash": "588be0aae0f9e94a9203ea867e500358db42b848",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/588be0aae0f9e94a9203ea867e500358db42b848"
+            "createdAt": "2026-03-24T19:43:31.996Z",
+            "replayHash": "bce64db960237c1ec564ee36414f92cbb50c9954",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/bce64db960237c1ec564ee36414f92cbb50c9954"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 898,
+        "name": "surf_lux",
+        "thumbnail": "https://cdn.momentum-mod.org/img/ed67b34d-c48e-4c66-b49e-81c59f66b7c6-small.jpg",
+        "tier": 1,
+        "unique_completions": 8710
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 36.64499918092042,
+            "rank": 483,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2025-12-27T04:13:56.655Z",
+            "replayHash": "57ffcb4127a1b57417938db7108ee25cfee61655",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/57ffcb4127a1b57417938db7108ee25cfee61655"
+          },
+          {
+            "filter_type": "friends",
+            "time": 38.39999914169312,
+            "rank": 793,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-23T23:06:33.278Z",
+            "replayHash": "52c72749cd9b887db28c8bbab8244bfd2810987c",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/52c72749cd9b887db28c8bbab8244bfd2810987c"
           }
         ]
       }
@@ -756,7 +171,7 @@
         "name": "surf_colin_blaster_69000",
         "thumbnail": "https://cdn.momentum-mod.org/img/7ed7bd5e-04d7-4dd1-806c-b7140c820574-small.jpg",
         "tier": 1,
-        "unique_completions": 6075
+        "unique_completions": 6076
       },
       "leaderboard": {
         "users": [
@@ -791,78 +206,39 @@
     },
     {
       "map": {
-        "id": 892,
-        "name": "surf_nyx",
-        "thumbnail": "https://cdn.momentum-mod.org/img/05fbd3a0-0e01-4423-80d9-ef655b8b8f52-small.jpg",
+        "id": 1182,
+        "name": "surf_artois",
+        "thumbnail": "https://cdn.momentum-mod.org/img/63f609e9-f545-48d5-aaeb-f9a0fd5a2f17-small.jpg",
         "tier": 1,
-        "unique_completions": 5679
+        "unique_completions": 5784
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "around",
-            "time": 48.38999891839921,
-            "rank": 491,
+            "time": 55.00499877054244,
+            "rank": 519,
             "userID": 45868,
             "steamID": "76561198330263258",
             "alias": "ita.34",
             "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
             "country": "PT",
-            "createdAt": "2026-03-30T15:53:02.447Z",
-            "replayHash": "89dad7255109381c2f5786f5239c2b4af0486c36",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/89dad7255109381c2f5786f5239c2b4af0486c36"
+            "createdAt": "2026-03-30T16:30:17.922Z",
+            "replayHash": "d4f3009ff2fc97bebd8f1a44aaf03aabf3e5eae1",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/d4f3009ff2fc97bebd8f1a44aaf03aabf3e5eae1"
           },
           {
             "filter_type": "friends",
-            "time": 46.64999895729125,
-            "rank": 348,
+            "time": 56.11499874573201,
+            "rank": 775,
             "userID": 55340,
             "steamID": "76561197998679152",
             "alias": "Francis",
             "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
             "country": "PT",
-            "createdAt": "2026-03-24T19:25:48.699Z",
-            "replayHash": "a3d602351948276d361eb92dd10ae956d53078c8",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/a3d602351948276d361eb92dd10ae956d53078c8"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 1026,
-        "name": "surf_void",
-        "thumbnail": "https://cdn.momentum-mod.org/img/bc204330-6122-4fa3-aacd-2779ef19712d-small.jpg",
-        "tier": 1,
-        "unique_completions": 8385
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 47.21999894455075,
-            "rank": 1898,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-30T16:59:56.974Z",
-            "replayHash": "a4d7367e3166422c29c07ac4d5522123d5c97674",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/a4d7367e3166422c29c07ac4d5522123d5c97674"
-          },
-          {
-            "filter_type": "friends",
-            "time": 44.21999901160598,
-            "rank": 866,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-25T22:35:28.717Z",
-            "replayHash": "bf6010325679282ecf717b6be4afb9f7baa099c3",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/bf6010325679282ecf717b6be4afb9f7baa099c3"
+            "createdAt": "2026-04-04T13:42:00.772Z",
+            "replayHash": "c735150e0fdd49f1a29894ede7129b489eb4c5cc",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/c735150e0fdd49f1a29894ede7129b489eb4c5cc"
           }
         ]
       }
@@ -908,6 +284,162 @@
     },
     {
       "map": {
+        "id": 756,
+        "name": "surf_zoomathon",
+        "thumbnail": "https://cdn.momentum-mod.org/img/844500a4-11dd-404a-b92f-9cfcd83c7816-small.jpg",
+        "tier": 1,
+        "unique_completions": 1479
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 139.6499968785793,
+            "rank": 127,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-04T22:40:27.579Z",
+            "replayHash": "db552f896be519618a9bac5d99be1978b646e036",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/db552f896be519618a9bac5d99be1978b646e036"
+          },
+          {
+            "filter_type": "friends",
+            "time": 143.3699967954308,
+            "rank": 174,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-04T13:13:44.749Z",
+            "replayHash": "655007eb4f8048802f6107db713115b95f9fb247",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/655007eb4f8048802f6107db713115b95f9fb247"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 255,
+        "name": "surf_andromeda",
+        "thumbnail": "https://cdn.momentum-mod.org/img/344c10df-f7f0-4bcb-a390-688c252e428f-small.jpg",
+        "tier": 1,
+        "unique_completions": 17892
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 39.6449991138652,
+            "rank": 1945,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-30T14:48:30.379Z",
+            "replayHash": "bfabf2ff4f3e6f7e916868221b9a894a7e103c92",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/bfabf2ff4f3e6f7e916868221b9a894a7e103c92"
+          },
+          {
+            "filter_type": "friends",
+            "time": 36.80999917723238,
+            "rank": 1026,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-22T18:04:51.952Z",
+            "replayHash": "81ac755f36d0d7e405b606daafaac1fe2f2d7dea",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/81ac755f36d0d7e405b606daafaac1fe2f2d7dea"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 1274,
+        "name": "surf_4am",
+        "thumbnail": "https://cdn.momentum-mod.org/img/1c53e845-5237-4257-93e3-9a67d3a323e7-small.jpg",
+        "tier": 1,
+        "unique_completions": 3546
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 166.7699962724,
+            "rank": 702,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-04T22:04:35.539Z",
+            "replayHash": "9085b2b5f3b7d7ff585307e7b51bae14384d198f",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/9085b2b5f3b7d7ff585307e7b51bae14384d198f"
+          },
+          {
+            "filter_type": "friends",
+            "time": 129.9149970961735,
+            "rank": 347,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-20T06:48:22.661Z",
+            "replayHash": "588be0aae0f9e94a9203ea867e500358db42b848",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/588be0aae0f9e94a9203ea867e500358db42b848"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 1134,
+        "name": "surf_deoa",
+        "thumbnail": "https://cdn.momentum-mod.org/img/9be7acad-155c-47a2-b154-0e0b927afcdd-small.jpg",
+        "tier": 1,
+        "unique_completions": 2790
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 85.42499809060246,
+            "rank": 126,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-26T22:31:21.028Z",
+            "replayHash": "b2e45149082a2eca84d05afe367800c5f315329d",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/b2e45149082a2eca84d05afe367800c5f315329d"
+          },
+          {
+            "filter_type": "friends",
+            "time": 92.57999793067575,
+            "rank": 291,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-26T22:27:03.669Z",
+            "replayHash": "e3a1fd44470f21df6c92b7ee13107cf51ec80ad0",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/e3a1fd44470f21df6c92b7ee13107cf51ec80ad0"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
         "id": 992,
         "name": "surf_hourglass",
         "thumbnail": "https://cdn.momentum-mod.org/img/0e314411-8a29-4df3-a167-d532f829e928-small.jpg",
@@ -941,6 +473,474 @@
             "createdAt": "2026-04-03T22:37:17.472Z",
             "replayHash": "5c97b883515827b039b9b9bb21bfb7a5ca9b0375",
             "downloadURL": "https://cdn.momentum-mod.org/runs/5c97b883515827b039b9b9bb21bfb7a5ca9b0375"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 1222,
+        "name": "surf_school",
+        "thumbnail": "https://cdn.momentum-mod.org/img/8f193eb9-1248-450e-adb4-35d3106a5c34-small.jpg",
+        "tier": 1,
+        "unique_completions": 3854
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 79.2899982277304,
+            "rank": 282,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-26T22:44:28.785Z",
+            "replayHash": "0904ea3a70f6c25a0b8babd9eb6f41d295b5c0f0",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/0904ea3a70f6c25a0b8babd9eb6f41d295b5c0f0"
+          },
+          {
+            "filter_type": "friends",
+            "time": 86.36999806948006,
+            "rank": 346,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-25T22:48:56.562Z",
+            "replayHash": "1c6d8df66a838a8a02535bfd204d14bce01e710a",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/1c6d8df66a838a8a02535bfd204d14bce01e710a"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 1283,
+        "name": "surf_themeless",
+        "thumbnail": "https://cdn.momentum-mod.org/img/680e408c-97a9-405d-ba38-27573c96ea74-small.jpg",
+        "tier": 1,
+        "unique_completions": 6386
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 49.03499890398234,
+            "rank": 242,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-06T22:57:07.080Z",
+            "replayHash": "3dd3a2cb5cacf6df14ac91fedc7c8a1aff31a03e",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/3dd3a2cb5cacf6df14ac91fedc7c8a1aff31a03e"
+          },
+          {
+            "filter_type": "friends",
+            "time": 49.36499889660627,
+            "rank": 276,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-04T13:34:29.395Z",
+            "replayHash": "3fe378750d385bc3670e3906acce6520dc384b6b",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/3fe378750d385bc3670e3906acce6520dc384b6b"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 1132,
+        "name": "surf_calycate2",
+        "thumbnail": "https://cdn.momentum-mod.org/img/65df1924-60b2-449f-a3e2-b77be49c4297-small.jpg",
+        "tier": 1,
+        "unique_completions": 3237
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 57.2999987192452,
+            "rank": 412,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-30T15:09:18.359Z",
+            "replayHash": "df358172dbbe36564b1d991ae5270204e68a22db",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/df358172dbbe36564b1d991ae5270204e68a22db"
+          },
+          {
+            "filter_type": "friends",
+            "time": 56.18999874405563,
+            "rank": 318,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-25T22:57:20.958Z",
+            "replayHash": "324d0a444e16432cb368c533b2bfcfcec409b1a0",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/324d0a444e16432cb368c533b2bfcfcec409b1a0"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 1065,
+        "name": "surf_forgotten",
+        "thumbnail": "https://cdn.momentum-mod.org/img/82870791-ae4d-4378-802b-a3c050c0a71f-small.jpg",
+        "tier": 1,
+        "unique_completions": 3500
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 42.61499904748052,
+            "rank": 185,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-30T12:18:58.202Z",
+            "replayHash": "2418bf5a35a9fbf0151f703aeabf715b44a0a87d",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/2418bf5a35a9fbf0151f703aeabf715b44a0a87d"
+          },
+          {
+            "filter_type": "friends",
+            "time": 46.16999896802008,
+            "rank": 271,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-06T21:43:09.870Z",
+            "replayHash": "a155f4138a4ef937bfe5887888b2b51d1ccacf03",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/a155f4138a4ef937bfe5887888b2b51d1ccacf03"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 534,
+        "name": "surf_aura",
+        "thumbnail": "https://cdn.momentum-mod.org/img/2801e176-5d23-4356-b514-1a638209ecfb-small.jpg",
+        "tier": 1,
+        "unique_completions": 8182
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 127.4249971518293,
+            "rank": 1442,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-30T15:27:05.940Z",
+            "replayHash": "e00b37cae0f3051783dd5fb3017f34f2783b7f0b",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/e00b37cae0f3051783dd5fb3017f34f2783b7f0b"
+          },
+          {
+            "filter_type": "friends",
+            "time": 85.01999809965491,
+            "rank": 476,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-22T23:30:26.568Z",
+            "replayHash": "b839d8033f916be394353bf8c038b91be7cbe31b",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/b839d8033f916be394353bf8c038b91be7cbe31b"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 270,
+        "name": "surf_n_turf",
+        "thumbnail": "https://cdn.momentum-mod.org/img/f5962e57-1f13-4c8d-8c80-114d2068ecb7-small.jpg",
+        "tier": 1,
+        "unique_completions": 5195
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 69.38999844901264,
+            "rank": 199,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-29T23:56:43.675Z",
+            "replayHash": "6f899ef534d802c3a1ec7d86af7df2516243ff48",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/6f899ef534d802c3a1ec7d86af7df2516243ff48"
+          },
+          {
+            "filter_type": "friends",
+            "time": 70.01999843493104,
+            "rank": 261,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-29T23:57:35.716Z",
+            "replayHash": "220a784a5471129ec0e833496b17ba3d33199067",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/220a784a5471129ec0e833496b17ba3d33199067"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 892,
+        "name": "surf_nyx",
+        "thumbnail": "https://cdn.momentum-mod.org/img/05fbd3a0-0e01-4423-80d9-ef655b8b8f52-small.jpg",
+        "tier": 1,
+        "unique_completions": 5679
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 48.38999891839921,
+            "rank": 491,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-30T15:53:02.447Z",
+            "replayHash": "89dad7255109381c2f5786f5239c2b4af0486c36",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/89dad7255109381c2f5786f5239c2b4af0486c36"
+          },
+          {
+            "filter_type": "friends",
+            "time": 46.64999895729125,
+            "rank": 348,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-24T19:25:48.699Z",
+            "replayHash": "a3d602351948276d361eb92dd10ae956d53078c8",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/a3d602351948276d361eb92dd10ae956d53078c8"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 1239,
+        "name": "surf_race",
+        "thumbnail": "https://cdn.momentum-mod.org/img/46a19c66-b549-4839-afba-b5cf94c3ef15-small.jpg",
+        "tier": 1,
+        "unique_completions": 6045
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 91.21499796118587,
+            "rank": 1212,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-30T16:40:36.129Z",
+            "replayHash": "f338381b32ac4704d7b72129e15812e9d7263798",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/f338381b32ac4704d7b72129e15812e9d7263798"
+          },
+          {
+            "filter_type": "friends",
+            "time": 61.60499862302095,
+            "rank": 790,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-20T00:05:49.136Z",
+            "replayHash": "325a6ac4848e9baf3261209909841d0dfc0f7e55",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/325a6ac4848e9baf3261209909841d0dfc0f7e55"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 1226,
+        "name": "surf_citypop",
+        "thumbnail": "https://cdn.momentum-mod.org/img/9d2d0ce4-4f63-49de-9108-8dbe94fefdb7-small.jpg",
+        "tier": 1,
+        "unique_completions": 4584
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 48.59999891370535,
+            "rank": 299,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-05T22:56:22.777Z",
+            "replayHash": "a62890922a793e25a77cfb5d125b184658fb2dc4",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/a62890922a793e25a77cfb5d125b184658fb2dc4"
+          },
+          {
+            "filter_type": "friends",
+            "time": 53.45999880507588,
+            "rank": 639,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-04T11:53:35.161Z",
+            "replayHash": "8ef918f41f9c786bf9b06b27375ef402b34d3b44",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/8ef918f41f9c786bf9b06b27375ef402b34d3b44"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 843,
+        "name": "surf_deathstar",
+        "thumbnail": "https://cdn.momentum-mod.org/img/cd13f334-f533-495c-9ef9-9c9cb7945c82-small.jpg",
+        "tier": 1,
+        "unique_completions": 6483
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 44.51999900490046,
+            "rank": 794,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-29T21:13:00.617Z",
+            "replayHash": "de8b5d38eaedc1db919515e020e44a951fd584ca",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/de8b5d38eaedc1db919515e020e44a951fd584ca"
+          },
+          {
+            "filter_type": "friends",
+            "time": 30.47999931871891,
+            "rank": 70,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-28T20:59:12.013Z",
+            "replayHash": "7123597ed0d7a921a0981480e4482c284bf4b7d5",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/7123597ed0d7a921a0981480e4482c284bf4b7d5"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 1356,
+        "name": "surf_rebel_scaz",
+        "thumbnail": "https://cdn.momentum-mod.org/img/d27870dd-4dd9-492f-aced-9c3053c4c9cb-small.jpg",
+        "tier": 1,
+        "unique_completions": 12437
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 23.90999946556985,
+            "rank": 289,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-30T16:43:20.757Z",
+            "replayHash": "1252991d184dbf835235a3d3be323653e797eaac",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/1252991d184dbf835235a3d3be323653e797eaac"
+          },
+          {
+            "filter_type": "friends",
+            "time": 23.42999947629869,
+            "rank": 146,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-24T20:33:49.288Z",
+            "replayHash": "553a18f4409ccf5a0027b15a02c9561695167fed",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/553a18f4409ccf5a0027b15a02c9561695167fed"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 805,
+        "name": "surf_trance",
+        "thumbnail": "https://cdn.momentum-mod.org/img/df12ad93-8841-4a41-92e4-16d8ff49815c-small.jpg",
+        "tier": 1,
+        "unique_completions": 2931
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 52.79999881982803,
+            "rank": 244,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-06T15:39:47.438Z",
+            "replayHash": "df37e02bc0af32697f922afce79ac5633d16b340",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/df37e02bc0af32697f922afce79ac5633d16b340"
+          },
+          {
+            "filter_type": "friends",
+            "time": 52.5899988245219,
+            "rank": 238,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-20T20:31:33.236Z",
+            "replayHash": "62723abc1803ed42d133c9e6902b6d9f4e691ef3",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/62723abc1803ed42d133c9e6902b6d9f4e691ef3"
           }
         ]
       }
@@ -1029,7 +1029,7 @@
         "name": "surf_mom",
         "thumbnail": "https://cdn.momentum-mod.org/img/07068497-82e3-486e-ada2-48503b542408-small.jpg",
         "tier": 1,
-        "unique_completions": 5322
+        "unique_completions": 5324
       },
       "leaderboard": {
         "users": [
@@ -1064,89 +1064,11 @@
     },
     {
       "map": {
-        "id": 511,
-        "name": "surf_garden_h",
-        "thumbnail": "https://cdn.momentum-mod.org/img/12270832-ca96-44c6-8206-329fb7ed31e3-small.jpg",
-        "tier": 1,
-        "unique_completions": 9979
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 87.97499803360552,
-            "rank": 472,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-30T15:11:43.848Z",
-            "replayHash": "e6b58f9c870e616587bc160a1f4f458a44fdf80c",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/e6b58f9c870e616587bc160a1f4f458a44fdf80c"
-          },
-          {
-            "filter_type": "friends",
-            "time": 89.75999799370766,
-            "rank": 741,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-04T13:58:23.823Z",
-            "replayHash": "817bd6ff6537e367661e8071f0657426c792e97c",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/817bd6ff6537e367661e8071f0657426c792e97c"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 265,
-        "name": "surf_demise",
-        "thumbnail": "https://cdn.momentum-mod.org/img/a409c3c9-a2ad-437d-810e-bd912141ad4d-small.jpg",
-        "tier": 1,
-        "unique_completions": 47476
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 42.76499904412776,
-            "rank": 3496,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-30T15:18:49.674Z",
-            "replayHash": "2820525f85ed023425ba2a8c3dc832d30d3ddb99",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/2820525f85ed023425ba2a8c3dc832d30d3ddb99"
-          },
-          {
-            "filter_type": "friends",
-            "time": 40.30499909911305,
-            "rank": 1905,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-04T19:33:55.639Z",
-            "replayHash": "1ae38f2fc94fb1c783da4e9aa348065ffe41ffd5",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/1ae38f2fc94fb1c783da4e9aa348065ffe41ffd5"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
         "id": 436,
         "name": "surf_minuet",
         "thumbnail": "https://cdn.momentum-mod.org/img/35a6d692-8f90-4163-86e9-bb8081d1bdd4-small.jpg",
         "tier": 1,
-        "unique_completions": 8489
+        "unique_completions": 8494
       },
       "leaderboard": {
         "users": [
@@ -1175,84 +1097,6 @@
             "createdAt": "2026-04-04T19:25:06.050Z",
             "replayHash": "9ac526aa7555f890999f05025588e881ca868cbc",
             "downloadURL": "https://cdn.momentum-mod.org/runs/9ac526aa7555f890999f05025588e881ca868cbc"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 347,
-        "name": "surf_colum_up",
-        "thumbnail": "https://cdn.momentum-mod.org/img/34b3e09b-c437-40fa-8ef3-ab28f4455abe-small.jpg",
-        "tier": 1,
-        "unique_completions": 7298
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 40.81499908771366,
-            "rank": 747,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-04T22:07:50.724Z",
-            "replayHash": "71dd4e1a8ebbe3a99c00e87e7ff1e9541c1afb1f",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/71dd4e1a8ebbe3a99c00e87e7ff1e9541c1afb1f"
-          },
-          {
-            "filter_type": "friends",
-            "time": 38.3249991433695,
-            "rank": 378,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-04T19:40:29.425Z",
-            "replayHash": "416d22e1c98a0a5ba4653769909130f2c4826830",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/416d22e1c98a0a5ba4653769909130f2c4826830"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 910,
-        "name": "surf_het",
-        "thumbnail": "https://cdn.momentum-mod.org/img/ef33d04a-4121-494d-aee2-052d1e5116fd-small.jpg",
-        "tier": 1,
-        "unique_completions": 7572
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 50.17499887850136,
-            "rank": 1858,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-30T15:08:09.282Z",
-            "replayHash": "3dc53b6eb1947d030c1022d23ca3b366c35e97f0",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/3dc53b6eb1947d030c1022d23ca3b366c35e97f0"
-          },
-          {
-            "filter_type": "friends",
-            "time": 49.58999889157712,
-            "rank": 1665,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-04T19:45:49.316Z",
-            "replayHash": "4972510987c62db9112322c2a0eba8d663baf74d",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/4972510987c62db9112322c2a0eba8d663baf74d"
           }
         ]
       }
@@ -1298,6 +1142,461 @@
     },
     {
       "map": {
+        "id": 347,
+        "name": "surf_colum_up",
+        "thumbnail": "https://cdn.momentum-mod.org/img/34b3e09b-c437-40fa-8ef3-ab28f4455abe-small.jpg",
+        "tier": 1,
+        "unique_completions": 7298
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 40.81499908771366,
+            "rank": 747,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-04T22:07:50.724Z",
+            "replayHash": "71dd4e1a8ebbe3a99c00e87e7ff1e9541c1afb1f",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/71dd4e1a8ebbe3a99c00e87e7ff1e9541c1afb1f"
+          },
+          {
+            "filter_type": "friends",
+            "time": 38.3249991433695,
+            "rank": 378,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-04T19:40:29.425Z",
+            "replayHash": "416d22e1c98a0a5ba4653769909130f2c4826830",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/416d22e1c98a0a5ba4653769909130f2c4826830"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 265,
+        "name": "surf_demise",
+        "thumbnail": "https://cdn.momentum-mod.org/img/a409c3c9-a2ad-437d-810e-bd912141ad4d-small.jpg",
+        "tier": 1,
+        "unique_completions": 47476
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 42.76499904412776,
+            "rank": 3496,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-30T15:18:49.674Z",
+            "replayHash": "2820525f85ed023425ba2a8c3dc832d30d3ddb99",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/2820525f85ed023425ba2a8c3dc832d30d3ddb99"
+          },
+          {
+            "filter_type": "friends",
+            "time": 40.30499909911305,
+            "rank": 1905,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-04T19:33:55.639Z",
+            "replayHash": "1ae38f2fc94fb1c783da4e9aa348065ffe41ffd5",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/1ae38f2fc94fb1c783da4e9aa348065ffe41ffd5"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 511,
+        "name": "surf_garden_h",
+        "thumbnail": "https://cdn.momentum-mod.org/img/12270832-ca96-44c6-8206-329fb7ed31e3-small.jpg",
+        "tier": 1,
+        "unique_completions": 9981
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 87.97499803360552,
+            "rank": 472,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-30T15:11:43.848Z",
+            "replayHash": "e6b58f9c870e616587bc160a1f4f458a44fdf80c",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/e6b58f9c870e616587bc160a1f4f458a44fdf80c"
+          },
+          {
+            "filter_type": "friends",
+            "time": 89.75999799370766,
+            "rank": 741,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-04T13:58:23.823Z",
+            "replayHash": "817bd6ff6537e367661e8071f0657426c792e97c",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/817bd6ff6537e367661e8071f0657426c792e97c"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 211,
+        "name": "surf_santorini",
+        "thumbnail": "https://cdn.momentum-mod.org/img/074ae4da-cc1c-4890-9b50-50c65264b405-small.jpg",
+        "tier": 1,
+        "unique_completions": 19362
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 66.50999851338565,
+            "rank": 679,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2025-11-24T23:45:30.111Z",
+            "replayHash": "636f002d495768cb8926498cc922cc2812626476",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/636f002d495768cb8926498cc922cc2812626476"
+          },
+          {
+            "filter_type": "friends",
+            "time": 68.15999847650528,
+            "rank": 1044,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-06T18:57:45.069Z",
+            "replayHash": "30caab9c29263774d13bb1ffe06b2ce027f358b1",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/30caab9c29263774d13bb1ffe06b2ce027f358b1"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 963,
+        "name": "surf_reytx",
+        "thumbnail": "https://cdn.momentum-mod.org/img/3fc4441e-67e7-41c2-b2a5-37ab7c6d86f3-small.jpg",
+        "tier": 1,
+        "unique_completions": 14946
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 52.79999881982803,
+            "rank": 670,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2025-12-26T20:38:49.197Z",
+            "replayHash": "2074eb071477c94679be17a8085c0034dda02a36",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/2074eb071477c94679be17a8085c0034dda02a36"
+          },
+          {
+            "filter_type": "friends",
+            "time": 53.02499881479889,
+            "rank": 759,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-03T19:46:00.894Z",
+            "replayHash": "af22ab054221cd9a8f0ef87b815ac940be068ed5",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/af22ab054221cd9a8f0ef87b815ac940be068ed5"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 665,
+        "name": "surf_kitsune",
+        "thumbnail": "https://cdn.momentum-mod.org/img/1545bc12-835d-4b1d-972c-347b6740ea47-small.jpg",
+        "tier": 1,
+        "unique_completions": 17944
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 72.5099983792752,
+            "rank": 612,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-06T14:59:12.076Z",
+            "replayHash": "7cefdc0b29f3c18498b7634472314332247ff1e6",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/7cefdc0b29f3c18498b7634472314332247ff1e6"
+          },
+          {
+            "filter_type": "friends",
+            "time": 77.57999826595187,
+            "rank": 1504,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-21T16:41:59.728Z",
+            "replayHash": "dd90ce38d57dbba2088b0943549154e88d5258c0",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/dd90ce38d57dbba2088b0943549154e88d5258c0"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 910,
+        "name": "surf_het",
+        "thumbnail": "https://cdn.momentum-mod.org/img/ef33d04a-4121-494d-aee2-052d1e5116fd-small.jpg",
+        "tier": 1,
+        "unique_completions": 7572
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 50.17499887850136,
+            "rank": 1858,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-30T15:08:09.282Z",
+            "replayHash": "3dc53b6eb1947d030c1022d23ca3b366c35e97f0",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/3dc53b6eb1947d030c1022d23ca3b366c35e97f0"
+          },
+          {
+            "filter_type": "friends",
+            "time": 49.58999889157712,
+            "rank": 1665,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-04T19:45:49.316Z",
+            "replayHash": "4972510987c62db9112322c2a0eba8d663baf74d",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/4972510987c62db9112322c2a0eba8d663baf74d"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 292,
+        "name": "surf_aesthetic",
+        "thumbnail": "https://cdn.momentum-mod.org/img/945f30e9-1e45-4b94-be43-7d2627aa4443-small.jpg",
+        "tier": 1,
+        "unique_completions": 11982
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 59.60999866761267,
+            "rank": 715,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-04T21:56:35.731Z",
+            "replayHash": "1907c0e358c16710f3d2bc03cae4699bd25614a4",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/1907c0e358c16710f3d2bc03cae4699bd25614a4"
+          },
+          {
+            "filter_type": "friends",
+            "time": 237.38999469392,
+            "rank": 4693,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-04T21:57:00.786Z",
+            "replayHash": "0eae91c34d7c69751675d1e75af2c88fdbb87ad6",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/0eae91c34d7c69751675d1e75af2c88fdbb87ad6"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 618,
+        "name": "surf_anzchamps",
+        "thumbnail": "https://cdn.momentum-mod.org/img/4e5eb762-5426-4673-9a64-5679b17b7794-small.jpg",
+        "tier": 1,
+        "unique_completions": 15523
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 113.7449974576011,
+            "rank": 2026,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2025-11-24T23:30:33.498Z",
+            "replayHash": "aa4ef9a65bba04ec334813a02bc3307f46e93ef2",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/aa4ef9a65bba04ec334813a02bc3307f46e93ef2"
+          },
+          {
+            "filter_type": "friends",
+            "time": 160.1849964195862,
+            "rank": 3524,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-04T02:23:54.980Z",
+            "replayHash": "c6cb7d309cec05f1f9369f7cac70585c69cc8afd",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/c6cb7d309cec05f1f9369f7cac70585c69cc8afd"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 20,
+        "name": "surf_utopia",
+        "thumbnail": "https://cdn.momentum-mod.org/img/f39eeaff-ecca-408d-8fa3-c946141dd83d-small.jpg",
+        "tier": 1,
+        "unique_completions": 44214
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 59.51999866962433,
+            "rank": 3574,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2025-11-24T20:37:34.685Z",
+            "replayHash": "3e67c6c73be182b8870834a434dd731eb1f505d0",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/3e67c6c73be182b8870834a434dd731eb1f505d0"
+          },
+          {
+            "filter_type": "friends",
+            "time": 60.49499864783138,
+            "rank": 4459,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-24T21:56:31.647Z",
+            "replayHash": "2ef8d7d528a14be3054823f835dcb92d9288d711",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/2ef8d7d528a14be3054823f835dcb92d9288d711"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 412,
+        "name": "surf_zenith",
+        "thumbnail": "https://cdn.momentum-mod.org/img/28a349f7-32ad-43b0-9596-00b71b56340c-small.jpg",
+        "tier": 2,
+        "unique_completions": 1164
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "friends",
+            "time": 51.34499885234982,
+            "rank": 234,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-01T19:01:15.582Z",
+            "replayHash": "5ad49b3ce385a59a4077b33ebf37af321e8e56be",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/5ad49b3ce385a59a4077b33ebf37af321e8e56be"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 64,
+        "name": "surf_lovetunnel",
+        "thumbnail": "https://cdn.momentum-mod.org/img/65012fff-6b10-4c09-a980-50d54944e322-small.jpg",
+        "tier": 1,
+        "unique_completions": 16281
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 50.21999887749553,
+            "rank": 1865,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-30T14:34:57.871Z",
+            "replayHash": "cb8d1950acad0dc345311e7fb80cc0937a2083c1",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/cb8d1950acad0dc345311e7fb80cc0937a2083c1"
+          },
+          {
+            "filter_type": "friends",
+            "time": 50.54999887011945,
+            "rank": 2091,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-04T02:00:37.811Z",
+            "replayHash": "117395c9570880339d62d0f07d4a93c254aa492a",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/117395c9570880339d62d0f07d4a93c254aa492a"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
         "id": 598,
         "name": "surf_sofia",
         "thumbnail": "https://cdn.momentum-mod.org/img/f35d49c7-1718-4f1b-b06a-13590c149158-small.jpg",
@@ -1337,117 +1636,143 @@
     },
     {
       "map": {
-        "id": 931,
-        "name": "surf_agony",
-        "thumbnail": "https://cdn.momentum-mod.org/img/0a59ed21-b011-428c-9e2c-71a8b6f0894d-small.jpg",
+        "id": 431,
+        "name": "surf_boreas",
+        "thumbnail": "https://cdn.momentum-mod.org/img/388b7796-41fc-4a8c-9d7b-5e86398e88ad-small.jpg",
+        "tier": 1,
+        "unique_completions": 81852
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 42.55499904882163,
+            "rank": 2982,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-06T15:09:18.364Z",
+            "replayHash": "ca1d2716b265d9bafa7714bbe22508a6f6bb8dc3",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/ca1d2716b265d9bafa7714bbe22508a6f6bb8dc3"
+          },
+          {
+            "filter_type": "friends",
+            "time": 42.85499904211611,
+            "rank": 3353,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-24T21:53:22.402Z",
+            "replayHash": "0b506dd37d8f964d4e6f36a14c768039c6fe7cff",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/0b506dd37d8f964d4e6f36a14c768039c6fe7cff"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 671,
+        "name": "surf_mesa_revo",
+        "thumbnail": "https://cdn.momentum-mod.org/img/f65cce9c-abaf-40ac-bc4c-da8881e3167a-small.jpg",
+        "tier": 1,
+        "unique_completions": 23836
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 52.61999882385135,
+            "rank": 971,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2025-12-10T20:12:04.243Z",
+            "replayHash": "17f2e114334e0c6e9faabd82a89d4d741c26cee2",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/17f2e114334e0c6e9faabd82a89d4d741c26cee2"
+          },
+          {
+            "filter_type": "friends",
+            "time": 55.8599987514317,
+            "rank": 2754,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-04T22:01:29.454Z",
+            "replayHash": "18014f80036b402f7a5e3ef4611ffa60d1bf1b63",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/18014f80036b402f7a5e3ef4611ffa60d1bf1b63"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 894,
+        "name": "surf_ing",
+        "thumbnail": "https://cdn.momentum-mod.org/img/088ced23-bdd1-4b0c-8168-0c144e004165-small.jpg",
         "tier": 2,
-        "unique_completions": 1592
+        "unique_completions": 1462
       },
       "leaderboard": {
         "users": [
           {
-            "filter_type": "around",
-            "time": 54.20999878831208,
-            "rank": 150,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-30T00:28:45.559Z",
-            "replayHash": "9e9aff2ae9e8ec59fb56ae9676dcca5aa71266d4",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/9e9aff2ae9e8ec59fb56ae9676dcca5aa71266d4"
-          },
-          {
             "filter_type": "friends",
-            "time": 48.2549989214167,
-            "rank": 96,
+            "time": 113.80499745626,
+            "rank": 443,
             "userID": 55340,
             "steamID": "76561197998679152",
             "alias": "Francis",
             "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
             "country": "PT",
-            "createdAt": "2026-03-30T00:48:13.229Z",
-            "replayHash": "a5504e234f8ee0b19e1873eec5f8bd29783ef65d",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/a5504e234f8ee0b19e1873eec5f8bd29783ef65d"
+            "createdAt": "2026-03-30T20:02:42.825Z",
+            "replayHash": "863496c5292d43d0eca609a90cec3cd53fef4b24",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/863496c5292d43d0eca609a90cec3cd53fef4b24"
           }
         ]
       }
     },
     {
       "map": {
-        "id": 211,
-        "name": "surf_santorini",
-        "thumbnail": "https://cdn.momentum-mod.org/img/074ae4da-cc1c-4890-9b50-50c65264b405-small.jpg",
+        "id": 224,
+        "name": "surf_summit",
+        "thumbnail": "https://cdn.momentum-mod.org/img/d8261a97-e5c2-47a8-b926-a0ef40e3a528-small.jpg",
         "tier": 1,
-        "unique_completions": 19360
+        "unique_completions": 51165
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "around",
-            "time": 66.50999851338565,
-            "rank": 679,
+            "time": 45.34499898646027,
+            "rank": 1380,
             "userID": 45868,
             "steamID": "76561198330263258",
             "alias": "ita.34",
             "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
             "country": "PT",
-            "createdAt": "2025-11-24T23:45:30.111Z",
-            "replayHash": "636f002d495768cb8926498cc922cc2812626476",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/636f002d495768cb8926498cc922cc2812626476"
+            "createdAt": "2026-04-05T20:10:21.525Z",
+            "replayHash": "1d7e9433e61ff2abdff5033bda62ffd2ec4cb050",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/1d7e9433e61ff2abdff5033bda62ffd2ec4cb050"
           },
           {
             "filter_type": "friends",
-            "time": 68.15999847650528,
-            "rank": 1044,
+            "time": 45.74999897740781,
+            "rank": 1656,
             "userID": 55340,
             "steamID": "76561197998679152",
             "alias": "Francis",
             "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
             "country": "PT",
-            "createdAt": "2026-04-06T18:57:45.069Z",
-            "replayHash": "30caab9c29263774d13bb1ffe06b2ce027f358b1",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/30caab9c29263774d13bb1ffe06b2ce027f358b1"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 20,
-        "name": "surf_utopia",
-        "thumbnail": "https://cdn.momentum-mod.org/img/f39eeaff-ecca-408d-8fa3-c946141dd83d-small.jpg",
-        "tier": 1,
-        "unique_completions": 44211
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 59.51999866962433,
-            "rank": 3573,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2025-11-24T20:37:34.685Z",
-            "replayHash": "3e67c6c73be182b8870834a434dd731eb1f505d0",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/3e67c6c73be182b8870834a434dd731eb1f505d0"
-          },
-          {
-            "filter_type": "friends",
-            "time": 60.49499864783138,
-            "rank": 4458,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-24T21:56:31.647Z",
-            "replayHash": "2ef8d7d528a14be3054823f835dcb92d9288d711",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/2ef8d7d528a14be3054823f835dcb92d9288d711"
+            "createdAt": "2026-04-03T21:20:55.454Z",
+            "replayHash": "2e819919eda09bccb1716be4193872dddb22f2f0",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/2e819919eda09bccb1716be4193872dddb22f2f0"
           }
         ]
       }
@@ -1493,366 +1818,53 @@
     },
     {
       "map": {
-        "id": 224,
-        "name": "surf_summit",
-        "thumbnail": "https://cdn.momentum-mod.org/img/d8261a97-e5c2-47a8-b926-a0ef40e3a528-small.jpg",
-        "tier": 1,
-        "unique_completions": 51153
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 45.34499898646027,
-            "rank": 1380,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-05T20:10:21.525Z",
-            "replayHash": "1d7e9433e61ff2abdff5033bda62ffd2ec4cb050",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/1d7e9433e61ff2abdff5033bda62ffd2ec4cb050"
-          },
-          {
-            "filter_type": "friends",
-            "time": 45.74999897740781,
-            "rank": 1655,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-03T21:20:55.454Z",
-            "replayHash": "2e819919eda09bccb1716be4193872dddb22f2f0",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/2e819919eda09bccb1716be4193872dddb22f2f0"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 618,
-        "name": "surf_anzchamps",
-        "thumbnail": "https://cdn.momentum-mod.org/img/4e5eb762-5426-4673-9a64-5679b17b7794-small.jpg",
-        "tier": 1,
-        "unique_completions": 15521
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 113.7449974576011,
-            "rank": 2026,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2025-11-24T23:30:33.498Z",
-            "replayHash": "aa4ef9a65bba04ec334813a02bc3307f46e93ef2",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/aa4ef9a65bba04ec334813a02bc3307f46e93ef2"
-          },
-          {
-            "filter_type": "friends",
-            "time": 160.1849964195862,
-            "rank": 3523,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-04T02:23:54.980Z",
-            "replayHash": "c6cb7d309cec05f1f9369f7cac70585c69cc8afd",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/c6cb7d309cec05f1f9369f7cac70585c69cc8afd"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 665,
-        "name": "surf_kitsune",
-        "thumbnail": "https://cdn.momentum-mod.org/img/1545bc12-835d-4b1d-972c-347b6740ea47-small.jpg",
-        "tier": 1,
-        "unique_completions": 17942
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 72.5099983792752,
-            "rank": 612,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-06T14:59:12.076Z",
-            "replayHash": "7cefdc0b29f3c18498b7634472314332247ff1e6",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/7cefdc0b29f3c18498b7634472314332247ff1e6"
-          },
-          {
-            "filter_type": "friends",
-            "time": 77.57999826595187,
-            "rank": 1504,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-21T16:41:59.728Z",
-            "replayHash": "dd90ce38d57dbba2088b0943549154e88d5258c0",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/dd90ce38d57dbba2088b0943549154e88d5258c0"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 894,
-        "name": "surf_ing",
-        "thumbnail": "https://cdn.momentum-mod.org/img/088ced23-bdd1-4b0c-8168-0c144e004165-small.jpg",
+        "id": 931,
+        "name": "surf_agony",
+        "thumbnail": "https://cdn.momentum-mod.org/img/0a59ed21-b011-428c-9e2c-71a8b6f0894d-small.jpg",
         "tier": 2,
-        "unique_completions": 1462
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "friends",
-            "time": 113.80499745626,
-            "rank": 443,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-30T20:02:42.825Z",
-            "replayHash": "863496c5292d43d0eca609a90cec3cd53fef4b24",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/863496c5292d43d0eca609a90cec3cd53fef4b24"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 671,
-        "name": "surf_mesa_revo",
-        "thumbnail": "https://cdn.momentum-mod.org/img/f65cce9c-abaf-40ac-bc4c-da8881e3167a-small.jpg",
-        "tier": 1,
-        "unique_completions": 23835
+        "unique_completions": 1592
       },
       "leaderboard": {
         "users": [
           {
             "filter_type": "around",
-            "time": 52.61999882385135,
-            "rank": 971,
+            "time": 54.20999878831208,
+            "rank": 150,
             "userID": 45868,
             "steamID": "76561198330263258",
             "alias": "ita.34",
             "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
             "country": "PT",
-            "createdAt": "2025-12-10T20:12:04.243Z",
-            "replayHash": "17f2e114334e0c6e9faabd82a89d4d741c26cee2",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/17f2e114334e0c6e9faabd82a89d4d741c26cee2"
+            "createdAt": "2026-03-30T00:28:45.559Z",
+            "replayHash": "9e9aff2ae9e8ec59fb56ae9676dcca5aa71266d4",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/9e9aff2ae9e8ec59fb56ae9676dcca5aa71266d4"
           },
           {
             "filter_type": "friends",
-            "time": 55.8599987514317,
-            "rank": 2754,
+            "time": 48.2549989214167,
+            "rank": 96,
             "userID": 55340,
             "steamID": "76561197998679152",
             "alias": "Francis",
             "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
             "country": "PT",
-            "createdAt": "2026-04-04T22:01:29.454Z",
-            "replayHash": "18014f80036b402f7a5e3ef4611ffa60d1bf1b63",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/18014f80036b402f7a5e3ef4611ffa60d1bf1b63"
+            "createdAt": "2026-03-30T00:48:13.229Z",
+            "replayHash": "a5504e234f8ee0b19e1873eec5f8bd29783ef65d",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/a5504e234f8ee0b19e1873eec5f8bd29783ef65d"
           }
         ]
       }
     },
     {
       "map": {
-        "id": 64,
-        "name": "surf_lovetunnel",
-        "thumbnail": "https://cdn.momentum-mod.org/img/65012fff-6b10-4c09-a980-50d54944e322-small.jpg",
-        "tier": 1,
-        "unique_completions": 16280
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 50.21999887749553,
-            "rank": 1865,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-30T14:34:57.871Z",
-            "replayHash": "cb8d1950acad0dc345311e7fb80cc0937a2083c1",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/cb8d1950acad0dc345311e7fb80cc0937a2083c1"
-          },
-          {
-            "filter_type": "friends",
-            "time": 50.54999887011945,
-            "rank": 2091,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-04T02:00:37.811Z",
-            "replayHash": "117395c9570880339d62d0f07d4a93c254aa492a",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/117395c9570880339d62d0f07d4a93c254aa492a"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 292,
-        "name": "surf_aesthetic",
-        "thumbnail": "https://cdn.momentum-mod.org/img/945f30e9-1e45-4b94-be43-7d2627aa4443-small.jpg",
-        "tier": 1,
-        "unique_completions": 11980
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 59.60999866761267,
-            "rank": 715,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-04T21:56:35.731Z",
-            "replayHash": "1907c0e358c16710f3d2bc03cae4699bd25614a4",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/1907c0e358c16710f3d2bc03cae4699bd25614a4"
-          },
-          {
-            "filter_type": "friends",
-            "time": 237.38999469392,
-            "rank": 4692,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-04T21:57:00.786Z",
-            "replayHash": "0eae91c34d7c69751675d1e75af2c88fdbb87ad6",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/0eae91c34d7c69751675d1e75af2c88fdbb87ad6"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 963,
-        "name": "surf_reytx",
-        "thumbnail": "https://cdn.momentum-mod.org/img/3fc4441e-67e7-41c2-b2a5-37ab7c6d86f3-small.jpg",
-        "tier": 1,
-        "unique_completions": 14945
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 52.79999881982803,
-            "rank": 670,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2025-12-26T20:38:49.197Z",
-            "replayHash": "2074eb071477c94679be17a8085c0034dda02a36",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/2074eb071477c94679be17a8085c0034dda02a36"
-          },
-          {
-            "filter_type": "friends",
-            "time": 53.02499881479889,
-            "rank": 759,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-03T19:46:00.894Z",
-            "replayHash": "af22ab054221cd9a8f0ef87b815ac940be068ed5",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/af22ab054221cd9a8f0ef87b815ac940be068ed5"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 431,
-        "name": "surf_boreas",
-        "thumbnail": "https://cdn.momentum-mod.org/img/388b7796-41fc-4a8c-9d7b-5e86398e88ad-small.jpg",
-        "tier": 1,
-        "unique_completions": 81842
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 42.55499904882163,
-            "rank": 2981,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-06T15:09:18.364Z",
-            "replayHash": "ca1d2716b265d9bafa7714bbe22508a6f6bb8dc3",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/ca1d2716b265d9bafa7714bbe22508a6f6bb8dc3"
-          },
-          {
-            "filter_type": "friends",
-            "time": 42.85499904211611,
-            "rank": 3352,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-24T21:53:22.402Z",
-            "replayHash": "0b506dd37d8f964d4e6f36a14c768039c6fe7cff",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/0b506dd37d8f964d4e6f36a14c768039c6fe7cff"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 412,
-        "name": "surf_zenith",
-        "thumbnail": "https://cdn.momentum-mod.org/img/28a349f7-32ad-43b0-9596-00b71b56340c-small.jpg",
+        "id": 804,
+        "name": "surf_epicube",
+        "thumbnail": "https://cdn.momentum-mod.org/img/d7446470-9633-4d4f-8f39-3cfb40fbecee-small.jpg",
         "tier": 2,
-        "unique_completions": 1163
+        "unique_completions": 757
       },
       "leaderboard": {
-        "users": [
-          {
-            "filter_type": "friends",
-            "time": 51.34499885234982,
-            "rank": 234,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-01T19:01:15.582Z",
-            "replayHash": "5ad49b3ce385a59a4077b33ebf37af321e8e56be",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/5ad49b3ce385a59a4077b33ebf37af321e8e56be"
-          }
-        ]
+        "users": []
       }
     },
     {
@@ -1861,7 +1873,7 @@
         "name": "surf_spacejam",
         "thumbnail": "https://cdn.momentum-mod.org/img/a87438ec-47c1-4421-8751-d4c088897842-small.jpg",
         "tier": 2,
-        "unique_completions": 2119
+        "unique_completions": 2120
       },
       "leaderboard": {
         "users": [
@@ -1935,14 +1947,54 @@
     },
     {
       "map": {
-        "id": 804,
-        "name": "surf_epicube",
-        "thumbnail": "https://cdn.momentum-mod.org/img/d7446470-9633-4d4f-8f39-3cfb40fbecee-small.jpg",
+        "id": 1266,
+        "name": "surf_in_space",
+        "thumbnail": "https://cdn.momentum-mod.org/img/3478f2de-7ac6-42eb-b7dc-ef4c05be6a24-small.jpg",
         "tier": 2,
-        "unique_completions": 757
+        "unique_completions": 1599
       },
       "leaderboard": {
-        "users": []
+        "users": [
+          {
+            "filter_type": "friends",
+            "time": 70.01999843493104,
+            "rank": 334,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-20T02:20:17.570Z",
+            "replayHash": "3a3701ba765bc6a509e439c54932464ec3eca0e9",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/3a3701ba765bc6a509e439c54932464ec3eca0e9"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 1232,
+        "name": "surf_8bit",
+        "thumbnail": "https://cdn.momentum-mod.org/img/c6fe393b-b1e0-4a4b-b542-f64137071d55-small.jpg",
+        "tier": 2,
+        "unique_completions": 1831
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "friends",
+            "time": 69.67499844264239,
+            "rank": 299,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-20T02:06:30.831Z",
+            "replayHash": "064d2df601a64ceba215c8cd529ece0573fb2890",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/064d2df601a64ceba215c8cd529ece0573fb2890"
+          }
+        ]
       }
     },
     {
@@ -1986,80 +2038,14 @@
     },
     {
       "map": {
-        "id": 1215,
-        "name": "surf_ravine",
-        "thumbnail": "https://cdn.momentum-mod.org/img/af5d96af-8307-4495-8c4b-60f06bdf3abd-small.jpg",
+        "id": 1461,
+        "name": "surf_interference",
+        "thumbnail": "https://cdn.momentum-mod.org/img/5940bd42-7d7f-4569-9fa9-bac325fb6713-small.jpg",
         "tier": 2,
-        "unique_completions": 4654
+        "unique_completions": 1201
       },
       "leaderboard": {
-        "users": [
-          {
-            "filter_type": "friends",
-            "time": 57.40499871689826,
-            "rank": 757,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-20T01:56:49.933Z",
-            "replayHash": "afc795b9556081201e02c586649eed41b7840b77",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/afc795b9556081201e02c586649eed41b7840b77"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 1232,
-        "name": "surf_8bit",
-        "thumbnail": "https://cdn.momentum-mod.org/img/c6fe393b-b1e0-4a4b-b542-f64137071d55-small.jpg",
-        "tier": 2,
-        "unique_completions": 1831
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "friends",
-            "time": 69.67499844264239,
-            "rank": 299,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-20T02:06:30.831Z",
-            "replayHash": "064d2df601a64ceba215c8cd529ece0573fb2890",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/064d2df601a64ceba215c8cd529ece0573fb2890"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 1266,
-        "name": "surf_in_space",
-        "thumbnail": "https://cdn.momentum-mod.org/img/3478f2de-7ac6-42eb-b7dc-ef4c05be6a24-small.jpg",
-        "tier": 2,
-        "unique_completions": 1599
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "friends",
-            "time": 70.01999843493104,
-            "rank": 334,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-20T02:20:17.570Z",
-            "replayHash": "3a3701ba765bc6a509e439c54932464ec3eca0e9",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/3a3701ba765bc6a509e439c54932464ec3eca0e9"
-          }
-        ]
+        "users": []
       }
     },
     {
@@ -2088,26 +2074,28 @@
     },
     {
       "map": {
-        "id": 1461,
-        "name": "surf_interference",
-        "thumbnail": "https://cdn.momentum-mod.org/img/5940bd42-7d7f-4569-9fa9-bac325fb6713-small.jpg",
+        "id": 1215,
+        "name": "surf_ravine",
+        "thumbnail": "https://cdn.momentum-mod.org/img/af5d96af-8307-4495-8c4b-60f06bdf3abd-small.jpg",
         "tier": 2,
-        "unique_completions": 1201
+        "unique_completions": 4655
       },
       "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1578,
-        "name": "surf_ethereal",
-        "thumbnail": "https://cdn.momentum-mod.org/img/1cc25cd0-b196-49b7-8f03-3cab14b33e73-small.jpg",
-        "tier": 2,
-        "unique_completions": 2103
-      },
-      "leaderboard": {
-        "users": []
+        "users": [
+          {
+            "filter_type": "friends",
+            "time": 57.40499871689826,
+            "rank": 758,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-20T01:56:49.933Z",
+            "replayHash": "afc795b9556081201e02c586649eed41b7840b77",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/afc795b9556081201e02c586649eed41b7840b77"
+          }
+        ]
       }
     },
     {
@@ -2117,18 +2105,6 @@
         "thumbnail": "https://cdn.momentum-mod.org/img/4ea61e82-ad3d-4437-893b-d752188eaedd-small.jpg",
         "tier": 2,
         "unique_completions": 2319
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1751,
-        "name": "surf_zae",
-        "thumbnail": "https://cdn.momentum-mod.org/img/e0f954da-b068-4c8c-93fe-0a916f4339f4-small.jpg",
-        "tier": 2,
-        "unique_completions": 2641
       },
       "leaderboard": {
         "users": []
@@ -2148,11 +2124,11 @@
     },
     {
       "map": {
-        "id": 1748,
-        "name": "surf_not_so_disaster",
-        "thumbnail": "https://cdn.momentum-mod.org/img/dfa2e982-c86a-428e-bd95-30a86920d37f-small.jpg",
+        "id": 1662,
+        "name": "surf_4head",
+        "thumbnail": "https://cdn.momentum-mod.org/img/80eddf9a-25ba-4ce1-a9c1-50d7620d8ac6-small.jpg",
         "tier": 2,
-        "unique_completions": 446
+        "unique_completions": 793
       },
       "leaderboard": {
         "users": []
@@ -2160,11 +2136,11 @@
     },
     {
       "map": {
-        "id": 1662,
-        "name": "surf_4head",
-        "thumbnail": "https://cdn.momentum-mod.org/img/80eddf9a-25ba-4ce1-a9c1-50d7620d8ac6-small.jpg",
+        "id": 48,
+        "name": "surf_skipalot",
+        "thumbnail": "https://cdn.momentum-mod.org/img/b6e73abe-adfe-415f-bd35-b4767d60950e-small.jpg",
         "tier": 2,
-        "unique_completions": 793
+        "unique_completions": 657
       },
       "leaderboard": {
         "users": []
@@ -2184,11 +2160,11 @@
     },
     {
       "map": {
-        "id": 48,
-        "name": "surf_skipalot",
-        "thumbnail": "https://cdn.momentum-mod.org/img/b6e73abe-adfe-415f-bd35-b4767d60950e-small.jpg",
+        "id": 1578,
+        "name": "surf_ethereal",
+        "thumbnail": "https://cdn.momentum-mod.org/img/1cc25cd0-b196-49b7-8f03-3cab14b33e73-small.jpg",
         "tier": 2,
-        "unique_completions": 656
+        "unique_completions": 2103
       },
       "leaderboard": {
         "users": []
@@ -2196,11 +2172,11 @@
     },
     {
       "map": {
-        "id": 1187,
-        "name": "surf_flow",
-        "thumbnail": "https://cdn.momentum-mod.org/img/11f1384a-b72c-43d2-8f81-1c9c9dc5d025-small.jpg",
+        "id": 1748,
+        "name": "surf_not_so_disaster",
+        "thumbnail": "https://cdn.momentum-mod.org/img/dfa2e982-c86a-428e-bd95-30a86920d37f-small.jpg",
         "tier": 2,
-        "unique_completions": 2036
+        "unique_completions": 446
       },
       "leaderboard": {
         "users": []
@@ -2208,23 +2184,11 @@
     },
     {
       "map": {
-        "id": 1561,
-        "name": "surf_leidenfrost",
-        "thumbnail": "https://cdn.momentum-mod.org/img/85ccadd9-f319-4d81-b55c-39d0b6ddf70e-small.jpg",
+        "id": 1751,
+        "name": "surf_zae",
+        "thumbnail": "https://cdn.momentum-mod.org/img/e0f954da-b068-4c8c-93fe-0a916f4339f4-small.jpg",
         "tier": 2,
-        "unique_completions": 1717
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1213,
-        "name": "surf_ebony",
-        "thumbnail": "https://cdn.momentum-mod.org/img/dc67eaf6-397f-48c7-834e-489ee696f9f2-small.jpg",
-        "tier": 2,
-        "unique_completions": 722
+        "unique_completions": 2641
       },
       "leaderboard": {
         "users": []
@@ -2237,6 +2201,18 @@
         "thumbnail": "https://cdn.momentum-mod.org/img/38610b7b-212b-4875-a241-985d6bbc0c82-small.jpg",
         "tier": 2,
         "unique_completions": 1691
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1187,
+        "name": "surf_flow",
+        "thumbnail": "https://cdn.momentum-mod.org/img/11f1384a-b72c-43d2-8f81-1c9c9dc5d025-small.jpg",
+        "tier": 2,
+        "unique_completions": 2036
       },
       "leaderboard": {
         "users": []
@@ -2283,6 +2259,18 @@
     },
     {
       "map": {
+        "id": 1213,
+        "name": "surf_ebony",
+        "thumbnail": "https://cdn.momentum-mod.org/img/dc67eaf6-397f-48c7-834e-489ee696f9f2-small.jpg",
+        "tier": 2,
+        "unique_completions": 722
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
         "id": 414,
         "name": "surf_aquaflow",
         "thumbnail": "https://cdn.momentum-mod.org/img/1dca7032-b5c1-49a3-842c-4a0dd7d52f47-small.jpg",
@@ -2295,35 +2283,23 @@
     },
     {
       "map": {
+        "id": 1561,
+        "name": "surf_leidenfrost",
+        "thumbnail": "https://cdn.momentum-mod.org/img/85ccadd9-f319-4d81-b55c-39d0b6ddf70e-small.jpg",
+        "tier": 2,
+        "unique_completions": 1717
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
         "id": 93,
         "name": "surf_apollonian",
         "thumbnail": "https://cdn.momentum-mod.org/img/f807520d-5cb4-47d9-b291-068248308416-small.jpg",
         "tier": 2,
         "unique_completions": 2653
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 909,
-        "name": "surf_kepler",
-        "thumbnail": "https://cdn.momentum-mod.org/img/405bf06d-f2bb-4f3e-a0f6-f0bee10c83fe-small.jpg",
-        "tier": 2,
-        "unique_completions": 3911
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 904,
-        "name": "surf_windrunner",
-        "thumbnail": "https://cdn.momentum-mod.org/img/290073e4-1766-4381-975f-1296f871ff5d-small.jpg",
-        "tier": 2,
-        "unique_completions": 1924
       },
       "leaderboard": {
         "users": []
@@ -2357,11 +2333,35 @@
     },
     {
       "map": {
+        "id": 904,
+        "name": "surf_windrunner",
+        "thumbnail": "https://cdn.momentum-mod.org/img/290073e4-1766-4381-975f-1296f871ff5d-small.jpg",
+        "tier": 2,
+        "unique_completions": 1924
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
         "id": 1569,
         "name": "surf_frost",
         "thumbnail": "https://cdn.momentum-mod.org/img/5ef75983-53b7-4c0a-8a24-f018ba78e50b-small.jpg",
         "tier": 2,
         "unique_completions": 3527
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 909,
+        "name": "surf_kepler",
+        "thumbnail": "https://cdn.momentum-mod.org/img/405bf06d-f2bb-4f3e-a0f6-f0bee10c83fe-small.jpg",
+        "tier": 2,
+        "unique_completions": 3911
       },
       "leaderboard": {
         "users": []
@@ -2444,6 +2444,18 @@
     },
     {
       "map": {
+        "id": 1244,
+        "name": "surf_harmony",
+        "thumbnail": "https://cdn.momentum-mod.org/img/26238e40-f3a1-4fb5-ac9f-979629ae8324-small.jpg",
+        "tier": 2,
+        "unique_completions": 2390
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
         "id": 57,
         "name": "surf_sandtrap2",
         "thumbnail": "https://cdn.momentum-mod.org/img/f119c37b-216f-4588-b8c3-4e2d379aa661-small.jpg",
@@ -2452,6 +2464,32 @@
       },
       "leaderboard": {
         "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 710,
+        "name": "surf_reprise",
+        "thumbnail": "https://cdn.momentum-mod.org/img/732cae0e-1576-464a-bef1-a41ba5ba3ea0-small.jpg",
+        "tier": 2,
+        "unique_completions": 5732
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 66.34499851707369,
+            "rank": 498,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2025-12-24T19:26:26.578Z",
+            "replayHash": "a7dcb254b07b3482bf21d0b9d402fb109f5255c1",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/a7dcb254b07b3482bf21d0b9d402fb109f5255c1"
+          }
+        ]
       }
     },
     {
@@ -2480,11 +2518,11 @@
     },
     {
       "map": {
-        "id": 1244,
-        "name": "surf_harmony",
-        "thumbnail": "https://cdn.momentum-mod.org/img/26238e40-f3a1-4fb5-ac9f-979629ae8324-small.jpg",
+        "id": 237,
+        "name": "surf_sandtrap",
+        "thumbnail": "https://cdn.momentum-mod.org/img/7001c956-e0ca-4939-be1f-adaca632620c-small.jpg",
         "tier": 2,
-        "unique_completions": 2390
+        "unique_completions": 2185
       },
       "leaderboard": {
         "users": []
@@ -2504,44 +2542,6 @@
     },
     {
       "map": {
-        "id": 1343,
-        "name": "surf_whatever",
-        "thumbnail": "https://cdn.momentum-mod.org/img/57cc2441-cdb2-4b30-83d0-02798c9597e8-small.jpg",
-        "tier": 2,
-        "unique_completions": 1533
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 710,
-        "name": "surf_reprise",
-        "thumbnail": "https://cdn.momentum-mod.org/img/732cae0e-1576-464a-bef1-a41ba5ba3ea0-small.jpg",
-        "tier": 2,
-        "unique_completions": 5731
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 66.34499851707369,
-            "rank": 498,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2025-12-24T19:26:26.578Z",
-            "replayHash": "a7dcb254b07b3482bf21d0b9d402fb109f5255c1",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/a7dcb254b07b3482bf21d0b9d402fb109f5255c1"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
         "id": 1365,
         "name": "surf_sanctuary",
         "thumbnail": "https://cdn.momentum-mod.org/img/901c4155-8a2a-4b0a-932e-46386f04234b-small.jpg",
@@ -2554,23 +2554,11 @@
     },
     {
       "map": {
-        "id": 237,
-        "name": "surf_sandtrap",
-        "thumbnail": "https://cdn.momentum-mod.org/img/7001c956-e0ca-4939-be1f-adaca632620c-small.jpg",
+        "id": 1343,
+        "name": "surf_whatever",
+        "thumbnail": "https://cdn.momentum-mod.org/img/57cc2441-cdb2-4b30-83d0-02798c9597e8-small.jpg",
         "tier": 2,
-        "unique_completions": 2185
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1324,
-        "name": "surf_pinkcubes",
-        "thumbnail": "https://cdn.momentum-mod.org/img/41a108ce-a66f-4f0c-aa15-a1c7bf1cbe5d-small.jpg",
-        "tier": 2,
-        "unique_completions": 1453
+        "unique_completions": 1533
       },
       "leaderboard": {
         "users": []
@@ -2583,18 +2571,6 @@
         "thumbnail": "https://cdn.momentum-mod.org/img/f74f1c5d-2083-4d3e-aabb-695b1bb6b417-small.jpg",
         "tier": 2,
         "unique_completions": 1119
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1308,
-        "name": "surf_happyhands5",
-        "thumbnail": "https://cdn.momentum-mod.org/img/d4a3d40f-9524-4538-b701-05d1ed09a853-small.jpg",
-        "tier": 2,
-        "unique_completions": 2100
       },
       "leaderboard": {
         "users": []
@@ -2638,11 +2614,11 @@
     },
     {
       "map": {
-        "id": 226,
-        "name": "surf_kloakk",
-        "thumbnail": "https://cdn.momentum-mod.org/img/47ed43c2-5bcf-4684-9ce5-a3dd2d2a1143-small.jpg",
+        "id": 1324,
+        "name": "surf_pinkcubes",
+        "thumbnail": "https://cdn.momentum-mod.org/img/41a108ce-a66f-4f0c-aa15-a1c7bf1cbe5d-small.jpg",
         "tier": 2,
-        "unique_completions": 3367
+        "unique_completions": 1453
       },
       "leaderboard": {
         "users": []
@@ -2650,11 +2626,23 @@
     },
     {
       "map": {
-        "id": 1261,
-        "name": "surf_tensile",
-        "thumbnail": "https://cdn.momentum-mod.org/img/2b394d63-cd86-4ace-b5ab-ca8934b074a4-small.jpg",
+        "id": 1308,
+        "name": "surf_happyhands5",
+        "thumbnail": "https://cdn.momentum-mod.org/img/d4a3d40f-9524-4538-b701-05d1ed09a853-small.jpg",
         "tier": 2,
-        "unique_completions": 1006
+        "unique_completions": 2100
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 226,
+        "name": "surf_kloakk",
+        "thumbnail": "https://cdn.momentum-mod.org/img/47ed43c2-5bcf-4684-9ce5-a3dd2d2a1143-small.jpg",
+        "tier": 2,
+        "unique_completions": 3367
       },
       "leaderboard": {
         "users": []
@@ -2674,11 +2662,11 @@
     },
     {
       "map": {
-        "id": 1258,
-        "name": "surf_delight",
-        "thumbnail": "https://cdn.momentum-mod.org/img/190ea6aa-a350-4ba2-8923-80534a603e5c-small.jpg",
+        "id": 1260,
+        "name": "surf_giza",
+        "thumbnail": "https://cdn.momentum-mod.org/img/cb49e1b8-e84f-4527-9c77-48c42addea4f-small.jpg",
         "tier": 2,
-        "unique_completions": 1675
+        "unique_completions": 1044
       },
       "leaderboard": {
         "users": []
@@ -2686,11 +2674,11 @@
     },
     {
       "map": {
-        "id": 1188,
-        "name": "surf_greensway",
-        "thumbnail": "https://cdn.momentum-mod.org/img/21573e63-6ad3-42df-8abb-090bbb67d96a-small.jpg",
+        "id": 1261,
+        "name": "surf_tensile",
+        "thumbnail": "https://cdn.momentum-mod.org/img/2b394d63-cd86-4ace-b5ab-ca8934b074a4-small.jpg",
         "tier": 2,
-        "unique_completions": 1193
+        "unique_completions": 1006
       },
       "leaderboard": {
         "users": []
@@ -2722,6 +2710,18 @@
     },
     {
       "map": {
+        "id": 1021,
+        "name": "surf_moonkingdom",
+        "thumbnail": "https://cdn.momentum-mod.org/img/f1d055cd-3880-4289-b23c-46ffe111e76b-small.jpg",
+        "tier": 2,
+        "unique_completions": 2309
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
         "id": 1212,
         "name": "surf_holiday",
         "thumbnail": "https://cdn.momentum-mod.org/img/554436de-e157-4376-9e47-5b4e992a84a3-small.jpg",
@@ -2734,23 +2734,11 @@
     },
     {
       "map": {
-        "id": 1196,
-        "name": "surf_saturday",
-        "thumbnail": "https://cdn.momentum-mod.org/img/a5921560-ebfe-4276-b2cd-ee71fa8d95f2-small.jpg",
+        "id": 1258,
+        "name": "surf_delight",
+        "thumbnail": "https://cdn.momentum-mod.org/img/190ea6aa-a350-4ba2-8923-80534a603e5c-small.jpg",
         "tier": 2,
-        "unique_completions": 1965
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1025,
-        "name": "surf_stonks",
-        "thumbnail": "https://cdn.momentum-mod.org/img/2814129c-b227-4b0a-9f17-db52ca5e1b40-small.jpg",
-        "tier": 2,
-        "unique_completions": 2559
+        "unique_completions": 1675
       },
       "leaderboard": {
         "users": []
@@ -2770,98 +2758,11 @@
     },
     {
       "map": {
-        "id": 999,
-        "name": "surf_everdark",
-        "thumbnail": "https://cdn.momentum-mod.org/img/95f53ebd-9bac-4433-bb5a-93b99fbc8057-small.jpg",
+        "id": 1025,
+        "name": "surf_stonks",
+        "thumbnail": "https://cdn.momentum-mod.org/img/2814129c-b227-4b0a-9f17-db52ca5e1b40-small.jpg",
         "tier": 2,
-        "unique_completions": 782
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 283,
-        "name": "surf_fruits",
-        "thumbnail": "https://cdn.momentum-mod.org/img/96a879f2-ed15-453f-a5db-101bd5c2aad4-small.jpg",
-        "tier": 2,
-        "unique_completions": 2532
-      },
-      "leaderboard": {
-        "users": [
-          {
-            "filter_type": "around",
-            "time": 455.714989813976,
-            "rank": 700,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-05T20:48:22.106Z",
-            "replayHash": "4c9edf6ef7412523b76f20aa87934efba4e48619",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/4c9edf6ef7412523b76f20aa87934efba4e48619"
-          },
-          {
-            "filter_type": "friends",
-            "time": 133.8899970073253,
-            "rank": 157,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-05T20:45:46.453Z",
-            "replayHash": "82e66aa8b1a91af84dbafaf4cf723525c4d637d6",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/82e66aa8b1a91af84dbafaf4cf723525c4d637d6"
-          }
-        ]
-      }
-    },
-    {
-      "map": {
-        "id": 1021,
-        "name": "surf_moonkingdom",
-        "thumbnail": "https://cdn.momentum-mod.org/img/f1d055cd-3880-4289-b23c-46ffe111e76b-small.jpg",
-        "tier": 2,
-        "unique_completions": 2309
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 784,
-        "name": "surf_glass9",
-        "thumbnail": "https://cdn.momentum-mod.org/img/f583d1f4-a011-4ca8-b629-a768544f8c48-small.jpg",
-        "tier": 2,
-        "unique_completions": 1564
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 54,
-        "name": "surf_zealand",
-        "thumbnail": "https://cdn.momentum-mod.org/img/0ee9a34d-00f8-41c1-9980-eadb67c095bc-small.jpg",
-        "tier": 2,
-        "unique_completions": 2196
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1260,
-        "name": "surf_giza",
-        "thumbnail": "https://cdn.momentum-mod.org/img/cb49e1b8-e84f-4527-9c77-48c42addea4f-small.jpg",
-        "tier": 2,
-        "unique_completions": 1044
+        "unique_completions": 2559
       },
       "leaderboard": {
         "users": []
@@ -2874,54 +2775,6 @@
         "thumbnail": "https://cdn.momentum-mod.org/img/907dcfdb-be44-4659-b93a-6040d887b265-small.jpg",
         "tier": 2,
         "unique_completions": 1212
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 952,
-        "name": "surf_benevolent",
-        "thumbnail": "https://cdn.momentum-mod.org/img/848cd15e-07ce-43e0-9047-c033fcd98392-small.jpg",
-        "tier": 2,
-        "unique_completions": 6940
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 103,
-        "name": "surf_echo",
-        "thumbnail": "https://cdn.momentum-mod.org/img/bd399575-82ca-46dc-ad46-f4ae5bb59393-small.jpg",
-        "tier": 2,
-        "unique_completions": 4648
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 982,
-        "name": "surf_cyberwave",
-        "thumbnail": "https://cdn.momentum-mod.org/img/b2ae0823-128b-4126-b6ad-4068f76ab342-small.jpg",
-        "tier": 2,
-        "unique_completions": 7998
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 88,
-        "name": "surf_indecisive",
-        "thumbnail": "https://cdn.momentum-mod.org/img/c3b0590e-7eda-4ee6-a73e-b99ab5e292a3-small.jpg",
-        "tier": 2,
-        "unique_completions": 5219
       },
       "leaderboard": {
         "users": []
@@ -2968,6 +2821,153 @@
     },
     {
       "map": {
+        "id": 999,
+        "name": "surf_everdark",
+        "thumbnail": "https://cdn.momentum-mod.org/img/95f53ebd-9bac-4433-bb5a-93b99fbc8057-small.jpg",
+        "tier": 2,
+        "unique_completions": 782
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 784,
+        "name": "surf_glass9",
+        "thumbnail": "https://cdn.momentum-mod.org/img/f583d1f4-a011-4ca8-b629-a768544f8c48-small.jpg",
+        "tier": 2,
+        "unique_completions": 1564
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 283,
+        "name": "surf_fruits",
+        "thumbnail": "https://cdn.momentum-mod.org/img/96a879f2-ed15-453f-a5db-101bd5c2aad4-small.jpg",
+        "tier": 2,
+        "unique_completions": 2532
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 455.714989813976,
+            "rank": 700,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-05T20:48:22.106Z",
+            "replayHash": "4c9edf6ef7412523b76f20aa87934efba4e48619",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/4c9edf6ef7412523b76f20aa87934efba4e48619"
+          },
+          {
+            "filter_type": "friends",
+            "time": 133.8899970073253,
+            "rank": 157,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-04-05T20:45:46.453Z",
+            "replayHash": "82e66aa8b1a91af84dbafaf4cf723525c4d637d6",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/82e66aa8b1a91af84dbafaf4cf723525c4d637d6"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 54,
+        "name": "surf_zealand",
+        "thumbnail": "https://cdn.momentum-mod.org/img/0ee9a34d-00f8-41c1-9980-eadb67c095bc-small.jpg",
+        "tier": 2,
+        "unique_completions": 2196
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 103,
+        "name": "surf_echo",
+        "thumbnail": "https://cdn.momentum-mod.org/img/bd399575-82ca-46dc-ad46-f4ae5bb59393-small.jpg",
+        "tier": 2,
+        "unique_completions": 4648
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1196,
+        "name": "surf_saturday",
+        "thumbnail": "https://cdn.momentum-mod.org/img/a5921560-ebfe-4276-b2cd-ee71fa8d95f2-small.jpg",
+        "tier": 2,
+        "unique_completions": 1965
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 88,
+        "name": "surf_indecisive",
+        "thumbnail": "https://cdn.momentum-mod.org/img/c3b0590e-7eda-4ee6-a73e-b99ab5e292a3-small.jpg",
+        "tier": 2,
+        "unique_completions": 5219
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 952,
+        "name": "surf_benevolent",
+        "thumbnail": "https://cdn.momentum-mod.org/img/848cd15e-07ce-43e0-9047-c033fcd98392-small.jpg",
+        "tier": 2,
+        "unique_completions": 6940
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1188,
+        "name": "surf_greensway",
+        "thumbnail": "https://cdn.momentum-mod.org/img/21573e63-6ad3-42df-8abb-090bbb67d96a-small.jpg",
+        "tier": 2,
+        "unique_completions": 1193
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 982,
+        "name": "surf_cyberwave",
+        "thumbnail": "https://cdn.momentum-mod.org/img/b2ae0823-128b-4126-b6ad-4068f76ab342-small.jpg",
+        "tier": 2,
+        "unique_completions": 7998
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
         "id": 1483,
         "name": "surf_medley",
         "thumbnail": "https://cdn.momentum-mod.org/img/4761a690-67a0-4e0e-a8aa-2b1a129dda73-small.jpg",
@@ -2994,6 +2994,18 @@
     },
     {
       "map": {
+        "id": 163,
+        "name": "surf_mate",
+        "thumbnail": "https://cdn.momentum-mod.org/img/cc501a8a-a97a-44ab-be2d-dc183305f649-small.jpg",
+        "tier": 2,
+        "unique_completions": 1983
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
         "id": 68,
         "name": "surf_palais",
         "thumbnail": "https://cdn.momentum-mod.org/img/5317110e-124a-481e-beea-31656e9b6920-small.jpg",
@@ -3006,23 +3018,11 @@
     },
     {
       "map": {
-        "id": 163,
-        "name": "surf_mate",
-        "thumbnail": "https://cdn.momentum-mod.org/img/cc501a8a-a97a-44ab-be2d-dc183305f649-small.jpg",
+        "id": 52,
+        "name": "surf_premium",
+        "thumbnail": "https://cdn.momentum-mod.org/img/d2c41478-998f-4f3b-aa07-76025d6579c5-small.jpg",
         "tier": 2,
-        "unique_completions": 1982
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 51,
-        "name": "surf_pipeline",
-        "thumbnail": "https://cdn.momentum-mod.org/img/48c42272-892d-41d7-9d96-d371047bb146-small.jpg",
-        "tier": 2,
-        "unique_completions": 1368
+        "unique_completions": 4355
       },
       "leaderboard": {
         "users": []
@@ -3056,35 +3056,11 @@
     },
     {
       "map": {
-        "id": 52,
-        "name": "surf_premium",
-        "thumbnail": "https://cdn.momentum-mod.org/img/d2c41478-998f-4f3b-aa07-76025d6579c5-small.jpg",
+        "id": 83,
+        "name": "surf_ivory",
+        "thumbnail": "https://cdn.momentum-mod.org/img/9b7e8414-04c3-45be-8ab2-afbc755c4434-small.jpg",
         "tier": 2,
-        "unique_completions": 4355
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 238,
-        "name": "surf_island",
-        "thumbnail": "https://cdn.momentum-mod.org/img/adef49db-a871-4cdb-a401-d28b4e1c71b1-small.jpg",
-        "tier": 2,
-        "unique_completions": 2284
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 41,
-        "name": "surf_aether",
-        "thumbnail": "https://cdn.momentum-mod.org/img/cae5efe8-d97d-4fce-9c0e-48797c9ccf7a-small.jpg",
-        "tier": 2,
-        "unique_completions": 3366
+        "unique_completions": 2558
       },
       "leaderboard": {
         "users": []
@@ -3116,11 +3092,35 @@
     },
     {
       "map": {
+        "id": 41,
+        "name": "surf_aether",
+        "thumbnail": "https://cdn.momentum-mod.org/img/cae5efe8-d97d-4fce-9c0e-48797c9ccf7a-small.jpg",
+        "tier": 2,
+        "unique_completions": 3366
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 238,
+        "name": "surf_island",
+        "thumbnail": "https://cdn.momentum-mod.org/img/adef49db-a871-4cdb-a401-d28b4e1c71b1-small.jpg",
+        "tier": 2,
+        "unique_completions": 2284
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
         "id": 280,
         "name": "surf_borderlands_h",
         "thumbnail": "https://cdn.momentum-mod.org/img/82fcbbc0-30b8-4af2-adc0-5f84a798cfed-small.jpg",
         "tier": 2,
-        "unique_completions": 8182
+        "unique_completions": 8184
       },
       "leaderboard": {
         "users": [
@@ -3142,28 +3142,26 @@
     },
     {
       "map": {
-        "id": 1635,
-        "name": "surf_milkyway",
-        "thumbnail": "https://cdn.momentum-mod.org/img/a7729bb1-f793-45e4-a706-52870a942af5-small.jpg",
-        "tier": 3,
-        "unique_completions": 362
+        "id": 51,
+        "name": "surf_pipeline",
+        "thumbnail": "https://cdn.momentum-mod.org/img/48c42272-892d-41d7-9d96-d371047bb146-small.jpg",
+        "tier": 2,
+        "unique_completions": 1368
       },
       "leaderboard": {
-        "users": [
-          {
-            "filter_type": "friends",
-            "time": 64.30499856267124,
-            "rank": 86,
-            "userID": 55340,
-            "steamID": "76561197998679152",
-            "alias": "Francis",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-04-04T11:36:03.198Z",
-            "replayHash": "1c237dcefc20c4c72a04cfd9ebe63d9426e0f07a",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/1c237dcefc20c4c72a04cfd9ebe63d9426e0f07a"
-          }
-        ]
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 102,
+        "name": "surf_whiteout",
+        "thumbnail": "https://cdn.momentum-mod.org/img/7c23d37c-1ea7-4777-9e7c-139b72964657-small.jpg",
+        "tier": 2,
+        "unique_completions": 11583
+      },
+      "leaderboard": {
+        "users": []
       }
     },
     {
@@ -3207,98 +3205,37 @@
     },
     {
       "map": {
-        "id": 102,
-        "name": "surf_whiteout",
-        "thumbnail": "https://cdn.momentum-mod.org/img/7c23d37c-1ea7-4777-9e7c-139b72964657-small.jpg",
-        "tier": 2,
-        "unique_completions": 11583
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 83,
-        "name": "surf_ivory",
-        "thumbnail": "https://cdn.momentum-mod.org/img/9b7e8414-04c3-45be-8ab2-afbc755c4434-small.jpg",
-        "tier": 2,
-        "unique_completions": 2558
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1077,
-        "name": "surf_carbon",
-        "thumbnail": "https://cdn.momentum-mod.org/img/aca75411-5a6c-44a8-8835-1cbe44b515ff-small.jpg",
+        "id": 1635,
+        "name": "surf_milkyway",
+        "thumbnail": "https://cdn.momentum-mod.org/img/a7729bb1-f793-45e4-a706-52870a942af5-small.jpg",
         "tier": 3,
-        "unique_completions": 632
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 104,
-        "name": "surf_fiellu",
-        "thumbnail": "https://cdn.momentum-mod.org/img/b267398e-29b8-44c6-b7f9-fd9bb8ab3c43-small.jpg",
-        "tier": 3,
-        "unique_completions": 1023
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1867,
-        "name": "surf_fantasy",
-        "thumbnail": "https://cdn.momentum-mod.org/img/d38470a1-fe4d-42d3-aaec-eb3ed6d2eba1-small.jpg",
-        "tier": 3,
-        "unique_completions": 803
+        "unique_completions": 362
       },
       "leaderboard": {
         "users": [
           {
-            "filter_type": "around",
-            "time": 1272.794971550815,
-            "rank": 273,
-            "userID": 45868,
-            "steamID": "76561198330263258",
-            "alias": "ita.34",
-            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
-            "country": "PT",
-            "createdAt": "2026-03-29T21:08:06.661Z",
-            "replayHash": "70c33a61f5a891dfbfefb67952f88b08242d05a0",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/70c33a61f5a891dfbfefb67952f88b08242d05a0"
-          },
-          {
             "filter_type": "friends",
-            "time": 91.2299979608506,
-            "rank": 90,
+            "time": 64.30499856267124,
+            "rank": 86,
             "userID": 55340,
             "steamID": "76561197998679152",
             "alias": "Francis",
             "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
             "country": "PT",
-            "createdAt": "2026-03-29T17:42:08.397Z",
-            "replayHash": "5859123f0d9ab3c4be759d1714c84c2c8e33a055",
-            "downloadURL": "https://cdn.momentum-mod.org/runs/5859123f0d9ab3c4be759d1714c84c2c8e33a055"
+            "createdAt": "2026-04-04T11:36:03.198Z",
+            "replayHash": "1c237dcefc20c4c72a04cfd9ebe63d9426e0f07a",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/1c237dcefc20c4c72a04cfd9ebe63d9426e0f07a"
           }
         ]
       }
     },
     {
       "map": {
-        "id": 1243,
-        "name": "surf_shady",
-        "thumbnail": "https://cdn.momentum-mod.org/img/5634fde0-2cef-471c-ba03-4246c2edf5b2-small.jpg",
+        "id": 1088,
+        "name": "surf_zen_ez",
+        "thumbnail": "https://cdn.momentum-mod.org/img/c3c001c8-3c95-4c93-9a5c-ee46cdd26e4d-small.jpg",
         "tier": 3,
-        "unique_completions": 54
+        "unique_completions": 1222
       },
       "leaderboard": {
         "users": []
@@ -3345,11 +3282,50 @@
     },
     {
       "map": {
-        "id": 1544,
-        "name": "surf_cosmo",
-        "thumbnail": "https://cdn.momentum-mod.org/img/124a82d6-1086-47a2-bfc5-fdf11f17828c-small.jpg",
+        "id": 1867,
+        "name": "surf_fantasy",
+        "thumbnail": "https://cdn.momentum-mod.org/img/d38470a1-fe4d-42d3-aaec-eb3ed6d2eba1-small.jpg",
         "tier": 3,
-        "unique_completions": 523
+        "unique_completions": 806
+      },
+      "leaderboard": {
+        "users": [
+          {
+            "filter_type": "around",
+            "time": 1272.794971550815,
+            "rank": 274,
+            "userID": 45868,
+            "steamID": "76561198330263258",
+            "alias": "ita.34",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/f5ee96e578a93a7e2b6d3671622310b48da80ca3_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-29T21:08:06.661Z",
+            "replayHash": "70c33a61f5a891dfbfefb67952f88b08242d05a0",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/70c33a61f5a891dfbfefb67952f88b08242d05a0"
+          },
+          {
+            "filter_type": "friends",
+            "time": 91.2299979608506,
+            "rank": 91,
+            "userID": 55340,
+            "steamID": "76561197998679152",
+            "alias": "Francis",
+            "avatarURL": "https://avatars.cloudflare.steamstatic.com/a8091fa7e1c73cf1289ef49f74e105e0c0f5562f_full.jpg",
+            "country": "PT",
+            "createdAt": "2026-03-29T17:42:08.397Z",
+            "replayHash": "5859123f0d9ab3c4be759d1714c84c2c8e33a055",
+            "downloadURL": "https://cdn.momentum-mod.org/runs/5859123f0d9ab3c4be759d1714c84c2c8e33a055"
+          }
+        ]
+      }
+    },
+    {
+      "map": {
+        "id": 426,
+        "name": "surf_lore",
+        "thumbnail": "https://cdn.momentum-mod.org/img/290fa2be-2a81-4e6e-943a-bbf33bd35c29-small.jpg",
+        "tier": 3,
+        "unique_completions": 1245
       },
       "leaderboard": {
         "users": []
@@ -3357,11 +3333,23 @@
     },
     {
       "map": {
-        "id": 1088,
-        "name": "surf_zen_ez",
-        "thumbnail": "https://cdn.momentum-mod.org/img/c3c001c8-3c95-4c93-9a5c-ee46cdd26e4d-small.jpg",
+        "id": 104,
+        "name": "surf_fiellu",
+        "thumbnail": "https://cdn.momentum-mod.org/img/b267398e-29b8-44c6-b7f9-fd9bb8ab3c43-small.jpg",
         "tier": 3,
-        "unique_completions": 1221
+        "unique_completions": 1023
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1077,
+        "name": "surf_carbon",
+        "thumbnail": "https://cdn.momentum-mod.org/img/aca75411-5a6c-44a8-8835-1cbe44b515ff-small.jpg",
+        "tier": 3,
+        "unique_completions": 636
       },
       "leaderboard": {
         "users": []
@@ -3381,11 +3369,11 @@
     },
     {
       "map": {
-        "id": 426,
-        "name": "surf_lore",
-        "thumbnail": "https://cdn.momentum-mod.org/img/290fa2be-2a81-4e6e-943a-bbf33bd35c29-small.jpg",
+        "id": 1243,
+        "name": "surf_shady",
+        "thumbnail": "https://cdn.momentum-mod.org/img/5634fde0-2cef-471c-ba03-4246c2edf5b2-small.jpg",
         "tier": 3,
-        "unique_completions": 1245
+        "unique_completions": 54
       },
       "leaderboard": {
         "users": []
@@ -3405,95 +3393,11 @@
     },
     {
       "map": {
-        "id": 1316,
-        "name": "surf_aeron",
-        "thumbnail": "https://cdn.momentum-mod.org/img/ec96fb9c-183f-4e62-9ec5-371bb2a5f779-small.jpg",
+        "id": 1544,
+        "name": "surf_cosmo",
+        "thumbnail": "https://cdn.momentum-mod.org/img/124a82d6-1086-47a2-bfc5-fdf11f17828c-small.jpg",
         "tier": 3,
-        "unique_completions": 287
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1685,
-        "name": "surf_psychedelia",
-        "thumbnail": "https://cdn.momentum-mod.org/img/57a3024c-d820-4a6f-bdde-3effde00a2fa-small.jpg",
-        "tier": 3,
-        "unique_completions": 255
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 452,
-        "name": "surf_cartoon",
-        "thumbnail": "https://cdn.momentum-mod.org/img/f0b48515-edb0-47be-8211-181560e7f0bb-small.jpg",
-        "tier": 3,
-        "unique_completions": 911
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 820,
-        "name": "surf_boogie_woogie",
-        "thumbnail": "https://cdn.momentum-mod.org/img/52114094-6aff-42dd-8354-ef5701165713-small.jpg",
-        "tier": 3,
-        "unique_completions": 960
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1533,
-        "name": "surf_sci_fi",
-        "thumbnail": "https://cdn.momentum-mod.org/img/15a397c5-17b1-43f2-bd08-ec9ded496a7e-small.jpg",
-        "tier": 3,
-        "unique_completions": 343
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1394,
-        "name": "surf_ember2",
-        "thumbnail": "https://cdn.momentum-mod.org/img/0d77e03d-ac37-4118-a6c4-790b3c9d04d3-small.jpg",
-        "tier": 3,
-        "unique_completions": 989
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1494,
-        "name": "surf_sequoia",
-        "thumbnail": "https://cdn.momentum-mod.org/img/8276ddbc-6947-44d6-a723-431c68223003-small.jpg",
-        "tier": 3,
-        "unique_completions": 175
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1305,
-        "name": "surf_happyhands3",
-        "thumbnail": "https://cdn.momentum-mod.org/img/0565e921-23e1-4df8-9b61-f527950e8c8b-small.jpg",
-        "tier": 3,
-        "unique_completions": 216
+        "unique_completions": 523
       },
       "leaderboard": {
         "users": []
@@ -3513,11 +3417,47 @@
     },
     {
       "map": {
-        "id": 46,
-        "name": "surf_wasteland2",
-        "thumbnail": "https://cdn.momentum-mod.org/img/e9eff977-64ad-4f93-b23e-18490b681870-small.jpg",
+        "id": 1685,
+        "name": "surf_psychedelia",
+        "thumbnail": "https://cdn.momentum-mod.org/img/57a3024c-d820-4a6f-bdde-3effde00a2fa-small.jpg",
         "tier": 3,
-        "unique_completions": 1917
+        "unique_completions": 255
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1316,
+        "name": "surf_aeron",
+        "thumbnail": "https://cdn.momentum-mod.org/img/ec96fb9c-183f-4e62-9ec5-371bb2a5f779-small.jpg",
+        "tier": 3,
+        "unique_completions": 287
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 820,
+        "name": "surf_boogie_woogie",
+        "thumbnail": "https://cdn.momentum-mod.org/img/52114094-6aff-42dd-8354-ef5701165713-small.jpg",
+        "tier": 3,
+        "unique_completions": 960
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1494,
+        "name": "surf_sequoia",
+        "thumbnail": "https://cdn.momentum-mod.org/img/8276ddbc-6947-44d6-a723-431c68223003-small.jpg",
+        "tier": 3,
+        "unique_completions": 175
       },
       "leaderboard": {
         "users": []
@@ -3530,6 +3470,90 @@
         "thumbnail": "https://cdn.momentum-mod.org/img/178f0a03-5c06-4a58-aeb4-93ccd01b6e31-small.jpg",
         "tier": 3,
         "unique_completions": 753
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 452,
+        "name": "surf_cartoon",
+        "thumbnail": "https://cdn.momentum-mod.org/img/f0b48515-edb0-47be-8211-181560e7f0bb-small.jpg",
+        "tier": 3,
+        "unique_completions": 911
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1308,
+        "name": "surf_happyhands5",
+        "thumbnail": "https://cdn.momentum-mod.org/img/d4a3d40f-9524-4538-b701-05d1ed09a853-small.jpg",
+        "tier": 3,
+        "unique_completions": 185
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1255,
+        "name": "surf_beverages",
+        "thumbnail": "https://cdn.momentum-mod.org/img/fd86ed44-ddc3-4844-abb8-044f07d721cd-small.jpg",
+        "tier": 3,
+        "unique_completions": 2067
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1394,
+        "name": "surf_ember2",
+        "thumbnail": "https://cdn.momentum-mod.org/img/0d77e03d-ac37-4118-a6c4-790b3c9d04d3-small.jpg",
+        "tier": 3,
+        "unique_completions": 989
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1305,
+        "name": "surf_happyhands3",
+        "thumbnail": "https://cdn.momentum-mod.org/img/0565e921-23e1-4df8-9b61-f527950e8c8b-small.jpg",
+        "tier": 3,
+        "unique_completions": 216
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1533,
+        "name": "surf_sci_fi",
+        "thumbnail": "https://cdn.momentum-mod.org/img/15a397c5-17b1-43f2-bd08-ec9ded496a7e-small.jpg",
+        "tier": 3,
+        "unique_completions": 343
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1269,
+        "name": "surf_subway",
+        "thumbnail": "https://cdn.momentum-mod.org/img/98327d81-d729-471b-918e-73f637cd826b-small.jpg",
+        "tier": 3,
+        "unique_completions": 538
       },
       "leaderboard": {
         "users": []
@@ -3563,119 +3587,11 @@
     },
     {
       "map": {
-        "id": 1323,
-        "name": "surf_scientist",
-        "thumbnail": "https://cdn.momentum-mod.org/img/3f887684-67e4-4a3b-8aed-6c1123d3469b-small.jpg",
-        "tier": 3,
-        "unique_completions": 664
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1269,
-        "name": "surf_subway",
-        "thumbnail": "https://cdn.momentum-mod.org/img/98327d81-d729-471b-918e-73f637cd826b-small.jpg",
-        "tier": 3,
-        "unique_completions": 538
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
         "id": 1413,
         "name": "surf_inspire",
         "thumbnail": "https://cdn.momentum-mod.org/img/5224ac76-081c-43fe-940b-265cb2738879-small.jpg",
         "tier": 3,
         "unique_completions": 1336
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 890,
-        "name": "surf_boomer",
-        "thumbnail": "https://cdn.momentum-mod.org/img/370a954a-c33b-4a32-b4c8-9f440abd72db-small.jpg",
-        "tier": 3,
-        "unique_completions": 1220
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1279,
-        "name": "surf_pagoda",
-        "thumbnail": "https://cdn.momentum-mod.org/img/362dec22-a060-4e3b-827b-440878976275-small.jpg",
-        "tier": 3,
-        "unique_completions": 1004
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1207,
-        "name": "surf_threnody",
-        "thumbnail": "https://cdn.momentum-mod.org/img/3c868e93-447c-4323-b9df-bc569d774194-small.jpg",
-        "tier": 3,
-        "unique_completions": 1629
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 187,
-        "name": "surf_amnytas",
-        "thumbnail": "https://cdn.momentum-mod.org/img/3ade36e3-b5fa-4dd8-be72-d0e61678e18f-small.jpg",
-        "tier": 3,
-        "unique_completions": 258
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1255,
-        "name": "surf_beverages",
-        "thumbnail": "https://cdn.momentum-mod.org/img/fd86ed44-ddc3-4844-abb8-044f07d721cd-small.jpg",
-        "tier": 3,
-        "unique_completions": 2067
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1308,
-        "name": "surf_happyhands5",
-        "thumbnail": "https://cdn.momentum-mod.org/img/d4a3d40f-9524-4538-b701-05d1ed09a853-small.jpg",
-        "tier": 3,
-        "unique_completions": 185
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1238,
-        "name": "surf_greek",
-        "thumbnail": "https://cdn.momentum-mod.org/img/42b8d9f5-2bba-4e18-886e-1fac2562c5f5-small.jpg",
-        "tier": 3,
-        "unique_completions": 1337
       },
       "leaderboard": {
         "users": []
@@ -3707,11 +3623,107 @@
     },
     {
       "map": {
+        "id": 1238,
+        "name": "surf_greek",
+        "thumbnail": "https://cdn.momentum-mod.org/img/42b8d9f5-2bba-4e18-886e-1fac2562c5f5-small.jpg",
+        "tier": 3,
+        "unique_completions": 1337
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 890,
+        "name": "surf_boomer",
+        "thumbnail": "https://cdn.momentum-mod.org/img/370a954a-c33b-4a32-b4c8-9f440abd72db-small.jpg",
+        "tier": 3,
+        "unique_completions": 1220
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1323,
+        "name": "surf_scientist",
+        "thumbnail": "https://cdn.momentum-mod.org/img/3f887684-67e4-4a3b-8aed-6c1123d3469b-small.jpg",
+        "tier": 3,
+        "unique_completions": 664
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1279,
+        "name": "surf_pagoda",
+        "thumbnail": "https://cdn.momentum-mod.org/img/362dec22-a060-4e3b-827b-440878976275-small.jpg",
+        "tier": 3,
+        "unique_completions": 1004
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 46,
+        "name": "surf_wasteland2",
+        "thumbnail": "https://cdn.momentum-mod.org/img/e9eff977-64ad-4f93-b23e-18490b681870-small.jpg",
+        "tier": 3,
+        "unique_completions": 1918
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 187,
+        "name": "surf_amnytas",
+        "thumbnail": "https://cdn.momentum-mod.org/img/3ade36e3-b5fa-4dd8-be72-d0e61678e18f-small.jpg",
+        "tier": 3,
+        "unique_completions": 258
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1207,
+        "name": "surf_threnody",
+        "thumbnail": "https://cdn.momentum-mod.org/img/3c868e93-447c-4323-b9df-bc569d774194-small.jpg",
+        "tier": 3,
+        "unique_completions": 1629
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
         "id": 611,
         "name": "surf_cubic",
         "thumbnail": "https://cdn.momentum-mod.org/img/3114d6ec-2837-43dc-8008-83fe03e2eddc-small.jpg",
         "tier": 3,
         "unique_completions": 1089
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1104,
+        "name": "surf_whoknows3",
+        "thumbnail": "https://cdn.momentum-mod.org/img/52f6e96f-edfe-4ef9-9811-4254fa54ee98-small.jpg",
+        "tier": 3,
+        "unique_completions": 558
       },
       "leaderboard": {
         "users": []
@@ -3745,47 +3757,11 @@
     },
     {
       "map": {
-        "id": 1104,
-        "name": "surf_whoknows3",
-        "thumbnail": "https://cdn.momentum-mod.org/img/52f6e96f-edfe-4ef9-9811-4254fa54ee98-small.jpg",
-        "tier": 3,
-        "unique_completions": 558
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
         "id": 43,
         "name": "surf_prevail",
         "thumbnail": "https://cdn.momentum-mod.org/img/214bd3af-1525-4ba8-9a2b-cb6e46b30467-small.jpg",
         "tier": 3,
         "unique_completions": 1127
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 500,
-        "name": "surf_squirrelsonvacation",
-        "thumbnail": "https://cdn.momentum-mod.org/img/16298ae2-6acb-45db-9944-0aeea8118d05-small.jpg",
-        "tier": 3,
-        "unique_completions": 1870
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 269,
-        "name": "surf_hellenic",
-        "thumbnail": "https://cdn.momentum-mod.org/img/b2ed1407-d26b-4560-9e39-0846d13e9a5e-small.jpg",
-        "tier": 3,
-        "unique_completions": 1382
       },
       "leaderboard": {
         "users": []
@@ -3810,6 +3786,30 @@
         "thumbnail": "https://cdn.momentum-mod.org/img/f8d247b2-c958-46d8-bc5f-a130abd31f56-small.jpg",
         "tier": 3,
         "unique_completions": 544
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 269,
+        "name": "surf_hellenic",
+        "thumbnail": "https://cdn.momentum-mod.org/img/b2ed1407-d26b-4560-9e39-0846d13e9a5e-small.jpg",
+        "tier": 3,
+        "unique_completions": 1382
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 500,
+        "name": "surf_squirrelsonvacation",
+        "thumbnail": "https://cdn.momentum-mod.org/img/16298ae2-6acb-45db-9944-0aeea8118d05-small.jpg",
+        "tier": 3,
+        "unique_completions": 1870
       },
       "leaderboard": {
         "users": []
