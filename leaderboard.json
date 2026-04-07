@@ -1,237 +1,21 @@
 {
   "metadata": {
-    "fetch_date": "2026-04-07T16:03:40.982001",
+    "fetch_date": "2026-04-07T16:05:45.246861",
     "tier_filter": "all",
     "total_maps": 177,
     "successful_maps": 177,
     "failed_maps": 0,
     "success_rate": "100.0%",
-    "request_id": "2c5d3ffc"
+    "request_id": "3cc654e0"
   },
   "maps": [
     {
       "map": {
-        "id": 992,
-        "name": "surf_hourglass",
-        "thumbnail": "https://cdn.momentum-mod.org/img/0e314411-8a29-4df3-a167-d532f829e928-small.jpg",
+        "id": 1239,
+        "name": "surf_race",
+        "thumbnail": "https://cdn.momentum-mod.org/img/46a19c66-b549-4839-afba-b5cf94c3ef15-small.jpg",
         "tier": 1,
-        "unique_completions": 9456
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 843,
-        "name": "surf_deathstar",
-        "thumbnail": "https://cdn.momentum-mod.org/img/cd13f334-f533-495c-9ef9-9c9cb7945c82-small.jpg",
-        "tier": 1,
-        "unique_completions": 6476
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1284,
-        "name": "surf_calycate",
-        "thumbnail": "https://cdn.momentum-mod.org/img/191bb5b2-2bcd-4f44-aec1-272b5ea65cfe-small.jpg",
-        "tier": 1,
-        "unique_completions": 2970
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1283,
-        "name": "surf_themeless",
-        "thumbnail": "https://cdn.momentum-mod.org/img/680e408c-97a9-405d-ba38-27573c96ea74-small.jpg",
-        "tier": 1,
-        "unique_completions": 6384
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 805,
-        "name": "surf_trance",
-        "thumbnail": "https://cdn.momentum-mod.org/img/df12ad93-8841-4a41-92e4-16d8ff49815c-small.jpg",
-        "tier": 1,
-        "unique_completions": 2931
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1356,
-        "name": "surf_rebel_scaz",
-        "thumbnail": "https://cdn.momentum-mod.org/img/d27870dd-4dd9-492f-aced-9c3053c4c9cb-small.jpg",
-        "tier": 1,
-        "unique_completions": 12437
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 534,
-        "name": "surf_aura",
-        "thumbnail": "https://cdn.momentum-mod.org/img/2801e176-5d23-4356-b514-1a638209ecfb-small.jpg",
-        "tier": 1,
-        "unique_completions": 8182
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1065,
-        "name": "surf_forgotten",
-        "thumbnail": "https://cdn.momentum-mod.org/img/82870791-ae4d-4378-802b-a3c050c0a71f-small.jpg",
-        "tier": 1,
-        "unique_completions": 3487
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1180,
-        "name": "surf_satellite",
-        "thumbnail": "https://cdn.momentum-mod.org/img/d8c34b0b-e9e5-4447-b348-fe36464e256a-small.jpg",
-        "tier": 1,
-        "unique_completions": 5600
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1222,
-        "name": "surf_school",
-        "thumbnail": "https://cdn.momentum-mod.org/img/8f193eb9-1248-450e-adb4-35d3106a5c34-small.jpg",
-        "tier": 1,
-        "unique_completions": 3854
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1456,
-        "name": "surf_colin_blaster_69000",
-        "thumbnail": "https://cdn.momentum-mod.org/img/7ed7bd5e-04d7-4dd1-806c-b7140c820574-small.jpg",
-        "tier": 1,
-        "unique_completions": 6075
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1384,
-        "name": "surf_r-ne",
-        "thumbnail": "https://cdn.momentum-mod.org/img/503ec887-f371-47fd-8fc2-d0a6ebb79146-small.jpg",
-        "tier": 1,
-        "unique_completions": 3392
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 892,
-        "name": "surf_nyx",
-        "thumbnail": "https://cdn.momentum-mod.org/img/05fbd3a0-0e01-4423-80d9-ef655b8b8f52-small.jpg",
-        "tier": 1,
-        "unique_completions": 5677
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 756,
-        "name": "surf_zoomathon",
-        "thumbnail": "https://cdn.momentum-mod.org/img/844500a4-11dd-404a-b92f-9cfcd83c7816-small.jpg",
-        "tier": 1,
-        "unique_completions": 1479
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1182,
-        "name": "surf_artois",
-        "thumbnail": "https://cdn.momentum-mod.org/img/63f609e9-f545-48d5-aaeb-f9a0fd5a2f17-small.jpg",
-        "tier": 1,
-        "unique_completions": 5784
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 898,
-        "name": "surf_lux",
-        "thumbnail": "https://cdn.momentum-mod.org/img/ed67b34d-c48e-4c66-b49e-81c59f66b7c6-small.jpg",
-        "tier": 1,
-        "unique_completions": 8710
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1132,
-        "name": "surf_calycate2",
-        "thumbnail": "https://cdn.momentum-mod.org/img/65df1924-60b2-449f-a3e2-b77be49c4297-small.jpg",
-        "tier": 1,
-        "unique_completions": 3236
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1134,
-        "name": "surf_deoa",
-        "thumbnail": "https://cdn.momentum-mod.org/img/9be7acad-155c-47a2-b154-0e0b927afcdd-small.jpg",
-        "tier": 1,
-        "unique_completions": 2786
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1026,
-        "name": "surf_void",
-        "thumbnail": "https://cdn.momentum-mod.org/img/bc204330-6122-4fa3-aacd-2779ef19712d-small.jpg",
-        "tier": 1,
-        "unique_completions": 8385
+        "unique_completions": 6043
       },
       "leaderboard": {
         "users": []
@@ -251,11 +35,11 @@
     },
     {
       "map": {
-        "id": 255,
-        "name": "surf_andromeda",
-        "thumbnail": "https://cdn.momentum-mod.org/img/344c10df-f7f0-4bcb-a390-688c252e428f-small.jpg",
+        "id": 1026,
+        "name": "surf_void",
+        "thumbnail": "https://cdn.momentum-mod.org/img/bc204330-6122-4fa3-aacd-2779ef19712d-small.jpg",
         "tier": 1,
-        "unique_completions": 17861
+        "unique_completions": 8385
       },
       "leaderboard": {
         "users": []
@@ -263,11 +47,167 @@
     },
     {
       "map": {
-        "id": 1239,
-        "name": "surf_race",
-        "thumbnail": "https://cdn.momentum-mod.org/img/46a19c66-b549-4839-afba-b5cf94c3ef15-small.jpg",
+        "id": 898,
+        "name": "surf_lux",
+        "thumbnail": "https://cdn.momentum-mod.org/img/ed67b34d-c48e-4c66-b49e-81c59f66b7c6-small.jpg",
         "tier": 1,
-        "unique_completions": 6043
+        "unique_completions": 8710
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 270,
+        "name": "surf_n_turf",
+        "thumbnail": "https://cdn.momentum-mod.org/img/f5962e57-1f13-4c8d-8c80-114d2068ecb7-small.jpg",
+        "tier": 1,
+        "unique_completions": 5195
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1132,
+        "name": "surf_calycate2",
+        "thumbnail": "https://cdn.momentum-mod.org/img/65df1924-60b2-449f-a3e2-b77be49c4297-small.jpg",
+        "tier": 1,
+        "unique_completions": 3236
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1222,
+        "name": "surf_school",
+        "thumbnail": "https://cdn.momentum-mod.org/img/8f193eb9-1248-450e-adb4-35d3106a5c34-small.jpg",
+        "tier": 1,
+        "unique_completions": 3854
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1284,
+        "name": "surf_calycate",
+        "thumbnail": "https://cdn.momentum-mod.org/img/191bb5b2-2bcd-4f44-aec1-272b5ea65cfe-small.jpg",
+        "tier": 1,
+        "unique_completions": 2970
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 756,
+        "name": "surf_zoomathon",
+        "thumbnail": "https://cdn.momentum-mod.org/img/844500a4-11dd-404a-b92f-9cfcd83c7816-small.jpg",
+        "tier": 1,
+        "unique_completions": 1479
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1134,
+        "name": "surf_deoa",
+        "thumbnail": "https://cdn.momentum-mod.org/img/9be7acad-155c-47a2-b154-0e0b927afcdd-small.jpg",
+        "tier": 1,
+        "unique_completions": 2786
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 892,
+        "name": "surf_nyx",
+        "thumbnail": "https://cdn.momentum-mod.org/img/05fbd3a0-0e01-4423-80d9-ef655b8b8f52-small.jpg",
+        "tier": 1,
+        "unique_completions": 5677
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1456,
+        "name": "surf_colin_blaster_69000",
+        "thumbnail": "https://cdn.momentum-mod.org/img/7ed7bd5e-04d7-4dd1-806c-b7140c820574-small.jpg",
+        "tier": 1,
+        "unique_completions": 6075
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1182,
+        "name": "surf_artois",
+        "thumbnail": "https://cdn.momentum-mod.org/img/63f609e9-f545-48d5-aaeb-f9a0fd5a2f17-small.jpg",
+        "tier": 1,
+        "unique_completions": 5784
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1384,
+        "name": "surf_r-ne",
+        "thumbnail": "https://cdn.momentum-mod.org/img/503ec887-f371-47fd-8fc2-d0a6ebb79146-small.jpg",
+        "tier": 1,
+        "unique_completions": 3392
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1065,
+        "name": "surf_forgotten",
+        "thumbnail": "https://cdn.momentum-mod.org/img/82870791-ae4d-4378-802b-a3c050c0a71f-small.jpg",
+        "tier": 1,
+        "unique_completions": 3487
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 255,
+        "name": "surf_andromeda",
+        "thumbnail": "https://cdn.momentum-mod.org/img/344c10df-f7f0-4bcb-a390-688c252e428f-small.jpg",
+        "tier": 1,
+        "unique_completions": 17862
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 534,
+        "name": "surf_aura",
+        "thumbnail": "https://cdn.momentum-mod.org/img/2801e176-5d23-4356-b514-1a638209ecfb-small.jpg",
+        "tier": 1,
+        "unique_completions": 8182
       },
       "leaderboard": {
         "users": []
@@ -287,11 +227,83 @@
     },
     {
       "map": {
-        "id": 270,
-        "name": "surf_n_turf",
-        "thumbnail": "https://cdn.momentum-mod.org/img/f5962e57-1f13-4c8d-8c80-114d2068ecb7-small.jpg",
+        "id": 992,
+        "name": "surf_hourglass",
+        "thumbnail": "https://cdn.momentum-mod.org/img/0e314411-8a29-4df3-a167-d532f829e928-small.jpg",
         "tier": 1,
-        "unique_completions": 5195
+        "unique_completions": 9456
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 805,
+        "name": "surf_trance",
+        "thumbnail": "https://cdn.momentum-mod.org/img/df12ad93-8841-4a41-92e4-16d8ff49815c-small.jpg",
+        "tier": 1,
+        "unique_completions": 2931
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 843,
+        "name": "surf_deathstar",
+        "thumbnail": "https://cdn.momentum-mod.org/img/cd13f334-f533-495c-9ef9-9c9cb7945c82-small.jpg",
+        "tier": 1,
+        "unique_completions": 6476
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1180,
+        "name": "surf_satellite",
+        "thumbnail": "https://cdn.momentum-mod.org/img/d8c34b0b-e9e5-4447-b348-fe36464e256a-small.jpg",
+        "tier": 1,
+        "unique_completions": 5600
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1283,
+        "name": "surf_themeless",
+        "thumbnail": "https://cdn.momentum-mod.org/img/680e408c-97a9-405d-ba38-27573c96ea74-small.jpg",
+        "tier": 1,
+        "unique_completions": 6384
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1356,
+        "name": "surf_rebel_scaz",
+        "thumbnail": "https://cdn.momentum-mod.org/img/d27870dd-4dd9-492f-aced-9c3053c4c9cb-small.jpg",
+        "tier": 1,
+        "unique_completions": 12437
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 511,
+        "name": "surf_garden_h",
+        "thumbnail": "https://cdn.momentum-mod.org/img/12270832-ca96-44c6-8206-329fb7ed31e3-small.jpg",
+        "tier": 1,
+        "unique_completions": 9979
       },
       "leaderboard": {
         "users": []
@@ -323,18 +335,6 @@
     },
     {
       "map": {
-        "id": 511,
-        "name": "surf_garden_h",
-        "thumbnail": "https://cdn.momentum-mod.org/img/12270832-ca96-44c6-8206-329fb7ed31e3-small.jpg",
-        "tier": 1,
-        "unique_completions": 9979
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
         "id": 1194,
         "name": "surf_mom",
         "thumbnail": "https://cdn.momentum-mod.org/img/07068497-82e3-486e-ada2-48503b542408-small.jpg",
@@ -359,11 +359,11 @@
     },
     {
       "map": {
-        "id": 265,
-        "name": "surf_demise",
-        "thumbnail": "https://cdn.momentum-mod.org/img/a409c3c9-a2ad-437d-810e-bd912141ad4d-small.jpg",
+        "id": 292,
+        "name": "surf_aesthetic",
+        "thumbnail": "https://cdn.momentum-mod.org/img/945f30e9-1e45-4b94-be43-7d2627aa4443-small.jpg",
         "tier": 1,
-        "unique_completions": 47476
+        "unique_completions": 11980
       },
       "leaderboard": {
         "users": []
@@ -376,6 +376,18 @@
         "thumbnail": "https://cdn.momentum-mod.org/img/ef33d04a-4121-494d-aee2-052d1e5116fd-small.jpg",
         "tier": 1,
         "unique_completions": 7572
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 265,
+        "name": "surf_demise",
+        "thumbnail": "https://cdn.momentum-mod.org/img/a409c3c9-a2ad-437d-810e-bd912141ad4d-small.jpg",
+        "tier": 1,
+        "unique_completions": 47476
       },
       "leaderboard": {
         "users": []
@@ -399,7 +411,7 @@
         "name": "surf_ace",
         "thumbnail": "https://cdn.momentum-mod.org/img/a078c8a5-9847-43e6-9846-d581ae392225-small.jpg",
         "tier": 1,
-        "unique_completions": 16516
+        "unique_completions": 16517
       },
       "leaderboard": {
         "users": []
@@ -419,30 +431,6 @@
     },
     {
       "map": {
-        "id": 665,
-        "name": "surf_kitsune",
-        "thumbnail": "https://cdn.momentum-mod.org/img/1545bc12-835d-4b1d-972c-347b6740ea47-small.jpg",
-        "tier": 1,
-        "unique_completions": 17942
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 292,
-        "name": "surf_aesthetic",
-        "thumbnail": "https://cdn.momentum-mod.org/img/945f30e9-1e45-4b94-be43-7d2627aa4443-small.jpg",
-        "tier": 1,
-        "unique_completions": 11980
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
         "id": 211,
         "name": "surf_santorini",
         "thumbnail": "https://cdn.momentum-mod.org/img/074ae4da-cc1c-4890-9b50-50c65264b405-small.jpg",
@@ -455,59 +443,11 @@
     },
     {
       "map": {
-        "id": 618,
-        "name": "surf_anzchamps",
-        "thumbnail": "https://cdn.momentum-mod.org/img/4e5eb762-5426-4673-9a64-5679b17b7794-small.jpg",
+        "id": 665,
+        "name": "surf_kitsune",
+        "thumbnail": "https://cdn.momentum-mod.org/img/1545bc12-835d-4b1d-972c-347b6740ea47-small.jpg",
         "tier": 1,
-        "unique_completions": 15521
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 963,
-        "name": "surf_reytx",
-        "thumbnail": "https://cdn.momentum-mod.org/img/3fc4441e-67e7-41c2-b2a5-37ab7c6d86f3-small.jpg",
-        "tier": 1,
-        "unique_completions": 14945
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 431,
-        "name": "surf_boreas",
-        "thumbnail": "https://cdn.momentum-mod.org/img/388b7796-41fc-4a8c-9d7b-5e86398e88ad-small.jpg",
-        "tier": 1,
-        "unique_completions": 81842
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 412,
-        "name": "surf_zenith",
-        "thumbnail": "https://cdn.momentum-mod.org/img/28a349f7-32ad-43b0-9596-00b71b56340c-small.jpg",
-        "tier": 2,
-        "unique_completions": 1163
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 894,
-        "name": "surf_ing",
-        "thumbnail": "https://cdn.momentum-mod.org/img/088ced23-bdd1-4b0c-8168-0c144e004165-small.jpg",
-        "tier": 2,
-        "unique_completions": 1462
+        "unique_completions": 17942
       },
       "leaderboard": {
         "users": []
@@ -527,11 +467,11 @@
     },
     {
       "map": {
-        "id": 598,
-        "name": "surf_sofia",
-        "thumbnail": "https://cdn.momentum-mod.org/img/f35d49c7-1718-4f1b-b06a-13590c149158-small.jpg",
+        "id": 963,
+        "name": "surf_reytx",
+        "thumbnail": "https://cdn.momentum-mod.org/img/3fc4441e-67e7-41c2-b2a5-37ab7c6d86f3-small.jpg",
         "tier": 1,
-        "unique_completions": 26386
+        "unique_completions": 14945
       },
       "leaderboard": {
         "users": []
@@ -539,35 +479,11 @@
     },
     {
       "map": {
-        "id": 224,
-        "name": "surf_summit",
-        "thumbnail": "https://cdn.momentum-mod.org/img/d8261a97-e5c2-47a8-b926-a0ef40e3a528-small.jpg",
-        "tier": 1,
-        "unique_completions": 51151
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 172,
-        "name": "surf_nuclear",
-        "thumbnail": "https://cdn.momentum-mod.org/img/656561ed-4fde-4ec2-a3db-2716fbed1ecb-small.jpg",
-        "tier": 1,
-        "unique_completions": 12903
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 20,
-        "name": "surf_utopia",
-        "thumbnail": "https://cdn.momentum-mod.org/img/f39eeaff-ecca-408d-8fa3-c946141dd83d-small.jpg",
-        "tier": 1,
-        "unique_completions": 44211
+        "id": 412,
+        "name": "surf_zenith",
+        "thumbnail": "https://cdn.momentum-mod.org/img/28a349f7-32ad-43b0-9596-00b71b56340c-small.jpg",
+        "tier": 2,
+        "unique_completions": 1163
       },
       "leaderboard": {
         "users": []
@@ -587,11 +503,119 @@
     },
     {
       "map": {
+        "id": 224,
+        "name": "surf_summit",
+        "thumbnail": "https://cdn.momentum-mod.org/img/d8261a97-e5c2-47a8-b926-a0ef40e3a528-small.jpg",
+        "tier": 1,
+        "unique_completions": 51151
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 431,
+        "name": "surf_boreas",
+        "thumbnail": "https://cdn.momentum-mod.org/img/388b7796-41fc-4a8c-9d7b-5e86398e88ad-small.jpg",
+        "tier": 1,
+        "unique_completions": 81842
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 894,
+        "name": "surf_ing",
+        "thumbnail": "https://cdn.momentum-mod.org/img/088ced23-bdd1-4b0c-8168-0c144e004165-small.jpg",
+        "tier": 2,
+        "unique_completions": 1462
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 20,
+        "name": "surf_utopia",
+        "thumbnail": "https://cdn.momentum-mod.org/img/f39eeaff-ecca-408d-8fa3-c946141dd83d-small.jpg",
+        "tier": 1,
+        "unique_completions": 44211
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 618,
+        "name": "surf_anzchamps",
+        "thumbnail": "https://cdn.momentum-mod.org/img/4e5eb762-5426-4673-9a64-5679b17b7794-small.jpg",
+        "tier": 1,
+        "unique_completions": 15521
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 172,
+        "name": "surf_nuclear",
+        "thumbnail": "https://cdn.momentum-mod.org/img/656561ed-4fde-4ec2-a3db-2716fbed1ecb-small.jpg",
+        "tier": 1,
+        "unique_completions": 12903
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 598,
+        "name": "surf_sofia",
+        "thumbnail": "https://cdn.momentum-mod.org/img/f35d49c7-1718-4f1b-b06a-13590c149158-small.jpg",
+        "tier": 1,
+        "unique_completions": 26386
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 819,
+        "name": "surf_spacejam",
+        "thumbnail": "https://cdn.momentum-mod.org/img/a87438ec-47c1-4421-8751-d4c088897842-small.jpg",
+        "tier": 2,
+        "unique_completions": 2119
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
         "id": 1241,
         "name": "surf_spooky",
         "thumbnail": "https://cdn.momentum-mod.org/img/f88500b0-554c-4b6e-af84-1af9f6e930fd-small.jpg",
         "tier": 2,
         "unique_completions": 766
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1266,
+        "name": "surf_in_space",
+        "thumbnail": "https://cdn.momentum-mod.org/img/3478f2de-7ac6-42eb-b7dc-ef4c05be6a24-small.jpg",
+        "tier": 2,
+        "unique_completions": 1599
       },
       "leaderboard": {
         "users": []
@@ -623,23 +647,11 @@
     },
     {
       "map": {
-        "id": 1266,
-        "name": "surf_in_space",
-        "thumbnail": "https://cdn.momentum-mod.org/img/3478f2de-7ac6-42eb-b7dc-ef4c05be6a24-small.jpg",
+        "id": 1268,
+        "name": "surf_semesterbreak",
+        "thumbnail": "https://cdn.momentum-mod.org/img/b58be489-3061-4405-9e82-5c5e03ff1fe0-small.jpg",
         "tier": 2,
-        "unique_completions": 1599
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 819,
-        "name": "surf_spacejam",
-        "thumbnail": "https://cdn.momentum-mod.org/img/a87438ec-47c1-4421-8751-d4c088897842-small.jpg",
-        "tier": 2,
-        "unique_completions": 2119
+        "unique_completions": 485
       },
       "leaderboard": {
         "users": []
@@ -659,18 +671,6 @@
     },
     {
       "map": {
-        "id": 1232,
-        "name": "surf_8bit",
-        "thumbnail": "https://cdn.momentum-mod.org/img/c6fe393b-b1e0-4a4b-b542-f64137071d55-small.jpg",
-        "tier": 2,
-        "unique_completions": 1831
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
         "id": 1251,
         "name": "surf_ardon",
         "thumbnail": "https://cdn.momentum-mod.org/img/ddf04620-cf15-4e47-b478-d5fb44b693b5-small.jpg",
@@ -683,71 +683,11 @@
     },
     {
       "map": {
-        "id": 1268,
-        "name": "surf_semesterbreak",
-        "thumbnail": "https://cdn.momentum-mod.org/img/b58be489-3061-4405-9e82-5c5e03ff1fe0-small.jpg",
+        "id": 1232,
+        "name": "surf_8bit",
+        "thumbnail": "https://cdn.momentum-mod.org/img/c6fe393b-b1e0-4a4b-b542-f64137071d55-small.jpg",
         "tier": 2,
-        "unique_completions": 485
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1578,
-        "name": "surf_ethereal",
-        "thumbnail": "https://cdn.momentum-mod.org/img/1cc25cd0-b196-49b7-8f03-3cab14b33e73-small.jpg",
-        "tier": 2,
-        "unique_completions": 2103
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1751,
-        "name": "surf_zae",
-        "thumbnail": "https://cdn.momentum-mod.org/img/e0f954da-b068-4c8c-93fe-0a916f4339f4-small.jpg",
-        "tier": 2,
-        "unique_completions": 2641
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1461,
-        "name": "surf_interference",
-        "thumbnail": "https://cdn.momentum-mod.org/img/5940bd42-7d7f-4569-9fa9-bac325fb6713-small.jpg",
-        "tier": 2,
-        "unique_completions": 1201
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 48,
-        "name": "surf_skipalot",
-        "thumbnail": "https://cdn.momentum-mod.org/img/b6e73abe-adfe-415f-bd35-b4767d60950e-small.jpg",
-        "tier": 2,
-        "unique_completions": 656
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1667,
-        "name": "surf_wank",
-        "thumbnail": "https://cdn.momentum-mod.org/img/3436947e-9b75-4604-87af-ce981f65d8d4-small.jpg",
-        "tier": 2,
-        "unique_completions": 1091
+        "unique_completions": 1831
       },
       "leaderboard": {
         "users": []
@@ -767,6 +707,18 @@
     },
     {
       "map": {
+        "id": 1461,
+        "name": "surf_interference",
+        "thumbnail": "https://cdn.momentum-mod.org/img/5940bd42-7d7f-4569-9fa9-bac325fb6713-small.jpg",
+        "tier": 2,
+        "unique_completions": 1201
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
         "id": 1748,
         "name": "surf_not_so_disaster",
         "thumbnail": "https://cdn.momentum-mod.org/img/dfa2e982-c86a-428e-bd95-30a86920d37f-small.jpg",
@@ -779,11 +731,11 @@
     },
     {
       "map": {
-        "id": 1662,
-        "name": "surf_4head",
-        "thumbnail": "https://cdn.momentum-mod.org/img/80eddf9a-25ba-4ce1-a9c1-50d7620d8ac6-small.jpg",
+        "id": 1751,
+        "name": "surf_zae",
+        "thumbnail": "https://cdn.momentum-mod.org/img/e0f954da-b068-4c8c-93fe-0a916f4339f4-small.jpg",
         "tier": 2,
-        "unique_completions": 793
+        "unique_completions": 2641
       },
       "leaderboard": {
         "users": []
@@ -791,11 +743,11 @@
     },
     {
       "map": {
-        "id": 1688,
-        "name": "surf_colors",
-        "thumbnail": "https://cdn.momentum-mod.org/img/a05dc6c8-4a81-4a7a-ac9a-b0dea7bf9028-small.jpg",
+        "id": 1578,
+        "name": "surf_ethereal",
+        "thumbnail": "https://cdn.momentum-mod.org/img/1cc25cd0-b196-49b7-8f03-3cab14b33e73-small.jpg",
         "tier": 2,
-        "unique_completions": 1754
+        "unique_completions": 2103
       },
       "leaderboard": {
         "users": []
@@ -803,23 +755,11 @@
     },
     {
       "map": {
-        "id": 1061,
-        "name": "surf_road_to_hell",
-        "thumbnail": "https://cdn.momentum-mod.org/img/38610b7b-212b-4875-a241-985d6bbc0c82-small.jpg",
+        "id": 1667,
+        "name": "surf_wank",
+        "thumbnail": "https://cdn.momentum-mod.org/img/3436947e-9b75-4604-87af-ce981f65d8d4-small.jpg",
         "tier": 2,
-        "unique_completions": 1691
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1213,
-        "name": "surf_ebony",
-        "thumbnail": "https://cdn.momentum-mod.org/img/dc67eaf6-397f-48c7-834e-489ee696f9f2-small.jpg",
-        "tier": 2,
-        "unique_completions": 722
+        "unique_completions": 1091
       },
       "leaderboard": {
         "users": []
@@ -839,11 +779,59 @@
     },
     {
       "map": {
-        "id": 1187,
-        "name": "surf_flow",
-        "thumbnail": "https://cdn.momentum-mod.org/img/11f1384a-b72c-43d2-8f81-1c9c9dc5d025-small.jpg",
+        "id": 1662,
+        "name": "surf_4head",
+        "thumbnail": "https://cdn.momentum-mod.org/img/80eddf9a-25ba-4ce1-a9c1-50d7620d8ac6-small.jpg",
         "tier": 2,
-        "unique_completions": 2036
+        "unique_completions": 793
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1061,
+        "name": "surf_road_to_hell",
+        "thumbnail": "https://cdn.momentum-mod.org/img/38610b7b-212b-4875-a241-985d6bbc0c82-small.jpg",
+        "tier": 2,
+        "unique_completions": 1691
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 48,
+        "name": "surf_skipalot",
+        "thumbnail": "https://cdn.momentum-mod.org/img/b6e73abe-adfe-415f-bd35-b4767d60950e-small.jpg",
+        "tier": 2,
+        "unique_completions": 656
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1688,
+        "name": "surf_colors",
+        "thumbnail": "https://cdn.momentum-mod.org/img/a05dc6c8-4a81-4a7a-ac9a-b0dea7bf9028-small.jpg",
+        "tier": 2,
+        "unique_completions": 1754
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1213,
+        "name": "surf_ebony",
+        "thumbnail": "https://cdn.momentum-mod.org/img/dc67eaf6-397f-48c7-834e-489ee696f9f2-small.jpg",
+        "tier": 2,
+        "unique_completions": 722
       },
       "leaderboard": {
         "users": []
@@ -875,95 +863,23 @@
     },
     {
       "map": {
+        "id": 1187,
+        "name": "surf_flow",
+        "thumbnail": "https://cdn.momentum-mod.org/img/11f1384a-b72c-43d2-8f81-1c9c9dc5d025-small.jpg",
+        "tier": 2,
+        "unique_completions": 2036
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
         "id": 93,
         "name": "surf_apollonian",
         "thumbnail": "https://cdn.momentum-mod.org/img/f807520d-5cb4-47d9-b291-068248308416-small.jpg",
         "tier": 2,
         "unique_completions": 2653
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 734,
-        "name": "surf_aqua",
-        "thumbnail": "https://cdn.momentum-mod.org/img/00366130-f9dc-4c9a-8871-42304cb2f735-small.jpg",
-        "tier": 2,
-        "unique_completions": 1197
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 909,
-        "name": "surf_kepler",
-        "thumbnail": "https://cdn.momentum-mod.org/img/405bf06d-f2bb-4f3e-a0f6-f0bee10c83fe-small.jpg",
-        "tier": 2,
-        "unique_completions": 3911
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 889,
-        "name": "surf_mjk",
-        "thumbnail": "https://cdn.momentum-mod.org/img/5a4b728b-304b-421b-a9d8-ce29c48dc597-small.jpg",
-        "tier": 2,
-        "unique_completions": 434
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 841,
-        "name": "surf_eclipse",
-        "thumbnail": "https://cdn.momentum-mod.org/img/9ab1a28d-8233-4777-8916-d0339101f3f2-small.jpg",
-        "tier": 2,
-        "unique_completions": 1611
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 904,
-        "name": "surf_windrunner",
-        "thumbnail": "https://cdn.momentum-mod.org/img/290073e4-1766-4381-975f-1296f871ff5d-small.jpg",
-        "tier": 2,
-        "unique_completions": 1924
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1569,
-        "name": "surf_frost",
-        "thumbnail": "https://cdn.momentum-mod.org/img/5ef75983-53b7-4c0a-8a24-f018ba78e50b-small.jpg",
-        "tier": 2,
-        "unique_completions": 3527
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 57,
-        "name": "surf_sandtrap2",
-        "thumbnail": "https://cdn.momentum-mod.org/img/f119c37b-216f-4588-b8c3-4e2d379aa661-small.jpg",
-        "tier": 2,
-        "unique_completions": 5487
       },
       "leaderboard": {
         "users": []
@@ -983,6 +899,18 @@
     },
     {
       "map": {
+        "id": 904,
+        "name": "surf_windrunner",
+        "thumbnail": "https://cdn.momentum-mod.org/img/290073e4-1766-4381-975f-1296f871ff5d-small.jpg",
+        "tier": 2,
+        "unique_completions": 1924
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
         "id": 779,
         "name": "surf_glass7",
         "thumbnail": "https://cdn.momentum-mod.org/img/169b5a34-fe0e-4f1e-91dd-aa753cc1fb90-small.jpg",
@@ -995,11 +923,47 @@
     },
     {
       "map": {
-        "id": 1277,
-        "name": "surf_rocco",
-        "thumbnail": "https://cdn.momentum-mod.org/img/65b16700-aadd-4202-8ef2-fbc77835b54a-small.jpg",
+        "id": 734,
+        "name": "surf_aqua",
+        "thumbnail": "https://cdn.momentum-mod.org/img/00366130-f9dc-4c9a-8871-42304cb2f735-small.jpg",
         "tier": 2,
-        "unique_completions": 1693
+        "unique_completions": 1197
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 57,
+        "name": "surf_sandtrap2",
+        "thumbnail": "https://cdn.momentum-mod.org/img/f119c37b-216f-4588-b8c3-4e2d379aa661-small.jpg",
+        "tier": 2,
+        "unique_completions": 5487
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 841,
+        "name": "surf_eclipse",
+        "thumbnail": "https://cdn.momentum-mod.org/img/9ab1a28d-8233-4777-8916-d0339101f3f2-small.jpg",
+        "tier": 2,
+        "unique_completions": 1611
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 889,
+        "name": "surf_mjk",
+        "thumbnail": "https://cdn.momentum-mod.org/img/5a4b728b-304b-421b-a9d8-ce29c48dc597-small.jpg",
+        "tier": 2,
+        "unique_completions": 434
       },
       "leaderboard": {
         "users": []
@@ -1019,11 +983,47 @@
     },
     {
       "map": {
+        "id": 1277,
+        "name": "surf_rocco",
+        "thumbnail": "https://cdn.momentum-mod.org/img/65b16700-aadd-4202-8ef2-fbc77835b54a-small.jpg",
+        "tier": 2,
+        "unique_completions": 1693
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1569,
+        "name": "surf_frost",
+        "thumbnail": "https://cdn.momentum-mod.org/img/5ef75983-53b7-4c0a-8a24-f018ba78e50b-small.jpg",
+        "tier": 2,
+        "unique_completions": 3527
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
         "id": 237,
         "name": "surf_sandtrap",
         "thumbnail": "https://cdn.momentum-mod.org/img/7001c956-e0ca-4939-be1f-adaca632620c-small.jpg",
         "tier": 2,
         "unique_completions": 2185
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 909,
+        "name": "surf_kepler",
+        "thumbnail": "https://cdn.momentum-mod.org/img/405bf06d-f2bb-4f3e-a0f6-f0bee10c83fe-small.jpg",
+        "tier": 2,
+        "unique_completions": 3911
       },
       "leaderboard": {
         "users": []
@@ -1055,18 +1055,6 @@
     },
     {
       "map": {
-        "id": 1365,
-        "name": "surf_sanctuary",
-        "thumbnail": "https://cdn.momentum-mod.org/img/901c4155-8a2a-4b0a-932e-46386f04234b-small.jpg",
-        "tier": 2,
-        "unique_completions": 2137
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
         "id": 1343,
         "name": "surf_whatever",
         "thumbnail": "https://cdn.momentum-mod.org/img/57cc2441-cdb2-4b30-83d0-02798c9597e8-small.jpg",
@@ -1091,30 +1079,6 @@
     },
     {
       "map": {
-        "id": 1308,
-        "name": "surf_happyhands5",
-        "thumbnail": "https://cdn.momentum-mod.org/img/d4a3d40f-9524-4538-b701-05d1ed09a853-small.jpg",
-        "tier": 2,
-        "unique_completions": 2100
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1095,
-        "name": "surf_anoobis",
-        "thumbnail": "https://cdn.momentum-mod.org/img/7af45b27-bbff-4ef2-a2f6-1fe4429691a7-small.jpg",
-        "tier": 2,
-        "unique_completions": 2648
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
         "id": 1324,
         "name": "surf_pinkcubes",
         "thumbnail": "https://cdn.momentum-mod.org/img/41a108ce-a66f-4f0c-aa15-a1c7bf1cbe5d-small.jpg",
@@ -1127,11 +1091,11 @@
     },
     {
       "map": {
-        "id": 306,
-        "name": "surf_tuscany",
-        "thumbnail": "https://cdn.momentum-mod.org/img/a544d90f-d927-47d0-b5c9-6a6e663b0fc3-small.jpg",
+        "id": 1365,
+        "name": "surf_sanctuary",
+        "thumbnail": "https://cdn.momentum-mod.org/img/901c4155-8a2a-4b0a-932e-46386f04234b-small.jpg",
         "tier": 2,
-        "unique_completions": 1704
+        "unique_completions": 2137
       },
       "leaderboard": {
         "users": []
@@ -1151,11 +1115,59 @@
     },
     {
       "map": {
+        "id": 1095,
+        "name": "surf_anoobis",
+        "thumbnail": "https://cdn.momentum-mod.org/img/7af45b27-bbff-4ef2-a2f6-1fe4429691a7-small.jpg",
+        "tier": 2,
+        "unique_completions": 2648
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
         "id": 1231,
         "name": "surf_pandora",
         "thumbnail": "https://cdn.momentum-mod.org/img/f74f1c5d-2083-4d3e-aabb-695b1bb6b417-small.jpg",
         "tier": 2,
         "unique_completions": 1119
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 306,
+        "name": "surf_tuscany",
+        "thumbnail": "https://cdn.momentum-mod.org/img/a544d90f-d927-47d0-b5c9-6a6e663b0fc3-small.jpg",
+        "tier": 2,
+        "unique_completions": 1704
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1308,
+        "name": "surf_happyhands5",
+        "thumbnail": "https://cdn.momentum-mod.org/img/d4a3d40f-9524-4538-b701-05d1ed09a853-small.jpg",
+        "tier": 2,
+        "unique_completions": 2100
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 226,
+        "name": "surf_kloakk",
+        "thumbnail": "https://cdn.momentum-mod.org/img/47ed43c2-5bcf-4684-9ce5-a3dd2d2a1143-small.jpg",
+        "tier": 2,
+        "unique_completions": 3367
       },
       "leaderboard": {
         "users": []
@@ -1175,6 +1187,18 @@
     },
     {
       "map": {
+        "id": 1261,
+        "name": "surf_tensile",
+        "thumbnail": "https://cdn.momentum-mod.org/img/2b394d63-cd86-4ace-b5ab-ca8934b074a4-small.jpg",
+        "tier": 2,
+        "unique_completions": 1006
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
         "id": 1260,
         "name": "surf_giza",
         "thumbnail": "https://cdn.momentum-mod.org/img/cb49e1b8-e84f-4527-9c77-48c42addea4f-small.jpg",
@@ -1187,11 +1211,23 @@
     },
     {
       "map": {
-        "id": 226,
-        "name": "surf_kloakk",
-        "thumbnail": "https://cdn.momentum-mod.org/img/47ed43c2-5bcf-4684-9ce5-a3dd2d2a1143-small.jpg",
+        "id": 1021,
+        "name": "surf_moonkingdom",
+        "thumbnail": "https://cdn.momentum-mod.org/img/f1d055cd-3880-4289-b23c-46ffe111e76b-small.jpg",
         "tier": 2,
-        "unique_completions": 3367
+        "unique_completions": 2309
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1178,
+        "name": "surf_fortum",
+        "thumbnail": "https://cdn.momentum-mod.org/img/0215a456-9abf-462c-9f0d-89d41fa7866c-small.jpg",
+        "tier": 2,
+        "unique_completions": 3216
       },
       "leaderboard": {
         "users": []
@@ -1223,6 +1259,30 @@
     },
     {
       "map": {
+        "id": 1212,
+        "name": "surf_holiday",
+        "thumbnail": "https://cdn.momentum-mod.org/img/554436de-e157-4376-9e47-5b4e992a84a3-small.jpg",
+        "tier": 2,
+        "unique_completions": 2058
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1258,
+        "name": "surf_delight",
+        "thumbnail": "https://cdn.momentum-mod.org/img/190ea6aa-a350-4ba2-8923-80534a603e5c-small.jpg",
+        "tier": 2,
+        "unique_completions": 1675
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
         "id": 1188,
         "name": "surf_greensway",
         "thumbnail": "https://cdn.momentum-mod.org/img/21573e63-6ad3-42df-8abb-090bbb67d96a-small.jpg",
@@ -1247,78 +1307,6 @@
     },
     {
       "map": {
-        "id": 103,
-        "name": "surf_echo",
-        "thumbnail": "https://cdn.momentum-mod.org/img/bd399575-82ca-46dc-ad46-f4ae5bb59393-small.jpg",
-        "tier": 2,
-        "unique_completions": 4648
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1261,
-        "name": "surf_tensile",
-        "thumbnail": "https://cdn.momentum-mod.org/img/2b394d63-cd86-4ace-b5ab-ca8934b074a4-small.jpg",
-        "tier": 2,
-        "unique_completions": 1006
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1021,
-        "name": "surf_moonkingdom",
-        "thumbnail": "https://cdn.momentum-mod.org/img/f1d055cd-3880-4289-b23c-46ffe111e76b-small.jpg",
-        "tier": 2,
-        "unique_completions": 2309
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1258,
-        "name": "surf_delight",
-        "thumbnail": "https://cdn.momentum-mod.org/img/190ea6aa-a350-4ba2-8923-80534a603e5c-small.jpg",
-        "tier": 2,
-        "unique_completions": 1675
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 784,
-        "name": "surf_glass9",
-        "thumbnail": "https://cdn.momentum-mod.org/img/f583d1f4-a011-4ca8-b629-a768544f8c48-small.jpg",
-        "tier": 2,
-        "unique_completions": 1564
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1212,
-        "name": "surf_holiday",
-        "thumbnail": "https://cdn.momentum-mod.org/img/554436de-e157-4376-9e47-5b4e992a84a3-small.jpg",
-        "tier": 2,
-        "unique_completions": 2058
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
         "id": 1025,
         "name": "surf_stonks",
         "thumbnail": "https://cdn.momentum-mod.org/img/2814129c-b227-4b0a-9f17-db52ca5e1b40-small.jpg",
@@ -1331,35 +1319,11 @@
     },
     {
       "map": {
-        "id": 1178,
-        "name": "surf_fortum",
-        "thumbnail": "https://cdn.momentum-mod.org/img/0215a456-9abf-462c-9f0d-89d41fa7866c-small.jpg",
+        "id": 103,
+        "name": "surf_echo",
+        "thumbnail": "https://cdn.momentum-mod.org/img/bd399575-82ca-46dc-ad46-f4ae5bb59393-small.jpg",
         "tier": 2,
-        "unique_completions": 3216
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 982,
-        "name": "surf_cyberwave",
-        "thumbnail": "https://cdn.momentum-mod.org/img/b2ae0823-128b-4126-b6ad-4068f76ab342-small.jpg",
-        "tier": 2,
-        "unique_completions": 7998
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 54,
-        "name": "surf_zealand",
-        "thumbnail": "https://cdn.momentum-mod.org/img/0ee9a34d-00f8-41c1-9980-eadb67c095bc-small.jpg",
-        "tier": 2,
-        "unique_completions": 2196
+        "unique_completions": 4648
       },
       "leaderboard": {
         "users": []
@@ -1379,11 +1343,11 @@
     },
     {
       "map": {
-        "id": 999,
-        "name": "surf_everdark",
-        "thumbnail": "https://cdn.momentum-mod.org/img/95f53ebd-9bac-4433-bb5a-93b99fbc8057-small.jpg",
+        "id": 54,
+        "name": "surf_zealand",
+        "thumbnail": "https://cdn.momentum-mod.org/img/0ee9a34d-00f8-41c1-9980-eadb67c095bc-small.jpg",
         "tier": 2,
-        "unique_completions": 782
+        "unique_completions": 2196
       },
       "leaderboard": {
         "users": []
@@ -1391,11 +1355,11 @@
     },
     {
       "map": {
-        "id": 283,
-        "name": "surf_fruits",
-        "thumbnail": "https://cdn.momentum-mod.org/img/96a879f2-ed15-453f-a5db-101bd5c2aad4-small.jpg",
+        "id": 784,
+        "name": "surf_glass9",
+        "thumbnail": "https://cdn.momentum-mod.org/img/f583d1f4-a011-4ca8-b629-a768544f8c48-small.jpg",
         "tier": 2,
-        "unique_completions": 2532
+        "unique_completions": 1564
       },
       "leaderboard": {
         "users": []
@@ -1415,11 +1379,35 @@
     },
     {
       "map": {
+        "id": 999,
+        "name": "surf_everdark",
+        "thumbnail": "https://cdn.momentum-mod.org/img/95f53ebd-9bac-4433-bb5a-93b99fbc8057-small.jpg",
+        "tier": 2,
+        "unique_completions": 782
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
         "id": 88,
         "name": "surf_indecisive",
         "thumbnail": "https://cdn.momentum-mod.org/img/c3b0590e-7eda-4ee6-a73e-b99ab5e292a3-small.jpg",
         "tier": 2,
         "unique_completions": 5219
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 283,
+        "name": "surf_fruits",
+        "thumbnail": "https://cdn.momentum-mod.org/img/96a879f2-ed15-453f-a5db-101bd5c2aad4-small.jpg",
+        "tier": 2,
+        "unique_completions": 2532
       },
       "leaderboard": {
         "users": []
@@ -1451,11 +1439,35 @@
     },
     {
       "map": {
+        "id": 982,
+        "name": "surf_cyberwave",
+        "thumbnail": "https://cdn.momentum-mod.org/img/b2ae0823-128b-4126-b6ad-4068f76ab342-small.jpg",
+        "tier": 2,
+        "unique_completions": 7998
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
         "id": 68,
         "name": "surf_palais",
         "thumbnail": "https://cdn.momentum-mod.org/img/5317110e-124a-481e-beea-31656e9b6920-small.jpg",
         "tier": 2,
         "unique_completions": 2979
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 176,
+        "name": "surf_rookie",
+        "thumbnail": "https://cdn.momentum-mod.org/img/68947d24-f6fa-4b32-8bba-d54a5a447ae7-small.jpg",
+        "tier": 2,
+        "unique_completions": 7493
       },
       "leaderboard": {
         "users": []
@@ -1499,18 +1511,6 @@
     },
     {
       "map": {
-        "id": 83,
-        "name": "surf_ivory",
-        "thumbnail": "https://cdn.momentum-mod.org/img/9b7e8414-04c3-45be-8ab2-afbc755c4434-small.jpg",
-        "tier": 2,
-        "unique_completions": 2558
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
         "id": 30,
         "name": "surf_sunnyhappylove",
         "thumbnail": "https://cdn.momentum-mod.org/img/74e10830-285b-4c9f-a501-d3ab203f8418-small.jpg",
@@ -1523,11 +1523,11 @@
     },
     {
       "map": {
-        "id": 176,
-        "name": "surf_rookie",
-        "thumbnail": "https://cdn.momentum-mod.org/img/68947d24-f6fa-4b32-8bba-d54a5a447ae7-small.jpg",
+        "id": 51,
+        "name": "surf_pipeline",
+        "thumbnail": "https://cdn.momentum-mod.org/img/48c42272-892d-41d7-9d96-d371047bb146-small.jpg",
         "tier": 2,
-        "unique_completions": 7493
+        "unique_completions": 1368
       },
       "leaderboard": {
         "users": []
@@ -1535,11 +1535,11 @@
     },
     {
       "map": {
-        "id": 51,
-        "name": "surf_pipeline",
-        "thumbnail": "https://cdn.momentum-mod.org/img/48c42272-892d-41d7-9d96-d371047bb146-small.jpg",
+        "id": 83,
+        "name": "surf_ivory",
+        "thumbnail": "https://cdn.momentum-mod.org/img/9b7e8414-04c3-45be-8ab2-afbc755c4434-small.jpg",
         "tier": 2,
-        "unique_completions": 1368
+        "unique_completions": 2558
       },
       "leaderboard": {
         "users": []
@@ -1571,6 +1571,18 @@
     },
     {
       "map": {
+        "id": 1593,
+        "name": "surf_beginner_hell",
+        "thumbnail": "https://cdn.momentum-mod.org/img/4f2d5492-9f37-45c0-af7f-c02e9e2f1380-small.jpg",
+        "tier": 2,
+        "unique_completions": 12770
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
         "id": 238,
         "name": "surf_island",
         "thumbnail": "https://cdn.momentum-mod.org/img/adef49db-a871-4cdb-a401-d28b4e1c71b1-small.jpg",
@@ -1595,23 +1607,11 @@
     },
     {
       "map": {
-        "id": 1593,
-        "name": "surf_beginner_hell",
-        "thumbnail": "https://cdn.momentum-mod.org/img/4f2d5492-9f37-45c0-af7f-c02e9e2f1380-small.jpg",
-        "tier": 2,
-        "unique_completions": 12770
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1088,
-        "name": "surf_zen_ez",
-        "thumbnail": "https://cdn.momentum-mod.org/img/c3c001c8-3c95-4c93-9a5c-ee46cdd26e4d-small.jpg",
+        "id": 1077,
+        "name": "surf_carbon",
+        "thumbnail": "https://cdn.momentum-mod.org/img/aca75411-5a6c-44a8-8835-1cbe44b515ff-small.jpg",
         "tier": 3,
-        "unique_completions": 1221
+        "unique_completions": 629
       },
       "leaderboard": {
         "users": []
@@ -1631,11 +1631,11 @@
     },
     {
       "map": {
-        "id": 1077,
-        "name": "surf_carbon",
-        "thumbnail": "https://cdn.momentum-mod.org/img/aca75411-5a6c-44a8-8835-1cbe44b515ff-small.jpg",
+        "id": 1088,
+        "name": "surf_zen_ez",
+        "thumbnail": "https://cdn.momentum-mod.org/img/c3c001c8-3c95-4c93-9a5c-ee46cdd26e4d-small.jpg",
         "tier": 3,
-        "unique_completions": 628
+        "unique_completions": 1221
       },
       "leaderboard": {
         "users": []
@@ -1643,11 +1643,11 @@
     },
     {
       "map": {
-        "id": 104,
-        "name": "surf_fiellu",
-        "thumbnail": "https://cdn.momentum-mod.org/img/b267398e-29b8-44c6-b7f9-fd9bb8ab3c43-small.jpg",
+        "id": 1867,
+        "name": "surf_fantasy",
+        "thumbnail": "https://cdn.momentum-mod.org/img/d38470a1-fe4d-42d3-aaec-eb3ed6d2eba1-small.jpg",
         "tier": 3,
-        "unique_completions": 1023
+        "unique_completions": 803
       },
       "leaderboard": {
         "users": []
@@ -1667,35 +1667,11 @@
     },
     {
       "map": {
-        "id": 1307,
-        "name": "surf_mesa_aether",
-        "thumbnail": "https://cdn.momentum-mod.org/img/9809873e-977f-4d62-97ad-aaef8733050b-small.jpg",
+        "id": 104,
+        "name": "surf_fiellu",
+        "thumbnail": "https://cdn.momentum-mod.org/img/b267398e-29b8-44c6-b7f9-fd9bb8ab3c43-small.jpg",
         "tier": 3,
-        "unique_completions": 547
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1596,
-        "name": "surf_low_production",
-        "thumbnail": "https://cdn.momentum-mod.org/img/55134cec-dc10-43af-b3f0-30093ab8285e-small.jpg",
-        "tier": 3,
-        "unique_completions": 495
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1867,
-        "name": "surf_fantasy",
-        "thumbnail": "https://cdn.momentum-mod.org/img/d38470a1-fe4d-42d3-aaec-eb3ed6d2eba1-small.jpg",
-        "tier": 3,
-        "unique_completions": 803
+        "unique_completions": 1023
       },
       "leaderboard": {
         "users": []
@@ -1727,6 +1703,18 @@
     },
     {
       "map": {
+        "id": 1596,
+        "name": "surf_low_production",
+        "thumbnail": "https://cdn.momentum-mod.org/img/55134cec-dc10-43af-b3f0-30093ab8285e-small.jpg",
+        "tier": 3,
+        "unique_completions": 495
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
         "id": 426,
         "name": "surf_lore",
         "thumbnail": "https://cdn.momentum-mod.org/img/290fa2be-2a81-4e6e-943a-bbf33bd35c29-small.jpg",
@@ -1739,11 +1727,11 @@
     },
     {
       "map": {
-        "id": 1316,
-        "name": "surf_aeron",
-        "thumbnail": "https://cdn.momentum-mod.org/img/ec96fb9c-183f-4e62-9ec5-371bb2a5f779-small.jpg",
+        "id": 1307,
+        "name": "surf_mesa_aether",
+        "thumbnail": "https://cdn.momentum-mod.org/img/9809873e-977f-4d62-97ad-aaef8733050b-small.jpg",
         "tier": 3,
-        "unique_completions": 287
+        "unique_completions": 547
       },
       "leaderboard": {
         "users": []
@@ -1756,6 +1744,18 @@
         "thumbnail": "https://cdn.momentum-mod.org/img/a7c1fa63-774b-4441-b087-e5e485aaae07-small.jpg",
         "tier": 3,
         "unique_completions": 507
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1316,
+        "name": "surf_aeron",
+        "thumbnail": "https://cdn.momentum-mod.org/img/ec96fb9c-183f-4e62-9ec5-371bb2a5f779-small.jpg",
+        "tier": 3,
+        "unique_completions": 287
       },
       "leaderboard": {
         "users": []
@@ -1823,35 +1823,23 @@
     },
     {
       "map": {
-        "id": 1533,
-        "name": "surf_sci_fi",
-        "thumbnail": "https://cdn.momentum-mod.org/img/15a397c5-17b1-43f2-bd08-ec9ded496a7e-small.jpg",
-        "tier": 3,
-        "unique_completions": 343
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1304,
-        "name": "surf_happyhands2",
-        "thumbnail": "https://cdn.momentum-mod.org/img/ffe125a5-faf3-4476-8975-f2dbdc1e4845-small.jpg",
-        "tier": 3,
-        "unique_completions": 256
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
         "id": 1394,
         "name": "surf_ember2",
         "thumbnail": "https://cdn.momentum-mod.org/img/0d77e03d-ac37-4118-a6c4-790b3c9d04d3-small.jpg",
         "tier": 3,
         "unique_completions": 989
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1533,
+        "name": "surf_sci_fi",
+        "thumbnail": "https://cdn.momentum-mod.org/img/15a397c5-17b1-43f2-bd08-ec9ded496a7e-small.jpg",
+        "tier": 3,
+        "unique_completions": 343
       },
       "leaderboard": {
         "users": []
@@ -1883,11 +1871,47 @@
     },
     {
       "map": {
+        "id": 1269,
+        "name": "surf_subway",
+        "thumbnail": "https://cdn.momentum-mod.org/img/98327d81-d729-471b-918e-73f637cd826b-small.jpg",
+        "tier": 3,
+        "unique_completions": 538
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
         "id": 1305,
         "name": "surf_happyhands3",
         "thumbnail": "https://cdn.momentum-mod.org/img/0565e921-23e1-4df8-9b61-f527950e8c8b-small.jpg",
         "tier": 3,
         "unique_completions": 216
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1413,
+        "name": "surf_inspire",
+        "thumbnail": "https://cdn.momentum-mod.org/img/5224ac76-081c-43fe-940b-265cb2738879-small.jpg",
+        "tier": 3,
+        "unique_completions": 1336
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1304,
+        "name": "surf_happyhands2",
+        "thumbnail": "https://cdn.momentum-mod.org/img/ffe125a5-faf3-4476-8975-f2dbdc1e4845-small.jpg",
+        "tier": 3,
+        "unique_completions": 256
       },
       "leaderboard": {
         "users": []
@@ -1919,30 +1943,6 @@
     },
     {
       "map": {
-        "id": 890,
-        "name": "surf_boomer",
-        "thumbnail": "https://cdn.momentum-mod.org/img/370a954a-c33b-4a32-b4c8-9f440abd72db-small.jpg",
-        "tier": 3,
-        "unique_completions": 1220
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1413,
-        "name": "surf_inspire",
-        "thumbnail": "https://cdn.momentum-mod.org/img/5224ac76-081c-43fe-940b-265cb2738879-small.jpg",
-        "tier": 3,
-        "unique_completions": 1336
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
         "id": 1238,
         "name": "surf_greek",
         "thumbnail": "https://cdn.momentum-mod.org/img/42b8d9f5-2bba-4e18-886e-1fac2562c5f5-small.jpg",
@@ -1967,47 +1967,11 @@
     },
     {
       "map": {
-        "id": 1323,
-        "name": "surf_scientist",
-        "thumbnail": "https://cdn.momentum-mod.org/img/3f887684-67e4-4a3b-8aed-6c1123d3469b-small.jpg",
+        "id": 890,
+        "name": "surf_boomer",
+        "thumbnail": "https://cdn.momentum-mod.org/img/370a954a-c33b-4a32-b4c8-9f440abd72db-small.jpg",
         "tier": 3,
-        "unique_completions": 664
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1269,
-        "name": "surf_subway",
-        "thumbnail": "https://cdn.momentum-mod.org/img/98327d81-d729-471b-918e-73f637cd826b-small.jpg",
-        "tier": 3,
-        "unique_completions": 538
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 1207,
-        "name": "surf_threnody",
-        "thumbnail": "https://cdn.momentum-mod.org/img/3c868e93-447c-4323-b9df-bc569d774194-small.jpg",
-        "tier": 3,
-        "unique_completions": 1629
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 187,
-        "name": "surf_amnytas",
-        "thumbnail": "https://cdn.momentum-mod.org/img/3ade36e3-b5fa-4dd8-be72-d0e61678e18f-small.jpg",
-        "tier": 3,
-        "unique_completions": 258
+        "unique_completions": 1220
       },
       "leaderboard": {
         "users": []
@@ -2027,11 +1991,35 @@
     },
     {
       "map": {
-        "id": 1104,
-        "name": "surf_whoknows3",
-        "thumbnail": "https://cdn.momentum-mod.org/img/52f6e96f-edfe-4ef9-9811-4254fa54ee98-small.jpg",
+        "id": 1323,
+        "name": "surf_scientist",
+        "thumbnail": "https://cdn.momentum-mod.org/img/3f887684-67e4-4a3b-8aed-6c1123d3469b-small.jpg",
         "tier": 3,
-        "unique_completions": 558
+        "unique_completions": 664
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 187,
+        "name": "surf_amnytas",
+        "thumbnail": "https://cdn.momentum-mod.org/img/3ade36e3-b5fa-4dd8-be72-d0e61678e18f-small.jpg",
+        "tier": 3,
+        "unique_completions": 258
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 1207,
+        "name": "surf_threnody",
+        "thumbnail": "https://cdn.momentum-mod.org/img/3c868e93-447c-4323-b9df-bc569d774194-small.jpg",
+        "tier": 3,
+        "unique_completions": 1629
       },
       "leaderboard": {
         "users": []
@@ -2051,11 +2039,11 @@
     },
     {
       "map": {
-        "id": 611,
-        "name": "surf_cubic",
-        "thumbnail": "https://cdn.momentum-mod.org/img/3114d6ec-2837-43dc-8008-83fe03e2eddc-small.jpg",
+        "id": 43,
+        "name": "surf_prevail",
+        "thumbnail": "https://cdn.momentum-mod.org/img/214bd3af-1525-4ba8-9a2b-cb6e46b30467-small.jpg",
         "tier": 3,
-        "unique_completions": 1089
+        "unique_completions": 1127
       },
       "leaderboard": {
         "users": []
@@ -2063,11 +2051,23 @@
     },
     {
       "map": {
-        "id": 43,
-        "name": "surf_prevail",
-        "thumbnail": "https://cdn.momentum-mod.org/img/214bd3af-1525-4ba8-9a2b-cb6e46b30467-small.jpg",
+        "id": 1104,
+        "name": "surf_whoknows3",
+        "thumbnail": "https://cdn.momentum-mod.org/img/52f6e96f-edfe-4ef9-9811-4254fa54ee98-small.jpg",
         "tier": 3,
-        "unique_completions": 1127
+        "unique_completions": 558
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 611,
+        "name": "surf_cubic",
+        "thumbnail": "https://cdn.momentum-mod.org/img/3114d6ec-2837-43dc-8008-83fe03e2eddc-small.jpg",
+        "tier": 3,
+        "unique_completions": 1089
       },
       "leaderboard": {
         "users": []
@@ -2087,30 +2087,6 @@
     },
     {
       "map": {
-        "id": 926,
-        "name": "surf_executioner",
-        "thumbnail": "https://cdn.momentum-mod.org/img/f8d247b2-c958-46d8-bc5f-a130abd31f56-small.jpg",
-        "tier": 3,
-        "unique_completions": 544
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
-        "id": 796,
-        "name": "surf_kvas",
-        "thumbnail": "https://cdn.momentum-mod.org/img/cc4a9157-70b9-425f-a145-77477706e172-small.jpg",
-        "tier": 3,
-        "unique_completions": 1211
-      },
-      "leaderboard": {
-        "users": []
-      }
-    },
-    {
-      "map": {
         "id": 269,
         "name": "surf_hellenic",
         "thumbnail": "https://cdn.momentum-mod.org/img/b2ed1407-d26b-4560-9e39-0846d13e9a5e-small.jpg",
@@ -2123,11 +2099,35 @@
     },
     {
       "map": {
+        "id": 926,
+        "name": "surf_executioner",
+        "thumbnail": "https://cdn.momentum-mod.org/img/f8d247b2-c958-46d8-bc5f-a130abd31f56-small.jpg",
+        "tier": 3,
+        "unique_completions": 544
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
         "id": 629,
         "name": "surf_krow10",
         "thumbnail": "https://cdn.momentum-mod.org/img/8940ffd7-b943-4e09-a355-dd218083f988-small.jpg",
         "tier": 3,
         "unique_completions": 1649
+      },
+      "leaderboard": {
+        "users": []
+      }
+    },
+    {
+      "map": {
+        "id": 796,
+        "name": "surf_kvas",
+        "thumbnail": "https://cdn.momentum-mod.org/img/cc4a9157-70b9-425f-a145-77477706e172-small.jpg",
+        "tier": 3,
+        "unique_completions": 1211
       },
       "leaderboard": {
         "users": []
